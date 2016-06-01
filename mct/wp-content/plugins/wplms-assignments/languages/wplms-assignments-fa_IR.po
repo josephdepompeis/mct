@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Assignments 1.9.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-02 15:38+0530\n"
+"PO-Revision-Date: 2016-04-02 15:38+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Atlasyar <info@atlasyar.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"assignments/\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-assignments\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:64
+msgid ""
+"This step is irreversible. All Assignment submissions would be reset for "
+"this user. Are you sure you want to Reset the Assignment for this User? "
+msgstr ""
+"این مرحله غیر قابل برگشت است. همه تکالیف ارسال شده برای این دانشجو بازنشانی "
+"خواهد شد. آیا از انجام این کار مطمئن هستید؟"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:65
+msgid "Confirm, Assignment reset for this User"
+msgstr "تائید، تکلیف برای  دانشجو بازنشانی شود"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:66
+msgid "Marks Saved"
+msgstr "نمره ذخیره شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:67
+msgid "Assignment Marks Saved"
+msgstr "نمره تکلیف ذخیره شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:68
+msgid "Cancel"
+msgstr "لغو"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:69
+msgid "Incorrect file format "
+msgstr "فرمت نادرست فایل "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/wplms-assignments.php:70
+msgid "File already selected "
+msgstr "فایل، در حال حاضر انتخاب شده "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "نام کاربری  Envato Marketplace خود را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Envato Marketplace API Key خود را وارد کنید."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\" یک پارامتر اجباری می باشد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Envato Marketplace \"item ID\" یک پارامتر اجباری می باشد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:377
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "خطا HTTP غیر مترقبه در درخواست API رخ داده است."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:377
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:542
+msgid "Try again"
+msgstr "دوباره تلاش کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:418
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناخته رخ داده است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:454
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"این افزونه به روز شده است، اما نمی تواند دوباره فعال شود. لطفا آن را به صورت "
+"دستی دوباره فعال کنید.."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:455
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه باموفقیت دوباره فعال شد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:477
+msgid " Plugin Updates"
+msgstr " به روز رسانی های افزونه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:516
+msgid "Username: "
+msgstr "نام کاربری:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:520
+msgid "Email: "
+msgstr "ایمیل:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:526
+msgid "Key: "
+msgstr "کلید:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:532
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>بروزرسانی افزونه شما <span style=\"color:green\">فعال است</span></p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:536
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">نامعتبر است</span>,به روز رسانی "
+"خودکار<span style=\"color:red\">فعال نیست</span>.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:537
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:541
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به اعتبارسنجی فعالسازی بروزرسانی نمی باشد.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:547
+msgid "Add Key"
+msgstr "افزودن کلید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:633
+msgid "User name"
+msgstr "نام کاربری"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:639
+msgid "Email"
+msgstr "ایمیل"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/autoupdate/class-plugin-update.php:648
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری Themefores (برای بروزرسانی اتوماتیک)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:114
+#, fuzzy
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی شکست خورد!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:154
+#, fuzzy
+msgid "Reset Assignment for User"
+msgstr "استاد تکلیف را برای دانشجو بازنشانی کرد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:155
+#, fuzzy
+msgid "Evaluate Assignment : "
+msgstr " در تکلیف:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:163
+msgid "No submissions found !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:224
+msgid "Assignment Attachment deleted."
+msgstr "ضمیمه تکلیف حذف شد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:290
+msgid "Upload Assignment"
+msgstr "آپلود تکلیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:799
+msgid "Allowed file types"
+msgstr "انواع فایل های مجاز"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:799
+msgid "maximum file size"
+msgstr "حداکثر سایز فایل"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:799
+msgid "MB(s)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:804
+msgid "RECENTLY UPLOADED"
+msgstr "جدیدا آپلود شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:882
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:886
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:888
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:890
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:892
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:894
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:896
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:898
+msgid "ERROR:"
+msgstr "خطا:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:882
+msgid "File you upload must be valid file type"
+msgstr "فایل آپلودی شما باید از انواع فایل های معتبر باشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:882
+msgid ", and under "
+msgstr ", و زیر "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:882
+msgid "MB(s)!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:886
+msgid "Please upload an Attachment."
+msgstr "لطفا یک ضمیمه آپلود کنید."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:888
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+"سایز فایل آپلودی شما از میزان مجاز تعیین شده در دایرکتیو upload_max_filesize "
+"در فایل php.ini تجاوز کرده است."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:890
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+"سایز فایل آپلودی شما از میزان مجاز تعیین شده در دایرکتیو MAX_FILE_SIZE در "
+"فرم HTML تجاوز کرده است."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:892
+msgid "The uploaded file was only partially uploaded. Please try again later."
+msgstr "تنها بخشی از فایل شما آپلود شد. لطفا دوباره تلاش کنید."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:894
+msgid "Missing a temporary folder."
+msgstr "یک پوشه موقت از دست رفته است."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:896
+msgid "Failed to write file to disk."
+msgstr "نوشتن فایل بر روی دیسک شکست خورد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:898
+msgid "A PHP extension stopped the file upload."
+msgstr "یک PHP extension مانع از آپلود فایل شد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:922
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:927
+msgid "Attachment:"
+msgstr "ضمیمه:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:1044
+msgid "Download"
+msgstr "دانلود"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:1118
+msgid "Delete Attachment"
+msgstr "حذف ضمیمه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments.php:1152
+#, php-format
+msgid ""
+"Regarding WPLMS Assignments Upload Assignment Functionality : It seems like "
+"your PHP installation is missing \"mime_content_type\" or \"finfo_file\" "
+"functions which are crucial for detecting file types of uploaded "
+"attachments. Please update your PHP installation OR be very careful with "
+"allowed file types, so intruders won't be able to upload dangerous code to "
+"your website! | <a href=\"%1$s\">Hide Notice</a>"
+msgstr ""
+"باتوجه به قابلیت آپلود تکلیف در WPLMS Assignments : به نظر می رسد که نصب PHP "
+"شما فاقد عملکرد های  \"mime_content_type\" و \"finfo_file\" می باشد که برای "
+"تشخیص انواع فایل ضمایم آپلود شده ضروری می باشد. لطفا نصب PHP خود را "
+"بروزرسانی کرده یا خیلی مراقب نوع فایل های مجاز باشید تا مزاحمان قادر به "
+"آپلود کدهای خطرناک به وبسایت شما نباشند!  | <a href=\"%1$s\">مخفی کردن "
+"هشدار</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:28
+msgid "Submitted by"
+msgstr "ارسال شده توسط"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:28
+msgid "<span>"
+msgstr "<span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:31
+msgid "Assignment awaiting moderation."
+msgstr "تکلیف در انتظار بررسی می باشد."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:38
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:38
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:94
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:102
+msgid "Time Remaining"
+msgstr "زمان باقیمانده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:95
+msgid "Days"
+msgstr "روز"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:103
+msgid "Hours"
+msgstr "ساعت"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:103
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:119
+msgid "ENDED"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:146
+msgid "START ASSIGNMENT"
+msgstr "شروع تکلیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:168
+msgid "CONTINUE ASSIGNMENT"
+msgstr "ادامه تکلیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:189
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:199
+msgid "SUBMIT ASSIGNMENT"
+msgstr "ارسال تکلیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:194
+msgid "INACTIVE COURSE "
+msgstr "غیرفعال کردن دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:207
+msgid "CHECK RESULTS"
+msgstr "مشاهده نتیجه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:290
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:353
+msgid "Security check failed !"
+msgstr "بررسی امنیتی شکست خورد!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:231
+msgid "Assignment can not be re-started"
+msgstr "تکلیف قادر به شروع مجدد نمی باشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:241
+msgid "TIME EXPIRED, PLEASE SUBMIT THE ASSIGNMENT"
+msgstr "زمان انجام تکلیف به اتمام رسیده است. لطفا تکلیف را ارسال کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:249
+msgid "Assignment "
+msgstr "تکلیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:249
+msgid " submitted by student "
+msgstr " توسط دانشجو ارسال شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:250
+msgid "Assignment submitted by Student"
+msgstr "تکلیف توسط دانشجو ارسال شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:271
+msgid "Invalid ID"
+msgstr "شناسه نامعتبر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:275
+msgid " previous submissions removed ! Reloading page ..."
+msgstr " ارسال قبلی حذف شد ! بارگذاری مجدد صفحه ..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:277
+msgid "Unable to remove previous submissions"
+msgstr "قادر به حذف ارسال های قبلی نمی باشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:295
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:358
+msgid " Incorrect User selected."
+msgstr " کاربر نادرست انتخاب شده است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:300
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:363
+msgid " Incorrect Assignment"
+msgstr "تکلیف نادرست"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:308
+msgid "SUBMISSION"
+msgstr "ارسال"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:326
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:329
+msgid "Download Attachment"
+msgstr "دانلود ضمیمه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:339
+msgid "REMARKS (if any)"
+msgstr "نکات و تذکرات"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:341
+msgid "GIVE MARKS"
+msgstr "نمره دهی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:375
+msgid "Assignment Reset for Selected User"
+msgstr "تکلیف برای کاربر انتخاب شده بازنشانی شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:377
+msgid "Could not find Assignment for User. Contact Admin."
+msgstr "قادر به یافتن تکلیف برای دانشجو نمی باشد. لطفا با مدیر تماس بگیرید."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:396
+msgid "You've obtained "
+msgstr "شما بدست آورید "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:396
+msgid " in Assignment :"
+msgstr " در تکلیف:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:397
+msgid "Check Results"
+msgstr "مشاهده نتیجه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:398
+msgid "Additional Remarks form Instructor"
+msgstr "نکات و تذکرات استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:402
+msgid "Assignment results available"
+msgstr "نتایج تکلیف در دسترس است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:425
+msgid "Unlimited"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:430
+msgid " days"
+msgstr " روز"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:433
+msgid "ASSIGNMENT : "
+msgstr "تکلیف : "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:435
+msgid "MARKS : "
+msgstr "نمره : "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:435
+msgid "DURATION : "
+msgstr "مدت زمان : "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:454
+msgid " out of "
+msgstr " از"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:454
+msgid " PENDING"
+msgstr "[در انتظار بررسی]"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-assignments/includes/assignments_functions.php:496
+msgid "Assignment scores"
+msgstr "نمره تکلیف"
+
+#~ msgid "Student submitted assignment "
+#~ msgstr "دانشجو تکلیف را ارسال کرد"
+
+#~ msgid "Student "
+#~ msgstr "دانشجو"
+
+#~ msgid " submitted the assignment  "
+#~ msgstr " تکلیف را ارسال کرد"
+
+#~ msgid "Student started assignment "
+#~ msgstr "دانشجو تکلیف را شروع کرد"
+
+#~ msgid " started the assignment  "
+#~ msgstr " تکلیف را شروع کرد"
+
+#~ msgid "Assignment %s was reset by the Instructor for user %s"
+#~ msgstr "تکلیف %s توسط استاد برای کاربر %s بازنشانی شد "
+
+#~ msgid "Instructor Evaluated the Assignment for User"
+#~ msgstr "استاد تکلیف را برای دانشجو ارزیابی کرد"
+
+#~ msgid " was evaluated by the Instructor for user"
+#~ msgstr " توسط استاد برای دانشجو ارزیابی شد"
+
+#~ msgid ""
+#~ "This step is irreversible. All Assignment subsmissions would be reset for "
+#~ "this user. Are you sure you want to Reset the Assignment for this User? "
+#~ msgstr ""
+#~ "این مرحله غیر قابل برگشت است. همه تکالیف ارسال شده برای این دانشجو "
+#~ "بازنشانی خواهد شد. آیا از انجام این کار مطمئن هستید؟"
+
+#~ msgid "Your assignment is awaiting moderation."
+#~ msgstr "تکلیف شما منتظر تائید مدیر می باشد."

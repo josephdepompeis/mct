@@ -1,0 +1,4660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Course Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-02 15:22+0530\n"
+"PO-Revision-Date: 2016-04-02 15:22+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: vibethemes <vibethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-"
+"course-module\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"vibe-course-module\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:67
+#, fuzzy
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Veuillez entrer votre Nom d'utilisateur Envato Marketplace."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:71
+#, fuzzy
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Veuillez entrer votre Clé API Envato Marketplace. "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:96
+#, fuzzy
+msgid "The API \"set\" is a required parameter."
+msgstr "O \"grupo\" API é um parametro obrigatório."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-envato-protected-api.php:167
+#, fuzzy
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "O \"ID de item\" do Envato Marketplacees é um parámetro obrigatório."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:376
+#, fuzzy
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Une erreur HTTP inattendue s'est produite lors de la demande de l'API."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:541
+#, fuzzy
+msgid "Try again"
+msgstr "Tentar novamente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:417
+#, fuzzy
+msgid "An unknown error occurred"
+msgstr "Une erreur inconnue s'est produite"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:453
+#, fuzzy
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Le plugin a été mis à jour, mais ne peut pas être réactivé. Veuillez le "
+"réactiver manuellement."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:454
+#, fuzzy
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin reativado com sucesso."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:476
+#, fuzzy
+msgid " Plugin Updates"
+msgstr " Atualizações de Plugins"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:515
+#, fuzzy
+msgid "Username: "
+msgstr "Nombre d'utilisateur:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:519
+#, fuzzy
+msgid "Email: "
+msgstr "Email:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:525
+#, fuzzy
+msgid "Key: "
+msgstr "Chave: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:531
+#, fuzzy
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Sua atualização de plugin está <span style=\"color:green\">ativa</span></"
+"p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:535
+#, fuzzy
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Sua entrada <span style=\"color:red\">é inválida</span>, as atualizações "
+"automáticas estão <span style=\"color:red\">inativas</span>.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:536
+#, fuzzy
+msgid "Edit Key"
+msgstr "Editer Clé"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:540
+#, fuzzy
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p> No se puede validar la activación de actualización. </p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:546
+#, fuzzy
+msgid "Add Key"
+msgstr "Ajouter Clé"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:632
+#, fuzzy
+msgid "User name"
+msgstr "User name"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:638
+#, fuzzy
+msgid "Email"
+msgstr "Email:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/autoupdate/class-plugin-update.php:647
+#, fuzzy
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Nom d'utilisateur Themeforest (Pour les MAJ automatiques)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:73
+#, fuzzy
+msgid "Removed a student from Course"
+msgstr "Usuario eliminado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:74
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:78
+#, fuzzy
+msgid "Student submitted a Course"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:75
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:77
+#, fuzzy
+msgid "Student started a Course"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:76
+#, fuzzy
+msgid "Student submitted a Quiz"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:79
+#, fuzzy
+msgid "Course reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:80
+#, fuzzy
+msgid "Bulk action by instructor"
+msgstr "Il Docente ha inviato un messaggio per gli studenti : "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:81
+#, fuzzy
+msgid "Course Evaluated for student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:82
+#, fuzzy
+msgid "Student got a Badge"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:83
+#, fuzzy
+msgid "Student got a certificate"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:84
+#, fuzzy
+msgid "Quiz Evaluated for student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:85
+#, fuzzy
+msgid "Student subscribed for course"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:103
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:105
+msgid "per"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:123
+#, fuzzy
+msgid "SUBSCRIPTION FOR"
+msgstr "Abonnement"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:270
+#, fuzzy, php-format
+msgid "All Instructors <span>%s</span>"
+msgstr "Todos los instructores  <span>%s</span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:291
+#, fuzzy
+msgid "Expired Course"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:292
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:225
+#, fuzzy
+msgid "Start Course"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:293
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:226
+#, fuzzy
+msgid "Continue Course"
+msgstr "CONTINUAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:294
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:374
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:227
+#, fuzzy
+msgid "Under Evaluation"
+msgstr "In fase di valutazione"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:295
+#, fuzzy
+msgid "Course Finished"
+msgstr "CURSO FINALIZADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:300
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Resultados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:306
+msgid "Enter student name/email"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:307
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:370
+#, fuzzy
+msgid "Search"
+msgstr "Rechercher"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:343
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:600
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:922
+#, fuzzy
+msgid "EXPIRED"
+msgstr "CURSO EXPIRADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:343
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:351
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:354
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:360
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:369
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:372
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:378
+#, fuzzy
+msgid "COURSE"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:351
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:369
+#, fuzzy
+msgid "START"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:354
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:372
+#, fuzzy
+msgid "CONTINUE"
+msgstr "CONTINUAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:357
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:375
+msgid "UNDER"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:357
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:375
+#, fuzzy
+msgid "EVALUATION"
+msgstr "CURSO BAJO EVALUACIÓN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:360
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:378
+#, fuzzy
+msgid "FINISHED"
+msgstr "CURSO FINALIZADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:363
+#, fuzzy
+msgid "ENABLED"
+msgstr "CURSO HABILITADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:449
+#, fuzzy
+msgid "This Course can not be taken. Contact Administrator."
+msgstr "Le Contrôle de Sécurité a échoué. Veuillez contacter l'Administrateur."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-actions.php:461
+#, fuzzy
+msgid "REVIEW COURSE "
+msgstr "Insignia del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:196
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:66
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:107
+#, fuzzy
+msgid "Course"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:231
+#, fuzzy, php-format
+msgid "Announcement for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:245
+#, fuzzy, php-format
+msgid "News published for Course %s "
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:257
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:478
+#, fuzzy, php-format
+msgid "Student subscribed for course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:258
+#, fuzzy, php-format
+msgid "Student %s subscribed for course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:271
+#, fuzzy
+msgid "Student started course "
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:288
+#, fuzzy, php-format
+msgid "Student %s finished and submitted the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:290
+#, fuzzy
+msgid "Student Submitted the course "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:302
+#, fuzzy
+msgid "Instructor evaluated Course for student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:303
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:855
+#, fuzzy, php-format
+msgid "Student %s got %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:321
+#, fuzzy
+msgid "Course reset for student "
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:322
+#, fuzzy, php-format
+msgid "Course %s is reset for student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:331
+#, fuzzy
+msgid "Student retake Course "
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:332
+#, fuzzy, php-format
+msgid "Course %s is retaken by student %s"
+msgstr "Test ritentato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:341
+#, fuzzy
+msgid "Student got a Badge in the course "
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:342
+#, fuzzy, php-format
+msgid "Student %s got a badge in the course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:350
+#, fuzzy
+msgid "Student got a Certificate in course"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:351
+#, fuzzy, php-format
+msgid "Student %s got a certificate in the course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:360
+#, fuzzy, php-format
+msgid "Student reviewed Course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:361
+#, fuzzy, php-format
+msgid "Student %s reviewd the Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:373
+#, fuzzy
+msgid "Student unsubsribed from course "
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:374
+#, fuzzy, php-format
+msgid "Student %s is removed from the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:383
+#, fuzzy
+msgid "Course code applied"
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:384
+#, fuzzy, php-format
+msgid "Student %s applied Course code for course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:398
+#, fuzzy
+msgid "Student renewed a course"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:399
+#, fuzzy, php-format
+msgid "Student %s renewd the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:407
+#, fuzzy
+msgid "Student started a unit"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:408
+#, fuzzy, php-format
+msgid "Student started the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:418
+#, fuzzy
+msgid "Student finished unit "
+msgstr "Lo studente ha terminato l'unità "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:419
+#, fuzzy, php-format
+msgid "Student %s finished the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:435
+#, fuzzy
+msgid "Instructor completed a unit for Student "
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:436
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1249
+#, fuzzy, php-format
+msgid "Instructor %s completed unit %s for Student %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:447
+#, fuzzy
+msgid "Instructor uncompleted a unit for Student "
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:448
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1306
+#, fuzzy, php-format
+msgid "Instructor %s uncompleted unit %s for Student %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:459
+#, fuzzy
+msgid "Student posted comment on unit "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:460
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1342
+#, fuzzy, php-format
+msgid "Student %s posted comment on unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:471
+#, fuzzy
+msgid "Student started a quiz"
+msgstr "Lo studente ha iniziato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:472
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2281
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:483
+#, fuzzy
+msgid "Student submitted the Quiz"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:484
+#, fuzzy, php-format
+msgid "Quiz %s was submitted by student"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:496
+#, fuzzy
+msgid "Instructor evaluated Quiz for student "
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:498
+#, fuzzy, php-format
+msgid "Student %s got %s out of %s in Quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:515
+#, fuzzy
+msgid "Quiz retake by Student"
+msgstr "Test ritentato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:516
+#, fuzzy, php-format
+msgid "Student %s  initiated retake for quiz %s"
+msgstr "Lo studente ha iniziato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:527
+#, fuzzy
+msgid "Instructor Reseted the Quiz for User"
+msgstr "Il Docente ha azzerato il Test per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:528
+#, fuzzy, php-format
+msgid "Quiz %s  was reset by the Instructor for user %s"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:540
+#, fuzzy
+msgid "Instructor added students in course  "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:541
+#, fuzzy, php-format
+msgid "Instructor added %s students in course "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:548
+#, fuzzy
+msgid "Instructor changed course status  "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:549
+#, fuzzy, php-format
+msgid "Instructor changed Course Status for %s students in course "
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:556
+#, fuzzy
+msgid "Instructor sent Bulk message to students"
+msgstr "Il Docente ha inviato un messaggio per gli studenti : "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:557
+#, fuzzy, php-format
+msgid "Bulk Message sent to %s students "
+msgstr "Messaggio inviato agli studenti "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:564
+#, fuzzy
+msgid "Instructor extended Course subscription"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:565
+#, fuzzy, php-format
+msgid "Course subscription extended for %s students "
+msgstr " valutazione automatica per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:575
+#, fuzzy
+msgid "Instructor assigned/removed Certificate/Badges"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:576
+#, fuzzy, php-format
+msgid "Instructor added/removed Badges/Certificates from %s students in course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:597
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1728
+#, fuzzy, php-format
+msgid "Student started assignment %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:598
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2311
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:616
+#, fuzzy
+msgid "Student submitted assignment "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:617
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2317
+#, fuzzy, php-format
+msgid "Student %s submitted the assignment %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:633
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1758
+#, php-format
+msgid "Results available for assignment %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:634
+#, php-format
+msgid "Student %s got marks %s out of %s in assignment %s "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:651
+#, fuzzy
+msgid "Instructor Reseted the Assignment for User"
+msgstr "Il Docente ha azzerato il Test per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:652
+#, fuzzy, php-format
+msgid "Assignment %s was reset by the Instructor for user %s"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:670
+#, fuzzy, php-format
+msgid "%1$s wrote a new %2$s, %3$s, on the site %4$s"
+msgstr "%1$s escribió una nueva %2$s, %3$s, en este sitio %4$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:672
+#, fuzzy, php-format
+msgid "%1$s wrote a new %2$s, %3$s"
+msgstr "%1$s escribió una nueva %2$s, %3$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:682
+#, fuzzy, php-format
+msgid "%1$s reviewed the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s revisó el %2$s, %3$s, en este sitio %4$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:684
+#, fuzzy, php-format
+msgid "%1$s reviewed the %2$s, %3$s"
+msgstr "%1$s revisó el %2$s, %3$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:688
+#, fuzzy, php-format
+msgid "%1$s answered the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s respondió el %2$s, %3$s, en este sitio %4$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:690
+#, fuzzy, php-format
+msgid "%1$s answered the %2$s, %3$s"
+msgstr "%1$s respondió el %2$s, %3$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:697
+#, fuzzy, php-format
+msgid "User applied for Course %s "
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:698
+#, fuzzy, php-format
+msgid "User %s applied for Course %s "
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:708
+#, fuzzy, php-format
+msgid "User application %s for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:709
+#, fuzzy, php-format
+msgid "User %s application %s for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:720
+#, fuzzy, php-format
+msgid "Instructor Published the course Course %s "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:721
+#, fuzzy, php-format
+msgid "Instructor %s published the Course %s "
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:729
+#, fuzzy, php-format
+msgid "Instructor submitted the Course %s for approval"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-activity.php:730
+#, fuzzy, php-format
+msgid "Instructor %s submitted the Course %s for approval"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:90
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1855
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2067
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2323
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2495
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2508
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2565
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2610
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2674
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2781
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2796
+#, fuzzy
+msgid "Security check Failed. Contact Administrator."
+msgstr "Le Contrôle de Sécurité a échoué. Veuillez contacter l'Administrateur."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:133
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:163
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:327
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:407
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:528
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:566
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:644
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:689
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:773
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:826
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1325
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1530
+#, fuzzy
+msgid "Security check failed !"
+msgstr "Le Contrôle de sécurité a échoué!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:194
+#, fuzzy
+msgid "Answer Reset"
+msgstr "Risposta Azzerata"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:196
+#, fuzzy
+msgid "Unable to Reset"
+msgstr "Impossibile Azzerare"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:212
+#, fuzzy
+msgid "Incorrect Course selected."
+msgstr "Curso seleccionado incorrecto."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:312
+#, fuzzy
+msgid "Statistics successfully calculated. Reloading..."
+msgstr "Estadísticas calculadas correctamente. Recargando..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:314
+#, fuzzy
+msgid "Unable to calculate Average."
+msgstr "No se ha podido calcular la media."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:324
+#, fuzzy
+msgid "SHOW STATS"
+msgstr "MOSTRAR ESTADÍSTICAS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:324
+#, fuzzy
+msgid "HIDE"
+msgstr "OCULTAR"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:332
+#, fuzzy
+msgid "Incorrect User selected."
+msgstr "Utilisateur sélectionné incorrecte."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:343
+#, fuzzy
+msgid "This User has not started the course."
+msgstr "Este usuario no ha comenzado el curso."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:347
+#, fuzzy
+msgid "This User has completed the course."
+msgstr "Este usuario ha completado el curso."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:348
+#, fuzzy
+msgid "Student Score for Course "
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:348
+#, fuzzy
+msgid " out of 100"
+msgstr " su"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:358
+#, fuzzy
+msgid "Course Started : "
+msgstr "Curso comenzado:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:365
+#, fuzzy
+msgid "Curriculum :"
+msgstr "Itinerario:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:366
+#, fuzzy
+msgid "Quizes"
+msgstr "Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:374
+#, fuzzy
+msgid "Marks Obtained : "
+msgstr "Notas obtenidas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:389
+#, fuzzy
+msgid "Units Completed "
+msgstr "Unidades completadas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:389
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:797
+#, fuzzy
+msgid " out of "
+msgstr "sur"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:427
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:866
+#, fuzzy
+msgid "Marked Answer :"
+msgstr "Respuesta marcada:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:437
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2392
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:483
+msgid "FALSE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:437
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2392
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:483
+msgid "TRUE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:488
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:931
+#, fuzzy
+msgid "Correct Answer :"
+msgstr "Réponse correct"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:489
+msgid "View answer explanation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:494
+#, fuzzy
+msgid "Total Marks :"
+msgstr "Total"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:498
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:500
+msgid "MARKS OBTAINED"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:504
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:945
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:953
+#, fuzzy
+msgid "Marks Obtained"
+msgstr "Notas obtenidas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:516
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:959
+#, fuzzy
+msgid "Total Marks"
+msgstr "Total"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:533
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:571
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:649
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:778
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:831
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:846
+#, fuzzy
+msgid " Incorrect User selected."
+msgstr "Utilisateur sélectionné incorrecte."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:546
+#, fuzzy
+msgid "User removed from the Course"
+msgstr "Usuario eliminado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:627
+#, fuzzy
+msgid "Course Reset for User"
+msgstr "Restablecer curso para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:632
+#, fuzzy
+msgid ""
+"There was issue in resetting this course for the user. Please contact admin."
+msgstr ""
+"Hubo un problema al resetear este curso para el usuario. Por favor, contacte "
+"con el administrador."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:664
+#, fuzzy
+msgid "Quiz Reset for Selected User"
+msgstr "Resetear curso para el usuario seleccionado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:741
+#, fuzzy
+msgid "COURSE MARKED COMPLETE"
+msgstr "CURSO MARCADO COMO COMPLETO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:797
+#, fuzzy
+msgid "MARKS: "
+msgstr "NOTE: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:797
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:802
+#, fuzzy
+msgid " PENDING"
+msgstr "EN ATTENTE"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:802
+#, fuzzy
+msgid "DONE"
+msgstr "COMPLETATO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:811
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:965
+#, fuzzy
+msgid "Total"
+msgstr "Total"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:812
+#, fuzzy
+msgid "Course Percentage (Out of 100)"
+msgstr "Porcentaje del curso (sobre 100)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:812
+#, fuzzy
+msgid "Course Percentage out of 100"
+msgstr "Porcentaje del curso (sobre 100)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:813
+#, fuzzy
+msgid "Mark Course Complete"
+msgstr "Marcar curso como completo"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:836
+#, fuzzy
+msgid " Incorrect Quiz Id."
+msgstr " Id Test errato."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:945
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:953
+#, fuzzy
+msgid "Give marks"
+msgstr "NOTER"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:946
+#, fuzzy
+msgid "Update Marks"
+msgstr "Actualizar notas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:954
+#, fuzzy
+msgid "Give Marks"
+msgstr "NOTER"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:966
+#, fuzzy
+msgid "Mark Quiz as Checked"
+msgstr "Marcar test como comprobado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:990
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:995
+#, fuzzy
+msgid "Set a Subject for the message"
+msgstr "Inserisci l'Oggetto nel messaggio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1004
+#, fuzzy
+msgid "Messages Sent to "
+msgstr "Messaggio inviato a "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1004
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1189
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1307
+#, fuzzy
+msgid " members"
+msgstr "Miembros"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1006
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1197
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1313
+#, fuzzy
+msgid "Please select members"
+msgstr "Si prega di selezionare gli utenti"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1095
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:89
+#, fuzzy
+msgid "Reset Course for User"
+msgstr "Restablecer curso para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1096
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:90
+#, fuzzy
+msgid "See Course stats for User"
+msgstr "Ver estadísticas del curso del usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1097
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:92
+#, fuzzy
+msgid "Remove User from this Course"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1129
+#, fuzzy
+msgid "Select Assign Value"
+msgstr "Sélectionner un Slider"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1189
+#, fuzzy
+msgid "Action assigned to "
+msgstr "Acción uno"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1194
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1310
+msgid "Could not assign action to members"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1215
+msgid "Please enter extension amount"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1243
+#, php-format
+msgid "Subscription extended for %d students, unable to extend for %d students"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1245
+#, fuzzy, php-format
+msgid "Subscription extended for %d students"
+msgstr " valutazione automatica per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1266
+#, fuzzy
+msgid "Select Course Status"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1307
+#, fuzzy
+msgid "Course status changed for "
+msgstr "Ver estadísticas del curso del usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1329
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1534
+msgid "User does not have capability to download stats !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1369
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1567
+#, fuzzy
+msgid "START DATE"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1377
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1389
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1437
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1583
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1600
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1793
+msgid "N.A"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1381
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1586
+msgid "COMPLETION DATE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1392
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1604
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1822
+#, fuzzy
+msgid "ID"
+msgstr "OCULTAR"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1399
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1611
+msgid "NAME"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1446
+msgid "BADGE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1458
+#, fuzzy
+msgid "CERTIFICATE"
+msgstr "Certificado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1470
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1641
+msgid "SCORE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1729
+msgid "User not allowed to access stats"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1760
+#, fuzzy
+msgid "No data available"
+msgstr "Resultados del curso disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1769
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:346
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:26
+#, fuzzy
+msgid "Stats"
+msgstr "Estadísticas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1789
+msgid "Average"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1790
+msgid "Max"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1791
+#, fuzzy
+msgid "Min"
+msgstr "Minutos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1797
+msgid "Leaderboard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1817
+msgid "Download Stats"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1820
+msgid "Start Date/Time"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1821
+msgid "End Date/Time"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1823
+#, fuzzy
+msgid "Student Name"
+msgstr "Elève"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1824
+msgid "Score"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1827
+msgid "Question scores (* for static quizzes only)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1837
+#, fuzzy
+msgid "All students"
+msgstr "Aggiungi studenti"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1838
+#, fuzzy
+msgid "Students who finished"
+msgstr "Lo studente ha terminato l'unità "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1841
+#, fuzzy
+msgid "Process Stats"
+msgstr "Ver estadísticas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1862
+#, fuzzy
+msgid "Unit not in Course"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1880
+#, fuzzy
+msgid "Course Expired."
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1880
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:330
+msgid "Click to renew"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1931
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1952
+#, fuzzy
+msgid "Unit will be available in "
+msgstr "La unidad estará disponible en"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1955
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1959
+#, fuzzy
+msgid "Unit can not be accessed."
+msgstr "No se puede acceder a la unidad."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:1978
+msgid "Unlimited"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2003
+#, fuzzy
+msgid "Previous Quiz"
+msgstr "Pregunta anterior"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2005
+#, fuzzy
+msgid "Previous Unit"
+msgstr "Unità Precedente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2015
+#, fuzzy
+msgid "Check Results"
+msgstr "Resultados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2018
+#, fuzzy
+msgid "Continue Quiz"
+msgstr "CONTINUAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2022
+#, fuzzy
+msgid "Start Quiz"
+msgstr "Inizia Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2025
+#, fuzzy
+msgid "Mark this Unit Complete"
+msgstr "Marcar esta unidad como completa"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2047
+#, fuzzy
+msgid "Proceed to Quiz"
+msgstr "Vai al Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2050
+#, fuzzy
+msgid "Next Unit"
+msgstr "Unità Successiva"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2073
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2140
+#, fuzzy
+msgid "Invalid submission time."
+msgstr "Evaluar presentaciones del test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2079
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2145
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2335
+msgid "Questions not set."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2230
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2280
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2309
+#, fuzzy
+msgid "Quiz Timed Out ."
+msgstr "Tiempo de espera de la prueba agotado."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2231
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2281
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2310
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2314
+#, fuzzy
+msgid "If you want to attempt again, Contact Instructor to reset the quiz."
+msgstr ""
+"Si quiere intentarlo de nuevo, contacte con el instructor para resetear el "
+"test."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2237
+#, fuzzy
+msgid "Quiz Already Attempted."
+msgstr "Test ya intentado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2238
+#, fuzzy
+msgid "Security Check Failed. Contact Site Admin."
+msgstr ""
+"Comprobación de seguridad fallida. Contacte con el administrador del sitio."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2285
+#, fuzzy
+msgid "Start Quiz to begin quiz."
+msgstr "Comenzar test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2286
+#, fuzzy
+msgid "Click \"Start Quiz\" button to start the Quiz."
+msgstr "Haga clic en el botón \"Start Quiz\" para comenzar el test."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2290
+msgid "Quiz not active."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2291
+msgid "Contact your instructor or site admin."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2313
+#, fuzzy
+msgid "Quiz Already Attempted ."
+msgstr "Test ya intentado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2379
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:433
+#, fuzzy
+msgid "SHOW HINT"
+msgstr "Afficher le lieu"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2380
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:434
+msgid "HINT"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2460
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2463
+#, fuzzy
+msgid "Type Answer"
+msgstr "Respuesta marcada:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2470
+msgid "PAGES"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2512
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2555
+#, fuzzy
+msgid "Unable to add message"
+msgstr "Impossibile Azzerare"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2545
+msgid "JUST NOW"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2655
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:106
+#, fuzzy
+msgid "Reset Quiz for User"
+msgstr "Resetear test para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2656
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:107
+#, fuzzy
+msgid "Evaluate Quiz for User"
+msgstr "Evaluar test para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2716
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:153
+#, fuzzy
+msgid "Evaluate Course for User"
+msgstr "Evaluar curso para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2744
+#, fuzzy
+msgid "Invalid Course or Unit ID"
+msgstr "Evaluar curso para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-ajax.php:2751
+#, fuzzy
+msgid "Unit not found in Course"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:59
+#, fuzzy
+msgid ""
+"This step is irreversible. Are you sure you want to remove the User from the "
+"course ?"
+msgstr ""
+"Questa è un'azione irreversibile. Sei sicuro di voler rimuovere quest'utente "
+"dal corso?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:60
+#, fuzzy
+msgid "Confirm, Remove User from Course"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:63
+#, fuzzy
+msgid ""
+"This step is irreversible. All Units, Quiz results would be reset for this "
+"user. Are you sure you want to Reset the Course for this User?"
+msgstr ""
+"Questa è un'azione irreversibile. Tutte le unità e i risultati dei Test "
+"dell'utente saranno azzerati. Sei sicuro di voler azzerare il corso per "
+"l'utente?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:64
+#, fuzzy
+msgid "Confirm, Reset Course for this User"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:65
+#, fuzzy
+msgid ""
+"This step is irreversible. All Questions answers would be reset for this "
+"user. Are you sure you want to Reset the Quiz for this User? "
+msgstr ""
+"Questa è un'azione irreversibile. Tutte le risposte dell'utente saranno "
+"azzerate. Sei sicuro di voler azzerare il Test dell'utente?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:66
+#, fuzzy
+msgid "Confirm, Reset Quiz for this User"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:67
+#, fuzzy
+msgid "Marks Saved"
+msgstr "Note enregistrée"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:68
+#, fuzzy
+msgid "Quiz Marks Saved"
+msgstr "Risposte al Test Salvate"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:69
+#, fuzzy
+msgid "Submit Quiz"
+msgstr "Invia Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:70
+#, fuzzy
+msgid "Sending Messages ..."
+msgstr "Messaggio inviato a "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:71
+#, fuzzy
+msgid "Adding Students to Course ..."
+msgstr "Aggiungi studente al corso ..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:72
+#, fuzzy
+msgid "Students successfully added to Course"
+msgstr "Studente iscritto al corso con successo"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:73
+#, fuzzy
+msgid "Unable to Add students to Course"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:74
+#, fuzzy
+msgid "Please select fields to download"
+msgstr "Si prega di selezionare gli utenti"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:75
+msgid "Download"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:76
+msgid "TIMEOUT"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:79
+#, fuzzy
+msgid "for Course"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:80
+#, fuzzy
+msgid "Active Filters"
+msgstr "Ver toda la actividad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:81
+msgid "Clear all filters"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:82
+#, fuzzy
+msgid "Are you sure you want to remove this note?"
+msgstr ""
+"Questa è un'azione irreversibile. Sei sicuro di voler rimuovere quest'utente "
+"dal corso?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:83
+#, fuzzy
+msgid "Confirm, remove note"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:84
+msgid "Make Private"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:85
+msgid "Add your note"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:86
+msgid "Please add questions or retake the quiz !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:87
+#, fuzzy
+msgid "Are you sure you want to remove this Annoucement?"
+msgstr ""
+"Questa è un'azione irreversibile. Sei sicuro di voler rimuovere quest'utente "
+"dal corso?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:88
+msgid "You're about to start the Quiz. Please click confirm to begin the quiz."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:89
+msgid ""
+"Are you sure you want to submit the quiz. Submitting the quiz will freeze "
+"all your answers, you can not change them.  Please confirm."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:90
+#, fuzzy
+msgid "Check results"
+msgstr "Resultados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:91
+#, fuzzy
+msgid "Correct"
+msgstr "Réponse correct"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:92
+#, fuzzy
+msgid "Incorrect"
+msgstr " Id Test errato."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-cssjs.php:96
+msgid "You have few unanswered questions. Are you sure you want to continue ?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-filters.php:441
+#, fuzzy
+msgid "No Courses found."
+msgstr "No se encontraron cursos."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:53
+#, fuzzy
+msgid "Course Directory"
+msgstr "Directory dei Corsi"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:54
+#, fuzzy
+msgid "All Courses by all instructors"
+msgstr "Tutti i corsi dei Docenti"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:89
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:381
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:39
+msgid "Home"
+msgstr "Start"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:95
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:40
+#, fuzzy
+msgid "Curriculum"
+msgstr "Itinerario:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:97
+#, fuzzy
+msgid "curriculum"
+msgstr "Itinerario:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:102
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:17
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:41
+#, fuzzy
+msgid "Members"
+msgstr "Miembros"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:104
+#, fuzzy
+msgid "members"
+msgstr "Miembros"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:112
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:23
+#, fuzzy
+msgid "Activity"
+msgstr "Ver toda la actividad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:114
+#, fuzzy
+msgid "activity"
+msgstr "Ver toda la actividad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:127
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:49
+msgid "Group"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:140
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:55
+msgid "Forum"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/home.php:60
+#, fuzzy
+msgid "Admin"
+msgstr "Admin"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:236
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:348
+#, fuzzy
+msgid "TAKE THIS COURSE"
+msgstr "TOMAR ESTE CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:284
+#, fuzzy
+msgid "START COURSE"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:288
+#, fuzzy
+msgid "CONTINUE COURSE"
+msgstr "CONTINUAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:292
+#, fuzzy
+msgid "COURSE UNDER EVALUATION"
+msgstr "CURSO BAJO EVALUACIÓN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:298
+#, fuzzy
+msgid "FINISHED COURSE"
+msgstr "CURSO FINALIZADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:301
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-offline.php:173
+#, fuzzy
+msgid "COURSE FINISHED"
+msgstr "CURSO FINALIZADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:305
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:317
+#, fuzzy
+msgid "COURSE ENABLED"
+msgstr "CURSO HABILITADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:305
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:317
+#, fuzzy
+msgid "CONTACT ADMIN TO ENABLE"
+msgstr "CONTATTA L'AMMINISTRATORE PER ABILITARE"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:330
+#, fuzzy
+msgid "Course Expired"
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:350
+#, fuzzy
+msgid "PRIVATE COURSE"
+msgstr "CORSO PROVATO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:392
+#, fuzzy
+msgid "* REQUIRES"
+msgstr "*CORSI RICHIESTI"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:396
+msgid "SEATS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:397
+#, fuzzy
+msgid "Course Badge"
+msgstr "Insignia del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:398
+#, fuzzy
+msgid "Course Certificate"
+msgstr "Certificado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:553
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:563
+#, fuzzy
+msgid "Type answer"
+msgstr "Respuesta marcada:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:596
+msgid "Unlimited Time"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:634
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:642
+#, fuzzy
+msgid "Next Question"
+msgstr "Siguiente pregunta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:638
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:641
+#, fuzzy
+msgid "Previous Question"
+msgstr "Pregunta anterior"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:691
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:729
+msgid "Duration not Set"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:701
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1189
+#, fuzzy
+msgid "Time Remaining"
+msgstr "Temps restant"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:702
+#, fuzzy
+msgid "Mins"
+msgstr "Minutos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:702
+#, fuzzy
+msgid "Secs"
+msgstr "Segundos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:737
+msgid "Progress"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:782
+msgid "Please set questions in quiz or reset quiz !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:826
+#, fuzzy
+msgid "QUESTION"
+msgstr "Question"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:846
+#, fuzzy
+msgid "Security Error"
+msgstr "Errore di sicurezza"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:905
+msgid "year"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:905
+msgid "years"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:907
+msgid "month"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:907
+msgid "months"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:909
+msgid "week"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:909
+msgid "weeks"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:911
+#, fuzzy
+msgid "day"
+msgstr "Jours"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:911
+#, fuzzy
+msgid "days"
+msgstr "Jours"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:913
+msgid "hour"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:913
+#, fuzzy
+msgid "hours"
+msgstr "Heures"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:915
+#, fuzzy
+msgid "minute"
+msgstr "Minutes"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:915
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:57
+#, fuzzy
+msgid "minutes"
+msgstr "Minutes"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:917
+msgid "second"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:917
+msgid "seconds"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1014
+#, fuzzy
+msgid "Course Curriculum Not Set."
+msgstr "EL PLAN DEL CURSO NO ESTÁ CONFIGURADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1069
+#, fuzzy
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "¿Tienes preguntas? Pregunta en los foros de la unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1119
+#, fuzzy
+msgid "Attachments"
+msgstr "Archivos adjuntos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1147
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:253
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:139
+#, fuzzy
+msgid "Instructor"
+msgstr "Professeur"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1365
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1368
+#, fuzzy
+msgid "Certificate not valid for user"
+msgstr "Certificado no válido para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1509
+#, fuzzy
+msgid "Evaluate course submissions"
+msgstr "Evaluar presentaciones del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1521
+#, fuzzy
+msgid "Evaluate Quiz submissions"
+msgstr "Evaluar presentaciones del test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1527
+#, fuzzy
+msgid "Manage Students"
+msgstr "Administrar alumnos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1528
+#, fuzzy
+msgid "See Stats"
+msgstr "Ver estadísticas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1529
+#, fuzzy
+msgid "See all Activity"
+msgstr "Ver toda la actividad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1558
+msgid "Seconds"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1559
+#, fuzzy
+msgid "Minutes"
+msgstr "Minutes"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1560
+#, fuzzy
+msgid "Hours"
+msgstr "Heures"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1561
+msgid "Days"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1562
+msgid "Weeks"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1563
+msgid "Months"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-functions.php:1564
+msgid "Years"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:266
+#, fuzzy
+msgid "Search courses ..."
+msgstr "Rechercher"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:288
+#, fuzzy, php-format
+msgid "Courses <span>%s</span>"
+msgstr "Cursos <span>%s</span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:326
+msgid "My Courses"
+msgstr "Moje Kursy <span>%s</span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:336
+#, fuzzy
+msgid "Results"
+msgstr "Resultados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:356
+msgid "Instructing Courses"
+msgstr "Kursy w których szkolisz"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:470
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:476
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-loader.php:486
+#, php-format
+msgid "Please Update the %s theme to latest version %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:90
+#, php-format
+msgid "Click %s to Activate account."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:90
+msgid "this link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:251
+msgid "Profile"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:251
+#, fuzzy
+msgid "Courses"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-mailer.php:253
+msgid "Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:140
+#, fuzzy
+msgid "Yes"
+msgstr "OUI"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:109
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:141
+msgid "No"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:171
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:281
+#, fuzzy, php-format
+msgid "Announcement for course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:275
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:299
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2176
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2179
+#, fuzzy, php-format
+msgid "Announcement for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:315
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:375
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:405
+msgid "Read more"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:317
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:362
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:404
+#, fuzzy, php-format
+msgid "News for Course %s"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:374
+#, fuzzy, php-format
+msgid "News for course %s"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:417
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:440
+#, fuzzy, php-format
+msgid "You're subscribed for course : %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:419
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:439
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:456
+#, fuzzy
+msgid "Subscribed for Course"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:454
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:479
+#, fuzzy, php-format
+msgid "Student %s subscribed for course : %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:495
+#, fuzzy, php-format
+msgid "You're added to course : %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:497
+#, fuzzy
+msgid "Added to Course"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:526
+#, fuzzy, php-format
+msgid "Added to course %s"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:527
+#, fuzzy, php-format
+msgid "You've been added to course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:542
+#, fuzzy, php-format
+msgid "Student %s added to course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:544
+#, fuzzy
+msgid "Student added to Course"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:583
+#, fuzzy, php-format
+msgid "Students added to course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:584
+#, fuzzy, php-format
+msgid "%d students added to course : %s , %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:594
+#, fuzzy, php-format
+msgid "You started the course : %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:596
+#, fuzzy
+msgid "Started a Course"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:615
+#, fuzzy, php-format
+msgid "You started course %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:616
+#, fuzzy, php-format
+msgid "You've started the course : %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:628
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:653
+#, fuzzy, php-format
+msgid "Student %s started the course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:630
+#, fuzzy, php-format
+msgid "Student started the course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:652
+#, fuzzy, php-format
+msgid "Student started course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:662
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:684
+#, fuzzy, php-format
+msgid "You've submitted the course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:664
+#, fuzzy
+msgid "Course submitted"
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:683
+#, fuzzy, php-format
+msgid "Course %s submitted"
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:694
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:717
+#, fuzzy, php-format
+msgid "Student %s submitted the course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:696
+#, fuzzy, php-format
+msgid "Student submitted the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:716
+#, fuzzy, php-format
+msgid "Student submitted course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:726
+#, fuzzy, php-format
+msgid "The Course %s was reset by Course instructor "
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:728
+#, fuzzy
+msgid "Course reset"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:744
+#, fuzzy, php-format
+msgid "Course %s reset"
+msgstr "Restablecer curso para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:745
+#, fuzzy, php-format
+msgid "%s Course was reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:751
+#, fuzzy, php-format
+msgid "%s course reset for student : %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:753
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:804
+#, fuzzy, php-format
+msgid "Course %s reset for student"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:770
+#, fuzzy, php-format
+msgid "Course %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:771
+#, fuzzy, php-format
+msgid "Course %s was reset for student %s "
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:778
+#, fuzzy, php-format
+msgid "You retook the Course %s "
+msgstr " rimosso dal corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:780
+#, fuzzy
+msgid "Course retake"
+msgstr "Insignia del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:795
+#, fuzzy, php-format
+msgid "You retook the course Course %s"
+msgstr " rimosso dal corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:796
+#, fuzzy, php-format
+msgid "You've retaken the Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:802
+#, fuzzy, php-format
+msgid "Student %s retook the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:821
+#, fuzzy, php-format
+msgid "Course %s retaken by the Student"
+msgstr "Test ritentato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:822
+#, fuzzy, php-format
+msgid "Course %s was retaken by the student %s "
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:831
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:849
+#, fuzzy, php-format
+msgid "You've obtained %s  in Course : %s"
+msgstr "Vous avez obtenu"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:833
+#, fuzzy
+msgid "Course results available"
+msgstr "Resultados del curso disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:848
+#, fuzzy, php-format
+msgid "Course %s results available"
+msgstr "Resultados del curso disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:857
+#, fuzzy, php-format
+msgid "Course %s evaluated for student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:873
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:874
+#, fuzzy, php-format
+msgid "Student %s got %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:883
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a badge in Course : %s"
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:885
+#, fuzzy
+msgid "You got a new Badge !"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:904
+#, fuzzy, php-format
+msgid "You got a Badge in Course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:905
+#, fuzzy, php-format
+msgid "You've obtained a Badge in Course : %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:913
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1033
+#, fuzzy, php-format
+msgid "Student %s got a Badge in course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:915
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:935
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1035
+#, fuzzy, php-format
+msgid "Student got a Badge in Course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:936
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2233
+#, fuzzy, php-format
+msgid "Student %s got a Badge in Course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:945
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a Certificate in Course : %s"
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:947
+#, fuzzy
+msgid "You got a new Certificate !"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:966
+#, fuzzy, php-format
+msgid "You got a Certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:967
+#, fuzzy, php-format
+msgid "You've obtained a certificate in Course : %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:975
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:977
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:997
+#, fuzzy, php-format
+msgid "Student got a Certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:998
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2239
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1006
+#, fuzzy, php-format
+msgid "You've submitted a review of Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1008
+#, fuzzy
+msgid "You submitted a course review"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1025
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2242
+#, fuzzy, php-format
+msgid "You submitted a review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1026
+#, fuzzy, php-format
+msgid "You submitted a review Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1053
+#, fuzzy, php-format
+msgid "Student submitted a review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1054
+#, fuzzy, php-format
+msgid "Student %s submitted a review for the Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1062
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course : %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1064
+#, fuzzy
+msgid "You unsubscribed from course"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1079
+#, fuzzy, php-format
+msgid "You're unsubscribed from course %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1080
+#, fuzzy, php-format
+msgid "You're unsubscribed from the Course %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1086
+#, fuzzy, php-format
+msgid "Student %s unsubscribed course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1088
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1104
+#, fuzzy, php-format
+msgid "Student unsubscribed from Course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1105
+#, fuzzy, php-format
+msgid "Student %s unsubscribed from Course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1112
+#, fuzzy, php-format
+msgid "You applied a code for Course : %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1114
+msgid "You applied a course code"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1129
+#, fuzzy, php-format
+msgid "You applied course code in course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1130
+#, fuzzy, php-format
+msgid "You've applied Course Code in Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1137
+#, fuzzy, php-format
+msgid "Student %s used course code %s for course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1139
+#, fuzzy, php-format
+msgid "Student applied Course code for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1155
+#, fuzzy, php-format
+msgid "Student applied code for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1156
+#, fuzzy, php-format
+msgid "Student %s applied code %s for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1164
+#, fuzzy, php-format
+msgid "You've completed the unit %s in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1166
+msgid "You completed a unit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1184
+msgid "You completed unit"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1185
+#, fuzzy, php-format
+msgid "You completed a unit %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1192
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1194
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1251
+#, fuzzy, php-format
+msgid "Student completed a unit in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1212
+#, fuzzy, php-format
+msgid "Student completed unit in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1213
+#, fuzzy, php-format
+msgid "Student %s completed unit %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1221
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s complete in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1223
+#, fuzzy, php-format
+msgid "Instructor marked a unit complete in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1241
+#, fuzzy, php-format
+msgid "Instructor marked unit %s complete "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1242
+#, fuzzy, php-format
+msgid "Unit %s was marked complete by Instructor %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1269
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1326
+#, fuzzy, php-format
+msgid "Instructor marked unit %s comple for Student in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1270
+#, fuzzy, php-format
+msgid "Instructor %s completed the unit %s for Student %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1278
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s uncomplete in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1280
+#, fuzzy, php-format
+msgid "Instructor marked a unit uncomplete in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1298
+#, fuzzy, php-format
+msgid "Instructor marked unit %s uncompleted "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1299
+#, fuzzy, php-format
+msgid "Unit %s was marked uncomplete by Instructor %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1308
+#, fuzzy, php-format
+msgid "Student uncompleted a unit in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1327
+#, fuzzy, php-format
+msgid "Instructor %s uncompleted the unit %s for Student %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1335
+#, php-format
+msgid "You've submitted a comment on unit : %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1337
+msgid "You submitted a question/comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1365
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1366
+#, php-format
+msgid "You added a comment on Unit %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1373
+#, fuzzy, php-format
+msgid "Student %s submitted a comment on unit %s "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1375
+#, fuzzy
+msgid "Student submitted a comment on Unit"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1394
+#, fuzzy, php-format
+msgid "Student added comment in unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1395
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1405
+#, fuzzy, php-format
+msgid "You've started the quiz : %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1407
+#, fuzzy
+msgid "You started a Quiz"
+msgstr "Lo studente ha iniziato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1422
+#, fuzzy, php-format
+msgid "You started quiz %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1423
+#, fuzzy, php-format
+msgid "You started a quiz %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1429
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1450
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1431
+#, fuzzy, php-format
+msgid "Student started the quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1449
+#, fuzzy, php-format
+msgid "Student started quiz %s"
+msgstr "Lo studente ha iniziato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1463
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1482
+#, php-format
+msgid "You obtained %d out of %s in Quiz : "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1465
+#, fuzzy
+msgid "Quiz results available"
+msgstr "Resultados del test disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1481
+#, fuzzy, php-format
+msgid "Results available for quiz %s"
+msgstr "Resultados del test disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1488
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1509
+#, php-format
+msgid "Student %s got %s from %s in quiz %s "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1490
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1508
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for Student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1521
+#, fuzzy, php-format
+msgid "You submitted the Quiz : %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1523
+#, fuzzy, php-format
+msgid "You submitted quiz %s "
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1540
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1541
+#, fuzzy, php-format
+msgid "You submitted quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1554
+#, fuzzy, php-format
+msgid "Quiz %s submitted by student %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1556
+#, fuzzy, php-format
+msgid "Quiz %s submitted by Student"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1572
+#, fuzzy, php-format
+msgid "Student submitted quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1573
+#, fuzzy, php-format
+msgid "Student %s submitted quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1580
+#, php-format
+msgid "You retook the Quiz : %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1582
+msgid "You retook a Quiz"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1597
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1598
+#, php-format
+msgid "You retook quiz %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1604
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1606
+#, fuzzy, php-format
+msgid "Student retook the Quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1622
+#, fuzzy, php-format
+msgid "Student retook the quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1623
+#, fuzzy, php-format
+msgid "Student %s retook the quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1630
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1648
+#, fuzzy, php-format
+msgid "Quiz %s was reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1632
+#, fuzzy
+msgid "Quiz reset by Instructor"
+msgstr "Seleziona Docente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1647
+#, fuzzy, php-format
+msgid "Quiz %s reset"
+msgstr "Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1654
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1656
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1674
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1675
+#, fuzzy, php-format
+msgid "Quiz %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1684
+#, fuzzy, php-format
+msgid "You've started the assignemtn : %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1686
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1701
+#, php-format
+msgid "You started assignment %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1702
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2308
+#, fuzzy, php-format
+msgid "You started the assignment %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1708
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1729
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1710
+#, fuzzy, php-format
+msgid "Student started an assignment %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1740
+#, php-format
+msgid "You obtained %d out of %s in Assignment : %s "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1742
+#, fuzzy
+msgid "Assignment results available"
+msgstr "Resultados del curso disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1759
+#, fuzzy, php-format
+msgid "You obtained %d out of %s in Assignment : %s"
+msgstr "Vous avez obtenu"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1765
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1786
+#, php-format
+msgid "Student %s got %s from %s in assignment %s "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1767
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for student"
+msgstr " valutazione automatica per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1785
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for Student"
+msgstr "In fase di valutazione"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1799
+#, php-format
+msgid "You submitted the assignment : %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1801
+#, php-format
+msgid "You submitted the assignment %s "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1818
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1819
+#, fuzzy, php-format
+msgid "You submitted assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1831
+#, fuzzy, php-format
+msgid "Assignment %s submitted by student %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1833
+#, fuzzy, php-format
+msgid "Assignment %s submitted by Student"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1849
+#, fuzzy, php-format
+msgid "Student submitted assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1850
+#, fuzzy, php-format
+msgid "Student %s submitted assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1858
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1876
+#, fuzzy, php-format
+msgid "Assignment %s was reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1860
+#, fuzzy
+msgid "Assignment reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1875
+#, fuzzy, php-format
+msgid "Assignment %s reset"
+msgstr "In fase di valutazione"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1882
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1884
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1902
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1903
+#, fuzzy, php-format
+msgid "Assignment %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1911
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1930
+#, fuzzy, php-format
+msgid "You applied to course %s "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1913
+#, fuzzy
+msgid "You applied for Course"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1931
+#, fuzzy, php-format
+msgid "You have applied to Course %s "
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1939
+#, fuzzy, php-format
+msgid "Student %s applied to course %s "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1941
+#, fuzzy
+msgid "Student applied for Course"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1959
+#, fuzzy, php-format
+msgid "Application for course %s was submitted by Student"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1960
+#, fuzzy, php-format
+msgid "Student %s submitted an application for course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1968
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1996
+#, fuzzy, php-format
+msgid "Application %s for course %s "
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1970
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1998
+#, fuzzy, php-format
+msgid "Application %s by Instructor"
+msgstr "Il Docente ha inviato un messaggio per gli studenti : "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1987
+#, fuzzy, php-format
+msgid "Application %s to course %s "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:1988
+#, fuzzy, php-format
+msgid "Your application was %s for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2016
+#, fuzzy, php-format
+msgid "Student application for course %s was %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2017
+#, fuzzy, php-format
+msgid "Application by Student %s was %s for course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2029
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2055
+#, fuzzy, php-format
+msgid "You published the course %s "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2031
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2058
+#, fuzzy, php-format
+msgid "Course %s sent for approval from admin"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2035
+#, fuzzy
+msgid "Course status updated"
+msgstr "Ver estadísticas del curso del usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2054
+#, fuzzy, php-format
+msgid "Course %s published"
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2057
+#, fuzzy, php-format
+msgid "Course %s sent for Admin approval"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2077
+#, fuzzy, php-format
+msgid "Instructor published the course %s "
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2079
+#, fuzzy, php-format
+msgid "Instructor %s sent the Course %s for approval"
+msgstr "Il Docente ha azzerato il Test per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2083
+#, fuzzy
+msgid "Instructor changed the Course status"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2121
+#, fuzzy, php-format
+msgid "Instructor changed status for Course %s to %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2122
+#, fuzzy, php-format
+msgid "Instructor %s changed status for Course %s to %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2182
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2188
+#, fuzzy, php-format
+msgid "Added to Course %s"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2191
+#, fuzzy, php-format
+msgid "Student %s added to Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2194
+#, fuzzy, php-format
+msgid "You've subscribed to Course %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2197
+#, fuzzy, php-format
+msgid "Student %s subscribed to Course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2200
+#, fuzzy, php-format
+msgid "You started the course %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2203
+#, fuzzy, php-format
+msgid "Student %s started course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2206
+#, fuzzy, php-format
+msgid "You submitted the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2209
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2212
+#, fuzzy, php-format
+msgid "Student %s submitted course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2215
+#, fuzzy, php-format
+msgid "Course %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2218
+#, fuzzy, php-format
+msgid "Student %s retook the course course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2221
+#, fuzzy, php-format
+msgid "Course %s was retaken by Student %s"
+msgstr "Test ritentato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2224
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2227
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student %s"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2230
+#, fuzzy, php-format
+msgid "Congratulations ! You got a badge in Course %s"
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2236
+#, fuzzy, php-format
+msgid "Congratulations ! You got a certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2245
+#, fuzzy, php-format
+msgid "Student %s submitted a review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2248
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2251
+#, fuzzy, php-format
+msgid "Student %s is unsubscribed from Course %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2254
+#, fuzzy, php-format
+msgid "You completed the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2257
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2260
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s complete for you."
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2263
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s complete for Student %s"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2266
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s uncomplete for you."
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2269
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s uncomplete for Student %s"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2272
+#, php-format
+msgid "You added a comment in unit %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2275
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2278
+#, fuzzy, php-format
+msgid "You started the quiz %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2284
+#, fuzzy, php-format
+msgid "You submitted the quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2287
+#, fuzzy, php-format
+msgid "Student %s submitted the quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2290
+#, fuzzy, php-format
+msgid "Quiz %s results available"
+msgstr "Resultados del test disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2293
+#, fuzzy, php-format
+msgid "Quiz %s results available for student %s"
+msgstr "Resultados del test disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2296
+#, fuzzy, php-format
+msgid "Quiz %s reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2299
+#, fuzzy, php-format
+msgid "Quiz %s reset for student %s"
+msgstr " azzera per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2302
+#, fuzzy, php-format
+msgid "You retook the quiz %s"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2305
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2314
+#, fuzzy, php-format
+msgid "You submitted the assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2320
+#, fuzzy, php-format
+msgid "Assignment %s results available"
+msgstr "Resultados del curso disponibles"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2323
+#, php-format
+msgid "Assignment %s results available for student %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2326
+#, fuzzy, php-format
+msgid "Assignment %s reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2329
+#, fuzzy, php-format
+msgid "Assignment %s reset for student %s"
+msgstr " azzera per lo studente "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2332
+#, fuzzy, php-format
+msgid "Latest News : %s for Course : %s"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2335
+#, fuzzy, php-format
+msgid "News : %s was published for your course : %s"
+msgstr " iscritto al corso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2338
+#, fuzzy, php-format
+msgid "You applied for course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2341
+#, fuzzy, php-format
+msgid "Student %s applied for course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2344
+#, fuzzy, php-format
+msgid "Application approved for course %s"
+msgstr " rimosso dal corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2347
+#, fuzzy, php-format
+msgid "Student %s application approved for course : %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2350
+#, fuzzy, php-format
+msgid "Application rejected for course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2353
+#, fuzzy, php-format
+msgid "Student %s application rejected for course : %s"
+msgstr "Studente iscritto al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2356
+#, fuzzy, php-format
+msgid "You published the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2359
+#, fuzzy, php-format
+msgid "You sent the course %s for approval"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2362
+#, fuzzy, php-format
+msgid "Instructor %s published the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-notifications.php:2365
+#, fuzzy, php-format
+msgid "Instructor %s sent the course %s for approval"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:97
+#, fuzzy
+msgid "Course Settings Header"
+msgstr "Ajustes de la cabecera del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:101
+#, fuzzy
+msgid "Course Settings"
+msgstr "Paramètres du Cours"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:109
+#, fuzzy
+msgid "Changes Saved."
+msgstr "Cambios guardados."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:115
+#, fuzzy
+msgid "Do you love clicking checkboxes?"
+msgstr "¿Te gusta hacer clic en chechboxes?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:117
+#, fuzzy
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:151
+#, fuzzy
+msgid "Send Bulk Message"
+msgstr "Messaggio inviato agli studenti "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:161
+#, php-format
+msgid "Enter extend amount ( in %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:162
+msgid "Extend Subscription"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:173
+#, fuzzy
+msgid "Type Message Subject"
+msgstr "Inserisci l'Oggetto nel messaggio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:174
+#, fuzzy
+msgid "Type Message"
+msgstr "Type de Chapitre"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:176
+#, fuzzy
+msgid "All Students"
+msgstr "Aggiungi studenti"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:178
+#, fuzzy
+msgid "Send Message"
+msgstr "Enviar Trackbacks"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:191
+msgid "Enter Student Usernames/Emails, separated by comma"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:193
+#, fuzzy
+msgid "Add Students"
+msgstr "Aggiungi studenti"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:207
+#, fuzzy
+msgid "ASSIGN COURSE BADGE"
+msgstr "Insignia del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:208
+#, fuzzy
+msgid "ASSIGN COURSE CERTIFICATE"
+msgstr "Certificado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:209
+#, fuzzy
+msgid "REMOVE COURSE BADGE"
+msgstr "Insignia del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:210
+#, fuzzy
+msgid "REMOVE COURSE CERTIFICATE"
+msgstr "Certificado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:212
+#, fuzzy
+msgid "Assign Action"
+msgstr "Acción uno"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:228
+#, fuzzy
+msgid "Finished Course"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:230
+#, fuzzy
+msgid "Enter marks"
+msgstr "NOTER"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-screens.php:231
+#, fuzzy
+msgid "Change Course Status"
+msgstr "Paramètres du Cours"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:338
+#, fuzzy, php-format
+msgid "Viewing page %1$s of %2$s"
+msgstr "Visitando página %1$s de %2$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:592
+#, fuzzy
+msgid "REVIEWS"
+msgstr "AVIS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:597
+#, fuzzy
+msgid "STUDENTS"
+msgstr "Elèves"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:731
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1074
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:43
+#, fuzzy
+msgid "FREE"
+msgstr "FREE"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:774
+#, fuzzy
+msgid "Price Options +"
+msgstr "Opciones de privacidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:808
+#, fuzzy
+msgid "PRIVATE"
+msgstr "Privé"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:964
+#, fuzzy, php-format
+msgid "Viewing page %d of %d "
+msgstr "Visitando página %1$s de %2$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1613
+#, fuzzy
+msgid "COURSE EVALUATED "
+msgstr "CORSO VALUTATO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1646
+#, fuzzy
+msgid "Congratulations ! You've earned the "
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1646
+#, fuzzy
+msgid "Badge"
+msgstr "Badge"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1667
+#, fuzzy
+msgid ""
+"Congratulations ! You've successfully passed the course and earned the "
+"Course Completion Certificate !"
+msgstr ""
+"Congratulazioni! Ha completato con successo il Corso e hai ricevuto "
+"l'Attestato di partecipazione!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1667
+#, fuzzy
+msgid "View Certificate"
+msgstr "Certificado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1676
+#, fuzzy, php-format
+msgid "You've obtained %s in course %s "
+msgstr "Vous avez obtenu"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1682
+#, fuzzy
+msgid "COURSE SUBMITTED FOR EVALUATION"
+msgstr "CURSO PRESENTADO PARA SU EVALUACIÓN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1695
+msgid "UNIT"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1698
+msgid "ASSIGNMENT"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1701
+msgid "QUIZ"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1704
+#, fuzzy
+msgid "PLEASE COMPLETE THE "
+msgstr "POR FAVOR COMPLETE EL"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-template.php:1708
+#, fuzzy
+msgid "COURSE CURRICULUM NOT SET"
+msgstr "EL PLAN DEL CURSO NO ESTÁ CONFIGURADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:36
+#, fuzzy
+msgid "BuddyPress Course Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:93
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:234
+msgid "by"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:153
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:265
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:418
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:546
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:979
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1194
+#, fuzzy
+msgid "Widget Title"
+msgstr "Widget Titre"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:154
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:983
+#, fuzzy
+msgid "Style"
+msgstr "Style"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:156
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:985
+#, fuzzy
+msgid "Single"
+msgstr "Individual"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:157
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:986
+#, fuzzy
+msgid "List"
+msgstr "Liste"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:158
+#, fuzzy
+msgid "Ratings List"
+msgstr "Calificación"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:159
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:987
+#, fuzzy
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:162
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:304
+#, fuzzy
+msgid "Select Course Category"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:164
+msgid "None"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:172
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:990
+#, fuzzy
+msgid "Order By"
+msgstr "Trier par:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:174
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:993
+#, fuzzy
+msgid "Random"
+msgstr "Aléatoire"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:175
+#, fuzzy
+msgid "Name"
+msgstr "Nom"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:176
+#, fuzzy
+msgid "Course Title"
+msgstr "Título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:177
+msgid "Number of Reviews"
+msgstr "Liczba oceń"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:178
+#, fuzzy
+msgid "Date Published"
+msgstr "Datos publicados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:179
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:994
+#, fuzzy
+msgid "Rating"
+msgstr "Calificación"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:180
+#, fuzzy
+msgid "Number of Students"
+msgstr "Nombre d'élèves"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:183
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:997
+#, fuzzy
+msgid "Sort "
+msgstr "Trier"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:999
+#, fuzzy
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:186
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1000
+#, fuzzy
+msgid "Decending"
+msgstr "Descendant"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:189
+#, fuzzy
+msgid "Specific Courses (enter comma saperated ids)"
+msgstr "Cursos específicos (introducir ID's separados por comas)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:190
+#, fuzzy
+msgid "Number of Courses to show"
+msgstr "Número de cursos a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:204
+#, fuzzy
+msgid "BuddyPress Instructor Widget"
+msgstr "BuddyPress Instructor Widget"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:228
+msgid "Check all Courses created by "
+msgstr "Sprawdź wszystkie kursy stworzonez przez"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:229
+#, fuzzy
+msgid "More Courses by "
+msgstr "Más cursos por "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:266
+#, fuzzy
+msgid "Fallback Instructor ID"
+msgstr "ID del instructor suplente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:267
+#, fuzzy
+msgid "Number of Courses by the Instructor to show"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:279
+#, fuzzy
+msgid "BuddyPress Course Search Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:337
+#, fuzzy
+msgid "Select Instructor"
+msgstr "Seleziona Docente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:351
+#, fuzzy
+msgid "Select Course Location"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:362
+#, fuzzy
+msgid "Select Course Level"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:369
+#, fuzzy
+msgid "Type Keywords.."
+msgstr "Type de Chapitre"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:419
+#, fuzzy
+msgid "Show Course Category Dropdown"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:420
+#, fuzzy
+msgid "Show Instructor Dropdown"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:424
+#, fuzzy
+msgid "Show Location Dropdown"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:429
+#, fuzzy
+msgid "Show Level Dropdown"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:443
+#, fuzzy
+msgid "BuddyPress Course Stats Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:514
+#, fuzzy
+msgid "TOTAL STUDENTS"
+msgstr "Elèves"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:516
+msgid "BADGES"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:517
+msgid "CERTIFICATES"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:547
+#, fuzzy
+msgid "Select Course"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:549
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:704
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:721
+msgid "All"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:550
+msgid "Current Course (defaults to all)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:561
+msgid "Show Students Stats"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:562
+msgid "Show Badge/Certificates Stats"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:572
+#, fuzzy
+msgid "BuddyPress Course Filter Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:705
+msgid "Online"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:706
+msgid "Offline"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:713
+#, fuzzy
+msgid "Start Date"
+msgstr "COMENZAR CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:714
+msgid "End Date"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:722
+msgid "Free"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:723
+msgid "Paid"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:727
+#, fuzzy
+msgid "Filter Results"
+msgstr "Resultados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:756
+#, fuzzy
+msgid "Course Categories"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:758
+msgid "Location"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:760
+msgid "Levels"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:762
+msgid "Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:764
+msgid "Price"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:766
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/course-header.php:40
+#, fuzzy
+msgid "Instructors"
+msgstr "Instructores"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:768
+#, fuzzy
+msgid "Upcoming Courses"
+msgstr "Kursy w których szkolisz"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:793
+#, fuzzy
+msgid "Show Course category filter"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:794
+#, fuzzy
+msgid "Course Categories Label"
+msgstr "Certificado del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:796
+msgid "Show Free/Paid/All filter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:797
+msgid "Free/Paid Label"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:799
+#, fuzzy
+msgid "Show Offline/Online filter"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:800
+msgid "Online/Offline Label"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:802
+#, fuzzy
+msgid "Show Upcoming/Past Courses filter"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:803
+#, fuzzy
+msgid "Upcoming courses Label"
+msgstr "COURS :"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:811
+#, fuzzy
+msgid "Show Location filter"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:812
+#, fuzzy
+msgid "Location Label"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:823
+#, fuzzy
+msgid "Show Levels filter"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:824
+msgid "Levels Label"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:828
+#, fuzzy
+msgid "Show Instructor filter"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:829
+#, fuzzy
+msgid "Instructor Label"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:830
+msgid "Exclude Category/Level Slugs (comma saperated)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:843
+#, fuzzy
+msgid "Course Reviews Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:909
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:930
+msgid "Default avatar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:980
+msgid "Course ID (optional)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:992
+msgid "Recent"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1003
+#, fuzzy
+msgid "Specific Reviews/Comments (enter comma saperated ids)"
+msgstr "Cursos específicos (introducir ID's separados por comas)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1004
+#, fuzzy
+msgid "Number of Reviews to show"
+msgstr "Liczba oceń"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1018
+#, fuzzy
+msgid "BuddyPress Related Courses Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1146
+#, fuzzy
+msgid "No related courses found !"
+msgstr "No se encontraron cursos."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1195
+#, fuzzy
+msgid "Show from same Course Category"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1196
+#, fuzzy
+msgid "Show from same Instructor"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1200
+#, fuzzy
+msgid "Show from same Course location"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1205
+#, fuzzy
+msgid "Show from same Course Level"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1210
+msgid "Show from same Linkage"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1214
+#, fuzzy
+msgid "Numer of Courses"
+msgstr "Número de cursos a mostrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1215
+#, fuzzy
+msgid "Block Style"
+msgstr "Style"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/bp-course-widgets.php:1231
+#, fuzzy
+msgid "Comma saperated courses"
+msgstr " ha iniziato il Test "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/course-loop.php:93
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/my-courses.php:98
+#, fuzzy
+msgid "You have not subscribed to any courses."
+msgstr "No estás suscrito a ningún curso."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:58
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Wszystkie Kursy <span>%s</span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:62
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Moje Kursy <span>%s</span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:65
+#, fuzzy, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Todos los instructores  <span>%s</span>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:83
+#, fuzzy
+msgid "Order By:"
+msgstr "Trier par:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:85
+#, fuzzy
+msgid "Select Order"
+msgstr "Seleccionar categoría del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:86
+#, fuzzy
+msgid "Newly Published"
+msgstr "Datos publicados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:87
+#, fuzzy
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:88
+#, fuzzy
+msgid "Most Members"
+msgstr "Más popular"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/index.php:89
+#, fuzzy
+msgid "Highest Rated"
+msgstr "Calificación más alta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/instructor-courses.php:89
+#, fuzzy
+msgid "You have not created any Course."
+msgstr "No estás suscrito a ningún curso."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/activity.php:34
+msgid "Load More"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/activity.php:48
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:20
+msgid "Submissions"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:53
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/members.php:19
+#, fuzzy
+msgid "Total number of Students in course"
+msgstr "Nombre total d'élèves dans ce cours"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:54
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/members.php:20
+#, fuzzy
+msgid "Students Currently taking this course"
+msgstr "Alumnos que actualmente están realizando este curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:91
+#, fuzzy
+msgid "See User Activity in Course"
+msgstr "Conferma"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:102
+#, fuzzy
+msgid "No Students found."
+msgstr "No se encontraron cursos."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/admin.php:107
+msgid "BULK ACTIONS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:19
+#, fuzzy
+msgid "Course Curriculum"
+msgstr "Programme du cours"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/curriculum.php:57
+#, fuzzy
+msgid " Hours"
+msgstr "Heures"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/events.php:18
+msgid " Events"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/front.php:34
+#, fuzzy
+msgid " STUDENTS ENROLLED"
+msgstr "Elèves"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/front.php:76
+msgid "READ MORE"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/front.php:85
+msgid "LESS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:22
+#, fuzzy
+msgid "Total Number of Students who took this course"
+msgstr "Número total de alumnos que han tomado este curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:23
+#, fuzzy
+msgid "Average Percentage obtained by Students"
+msgstr "Porcentaje medio obtenido por los alumnos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:23
+#, fuzzy
+msgid "out of 100"
+msgstr " su"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:24
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:31
+#, fuzzy
+msgid "Number of Students who got a Badge"
+msgstr "Número de alumnos que tienen distintivo"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:25
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:30
+#, fuzzy
+msgid "Number of Passed Students"
+msgstr "Número de alumnos aprobados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:26
+#, fuzzy
+msgid "Number of Students who did not pass "
+msgstr "Número de alumnos no aprobados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:29
+#, fuzzy
+msgid "Average Marks obtained by Students"
+msgstr "Promedio de notas obtenidas por alumno"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:38
+#, fuzzy
+msgid "No curriculum defined"
+msgstr "Itinerario:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:63
+#, fuzzy
+msgid "Average Marks in Quiz "
+msgstr "Promedio de notas en test"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:71
+#, fuzzy
+msgid "Calculate :"
+msgstr "Calcular:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/stats.php:72
+#, fuzzy
+msgid "Calculate Statistics for Course"
+msgstr "Calcular estadísticas del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:20
+#, fuzzy
+msgid "ASSIGNMENTS SUBMISSIONS"
+msgstr "PRESENTACIONES DEL CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:51
+#, fuzzy
+msgid "Reset Assignment for User"
+msgstr "Restablecer curso para el usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:52
+msgid "Evaluate Assignment : "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:69
+#, fuzzy
+msgid "QUIZ SUBMISSIONS"
+msgstr "PRESENTACIONES DEL TEST"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-course-module/includes/templates/course/single/submissions.php:124
+#, fuzzy
+msgid "COURSE SUBMISSIONS"
+msgstr "PRESENTACIONES DEL CURSO"
+
+#, fuzzy
+#~ msgid "You're unsubscribed from course"
+#~ msgstr " iscritto al corso"
+
+#, fuzzy
+#~ msgid "You're unsubscribed from course Course %s"
+#~ msgstr " iscritto al corso"
+
+#, fuzzy
+#~ msgid " Minutes"
+#~ msgstr "Minutes"
+
+#, fuzzy
+#~ msgid " minutes"
+#~ msgstr "Minutes"
+
+#, fuzzy
+#~ msgid " hours"
+#~ msgstr "Heures"
+
+#, fuzzy
+#~ msgid "Student %s applied for Course %s"
+#~ msgstr "Puntuación del alumno del curso"
+
+#, fuzzy
+#~ msgid "Student application %s for Course %s"
+#~ msgstr "Puntuación del alumno del curso"
+
+#, fuzzy
+#~ msgid "Student %s application %s for Course %s"
+#~ msgstr "Puntuación del alumno del curso"
+
+#, fuzzy
+#~ msgid "Student "
+#~ msgstr "Elève"
+
+#, fuzzy
+#~ msgid " started the course "
+#~ msgstr " ha iniziato il Test "
+
+#, fuzzy
+#~ msgid "Course "
+#~ msgstr "COURS :"
+
+#, fuzzy
+#~ msgid " reset for student "
+#~ msgstr " azzera per lo studente "
+
+#, fuzzy
+#~ msgid " retake by student "
+#~ msgstr "Test ritentato dallo studente"
+
+#, fuzzy
+#~ msgid " got a badge in the course "
+#~ msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#, fuzzy
+#~ msgid " got a certificate in the course "
+#~ msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#, fuzzy
+#~ msgid " removed from the course "
+#~ msgstr " rimosso dal corso "
+
+#, fuzzy
+#~ msgid "Student started the unit "
+#~ msgstr "Lo Studente ha iniziato l'unità"
+
+#, fuzzy
+#~ msgid " in course "
+#~ msgstr "COURS :"
+
+#, fuzzy
+#~ msgid "Could not find Quiz results for User. Contact Admin."
+#~ msgstr ""
+#~ "No se pudieron encontrar los resultados del test del usuario. Contacte "
+#~ "con el administrador."
+
+#, fuzzy
+#~ msgid "Too Fast or Answer not marked."
+#~ msgstr "Risposta non salvata. Riprova!"
+
+#, fuzzy
+#~ msgid "Answer Saved."
+#~ msgstr "Risposta Salvata."
+
+#, fuzzy
+#~ msgid "Processing..."
+#~ msgstr "Attendere..."
+
+#, fuzzy
+#~ msgid "Saving Answer...please wait"
+#~ msgstr "Salvataggio in corso..."
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#, fuzzy
+#~ msgid "Save Course Settings"
+#~ msgstr "Paramètres du Cours"
+
+#, fuzzy
+#~ msgid "Connect with Course"
+#~ msgstr "CONTINUAR CURSO"
+
+#, fuzzy
+#~ msgid "Select a Course"
+#~ msgstr "Seleccionar categoría del curso"
+
+#, fuzzy
+#~ msgid "Student % submitted the assignment %s"
+#~ msgstr "Lo studente ha inviato il Test"
+
+#, fuzzy
+#~ msgid ""
+#~ "There was issue in removing this user from the Course. Please contact "
+#~ "admin."
+#~ msgstr ""
+#~ "Hubo un problema en la eliminación de este usuario del curso. Por favor, "
+#~ "póngase en contacto con el administrador."
+
+#, fuzzy
+#~ msgid "Annoucements"
+#~ msgstr "Instructores"
+
+#, fuzzy
+#~ msgid "Course Subscribed"
+#~ msgstr "Curso comenzado:"
+
+#, fuzzy
+#~ msgid "User added to Course"
+#~ msgstr "Usuario eliminado del curso"
+
+#, fuzzy
+#~ msgid "User Starts a Course "
+#~ msgstr "COMENZAR CURSO"
+
+#, fuzzy
+#~ msgid "Course Reset by Instructor"
+#~ msgstr "Tutti i corsi dei Docenti"
+
+#, fuzzy
+#~ msgid "Course Retake by User"
+#~ msgstr "Restablecer curso para el usuario"
+
+#, fuzzy
+#~ msgid "Course Submit"
+#~ msgstr "Título del curso"
+
+#, fuzzy
+#~ msgid "Course Evaluation"
+#~ msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#, fuzzy
+#~ msgid "Course Reviews"
+#~ msgstr "Widget del curso de BuddyPress"
+
+#, fuzzy
+#~ msgid "Unsubscribe Course"
+#~ msgstr " iscritto al corso"
+
+#, fuzzy
+#~ msgid "Quiz Start by user"
+#~ msgstr "Test ritentato dallo studente"
+
+#, fuzzy
+#~ msgid "Quiz Submitted by user"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Quiz Reset by Instructor"
+#~ msgstr "Seleziona Docente"
+
+#, fuzzy
+#~ msgid "Quiz Retake by User"
+#~ msgstr "Test ritentato dallo studente"
+
+#, fuzzy
+#~ msgid "Quiz Evaluation"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Assignment Start by user"
+#~ msgstr "Restablecer curso para el usuario"
+
+#, fuzzy
+#~ msgid "Assignment Submitted by user"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Assignment Evaluation"
+#~ msgstr "In fase di valutazione"
+
+#, fuzzy
+#~ msgid " got ="
+#~ msgstr " ottenuto "
+
+#, fuzzy
+#~ msgid " ago"
+#~ msgstr " fa"
+
+#, fuzzy
+#~ msgid "Quiz "
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "FAILED TO MARK COURSE, CONTACT ADMIN"
+#~ msgstr "ERROR AL MARCAR CURSO, CONTACTE CON EL ADMINISTRADOR"
+
+#, fuzzy
+#~ msgid " in Quiz"
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid " got "
+#~ msgstr " ottenuto "
+
+#, fuzzy
+#~ msgid " in Quiz "
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "Instructor added Student "
+#~ msgstr "Il Docente ha aggiunto lo studente "
+
+#, fuzzy
+#~ msgid "Instructor added "
+#~ msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#, fuzzy
+#~ msgid " students in course "
+#~ msgstr "Nombre total d'élèves dans ce cours"
+
+#, fuzzy
+#~ msgid " initiated quiz retake "
+#~ msgstr " ripetizione Test iniziata "
+
+#, fuzzy
+#~ msgid " in quiz "
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "Quiz Auto Evaluated"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid " with marks "
+#~ msgstr "NOTE: "
+
+#, fuzzy
+#~ msgid "Quiz %s submitted by student %s for evaluation"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid " days"
+#~ msgstr "Jours"
+
+#, fuzzy
+#~ msgid "Course expire warning notifications"
+#~ msgstr "Certificado del curso"
+
+#, fuzzy
+#~ msgid "Quizes evaluated"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid "%d Quizes evaluated !"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid "%s Quiz evaluated!"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid ""
+#~ "Results for %s are avaialble. You've recieved %s marks. see results %s ,"
+#~ "evaluated by %s [%s]"
+#~ msgstr ""
+#~ "Resultados para %s están fuera. Usted ha recibido %s notas. \n"
+#~ " \n"
+#~ " ver resultados del test %s, evaluado por% s [% s] \n"
+#~ " \n"
+#~ " \n"
+#~ " --------------------- \n"
+
+#, fuzzy
+#~ msgid "Auto evaluated Course for Student"
+#~ msgstr "Corso valutato automaticamente per lo studente"
+
+#, fuzzy
+#~ msgid "Student got a Certificate in the course "
+#~ msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#, fuzzy
+#~ msgid "Student submitted course for evaluation"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Marks"
+#~ msgstr "NOTER"
+
+#, fuzzy
+#~ msgid "Back to Quiz"
+#~ msgstr "Torna al Test"
+
+#, fuzzy
+#~ msgid "MEMBERSHIP"
+#~ msgstr "ABONNEMENT"
+
+#, fuzzy
+#~ msgid "Right now"
+#~ msgstr " Adesso"
+
+#, fuzzy
+#~ msgid "course"
+#~ msgstr "COURS :"
+
+#, fuzzy
+#~ msgid "Action One"
+#~ msgstr "Acción uno"
+
+#, fuzzy
+#~ msgid "Action Two"
+#~ msgstr "Acción dos"
+
+#, fuzzy
+#~ msgid "Multiple high-fives"
+#~ msgstr "Choca los cinco múltiples"
+
+#, fuzzy
+#~ msgid "%d new high-fives, multi-five!"
+#~ msgstr "%d nuevo \"¡choca los cinco!\""
+
+#, fuzzy
+#~ msgid "%s sent you a high-five!"
+#~ msgstr "¡ %s te ha chocado los cinco!"
+
+#, fuzzy
+#~ msgid "%s high-fived you!"
+#~ msgstr "¡ %s te chocó los cinco!"
+
+#, fuzzy
+#~ msgid " got a caertificate in the course "
+#~ msgstr " ottenuto l'Attestato del Corso "
+
+#, fuzzy
+#~ msgid "Groups Directory"
+#~ msgstr "Directorio de grupos"
+
+#, fuzzy
+#~ msgid "Group Name (required)"
+#~ msgstr "Nombre del grupo (necesario)"
+
+#, fuzzy
+#~ msgid "Group Description (required)"
+#~ msgstr "Descripción del grupo (necesario)"
+
+#, fuzzy
+#~ msgid "This is a public group"
+#~ msgstr "Este es un grupo público"
+
+#, fuzzy
+#~ msgid "Any site member can join this group."
+#~ msgstr "Cualquier miembro del sitio puede unirse a este grupo."
+
+#, fuzzy
+#~ msgid ""
+#~ "This group will be listed in the groups directory and in search results."
+#~ msgstr ""
+#~ "Este grupo será incluido en el directorio de grupos y en la búsqueda de "
+#~ "resultados."
+
+#, fuzzy
+#~ msgid "Group content and activity will be visible to any site member."
+#~ msgstr ""
+#~ "El contenido y la actividad del grupo serán visibles para cualquier "
+#~ "miembro del sitio."
+
+#, fuzzy
+#~ msgid "This is a private group"
+#~ msgstr "Este es un grupo privado"
+
+#, fuzzy
+#~ msgid ""
+#~ "Only users who request membership and are accepted can join the group."
+#~ msgstr ""
+#~ "Sólamente los usuarios que soliciten membresía y sean aceptados pueden "
+#~ "unirse al grupo."
+
+#, fuzzy
+#~ msgid ""
+#~ "Group content and activity will only be visible to members of the group."
+#~ msgstr ""
+#~ "El contenido y la actividad del grupo sólo será visible para los miembros "
+#~ "del grupo."
+
+#, fuzzy
+#~ msgid "This is a hidden group"
+#~ msgstr "Este es un grupo oculto"
+
+#, fuzzy
+#~ msgid "Only users who are invited can join the group."
+#~ msgstr "Sólo los usuarios que sean invitados pueden unirse al grupo."
+
+#, fuzzy
+#~ msgid ""
+#~ "This group will not be listed in the groups directory or search results."
+#~ msgstr ""
+#~ "Este grupo será incluido en el directorio de grupos y en la búsqueda de "
+#~ "resultados."
+
+#, fuzzy
+#~ msgid "Group Invitations"
+#~ msgstr "Invitaciones de grupo"
+
+#, fuzzy
+#~ msgid "Which members of this group are allowed to invite others?"
+#~ msgstr ""
+#~ "¿Qué miembros de este grupo tienen permiso para invitar a otras personas?"
+
+#, fuzzy
+#~ msgid "All group members"
+#~ msgstr "Todos los miembros del grupo"
+
+#, fuzzy
+#~ msgid "Group admins and mods only"
+#~ msgstr "Sólamente administradores y moderadores de grupo"
+
+#, fuzzy
+#~ msgid "Group admins only"
+#~ msgstr "Solo administradores del grupo"
+
+#, fuzzy
+#~ msgid "Group Forums"
+#~ msgstr "Foros del grupo"
+
+#, fuzzy
+#~ msgid "Should this group have a forum?"
+#~ msgstr "¿Debe este grupo tener un foro?"
+
+#, fuzzy
+#~ msgid "Enable discussion forum"
+#~ msgstr "Habilitar foro de discusión"
+
+#, fuzzy
+#~ msgid ""
+#~ "<strong>Attention Site Admin:</strong> Group forums require the <a href="
+#~ "\"%s\">correct setup and configuration</a> of a bbPress installation."
+#~ msgstr ""
+#~ "<strong>A la atención del administrador del site:</strong> Los foros del "
+#~ "grupo solicitan la <a href=\"%s\">correcta instalación y configuración</"
+#~ "a> de la instalación bbPress."
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload an image to use as an avatar for this group. The image will be "
+#~ "shown on the main group page, and in search results."
+#~ msgstr ""
+#~ "Subir una imagen para usarla de avatar para este grupo. Esta imagen se "
+#~ "muestra en la página del grupo principal, y en la búsqueda de resultados."
+
+#, fuzzy
+#~ msgid "Upload Image"
+#~ msgstr "Subir imagen"
+
+#, fuzzy
+#~ msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+#~ msgstr ""
+#~ "Para saltar el proceso de carga del avatar, pulse el botón \"Next Step\"."
+
+#, fuzzy
+#~ msgid "Crop Group Avatar"
+#~ msgstr "Recortar avatar del grupo"
+
+#, fuzzy
+#~ msgid "Avatar to crop"
+#~ msgstr "Avatar a recortar"
+
+#, fuzzy
+#~ msgid "Avatar preview"
+#~ msgstr "Avatar previo"
+
+#, fuzzy
+#~ msgid "Crop Image"
+#~ msgstr "Recortar imagen"
+
+#, fuzzy
+#~ msgid "Select people to invite from your friends list."
+#~ msgstr "Seleccionar personas a invitar desde tu lista de amigos."
+
+#, fuzzy
+#~ msgid "Remove Invite"
+#~ msgstr "Borrar invitación"
+
+#, fuzzy
+#~ msgid ""
+#~ "Once you have built up friend connections you will be able to invite "
+#~ "others to your group."
+#~ msgstr ""
+#~ "Una vez haya construido conexiones de amigos podrá invitar a otros a su "
+#~ "grupo."
+
+#, fuzzy
+#~ msgid "Back to Previous Step"
+#~ msgstr "Volver al paso previo"
+
+#, fuzzy
+#~ msgid "Next Step"
+#~ msgstr "Siguiente paso"
+
+#, fuzzy
+#~ msgid "Create Group and Continue"
+#~ msgstr "Crear grupo y continuar"
+
+#, fuzzy
+#~ msgid "Finish"
+#~ msgstr "Finalizar"
+
+#, fuzzy
+#~ msgid "Become a Teacher"
+#~ msgstr "Convertirse en profesor"
+
+#, fuzzy
+#~ msgid "Newly Created"
+#~ msgstr "Recién creado"
+
+#, fuzzy
+#~ msgid "Requires completition of course "
+#~ msgstr "Se necesita la finalización del curso"
+
+#, fuzzy
+#~ msgid "Structure"
+#~ msgstr "Estructura"
+
+#, fuzzy
+#~ msgid "Units"
+#~ msgstr "Unidades"
+
+#, fuzzy
+#~ msgid "Related Courses"
+#~ msgstr "Cursos relacionados"
+
+#, fuzzy
+#~ msgid "Student finished the unit "
+#~ msgstr "Lo studente ha terminato l'unità "
+
+#, fuzzy
+#~ msgid " out of 100 in Course :"
+#~ msgstr "Porcentaje del curso (sobre 100)"
+
+#, fuzzy
+#~ msgid "Security Check Failed ."
+#~ msgstr "Le Contrôle de sécurité a échoué!"
+
+#, fuzzy
+#~ msgid "Contact Site Admin."
+#~ msgstr "Contacte con el administrador del sitio."
+
+#, fuzzy
+#~ msgid " out of 100 in course "
+#~ msgstr "Porcentaje del curso (sobre 100)"
+
+#, fuzzy
+#~ msgid "No Level Selected"
+#~ msgstr "Nessun Livello Selezionato"

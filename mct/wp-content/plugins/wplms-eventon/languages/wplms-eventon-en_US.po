@@ -1,0 +1,482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS EventOn v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-22 18:01+0530\n"
+"PO-Revision-Date: 2016-01-22 18:01+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ./Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"eventon/\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-eventon\n"
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:13
+msgid "Calendar for Dashboard"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:15
+msgid " DASHBOARD : Calendar Widget"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:60
+msgid "My Course Events"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:70
+msgid "Title:"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:74
+msgid "Select Width"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:76
+msgid "One Fourth"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:77
+msgid "One Third"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:78
+msgid "One Half"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:79
+msgid "Two Third"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:80
+msgid "Three Fourth"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/dashboard_widget.php:81
+msgid "Full"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:43
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:47
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:219
+msgid "Events"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:44
+msgid "Add Course Events"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:50
+msgid "Existing events"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:53
+msgid "Save Events"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:94
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:109
+msgid "Edit Event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:95
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:110
+msgid "Preview"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:96
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:111
+msgid "Remove"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:97
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:112
+msgid "Delete"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:120
+msgid "Select existing event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:122
+msgid "Search an event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:124
+msgid "Set Event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:128
+msgid "Create new Event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:130
+msgid "Event title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:133
+msgid "Create Event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:141
+msgid "Add Event"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:455
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:489
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/migrate.php:42
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:459
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:493
+msgid "Invalid Course id, please edit a course"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:465
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:499
+msgid "Invalid Course Instructor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:598
+msgid "Settings Saved"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:606
+msgid "Event Type"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:613
+msgid "Select Category"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:618
+msgid "Event Location"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:625
+msgid "Select Location"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:629
+msgid "Event Organiser"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:636
+msgid "Select Event Organiser"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:695
+msgid "Event Sub-Title"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:696
+msgid "Event Sub- Title."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:703
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:704
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:713
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:720
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:721
+msgid "All Day Event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:708
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:733
+msgid "No"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:708
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:733
+msgid "Yes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:712
+msgid "Event Start date"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:728
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:729
+msgid "Repeating Event"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:738
+msgid "Repeat Frequency"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:739
+msgid "Event repeats after every Day/Week/Month"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:742
+msgid "Daily"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:742
+msgid "Weekly"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:742
+msgid "Monthly"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:742
+msgid "Yearly"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:747
+msgid "Repeat Event By"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:748
+msgid "Repeat Event By days of month or days of week"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:751
+msgid "Day of Month"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:751
+msgid "Day of Week"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:757
+msgid "Days of Week"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:758
+msgid "Event repeats on following days of week"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Sunday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Monday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Tuesday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Wednesday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Thursday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Friday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:761
+msgid "Saturday"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:766
+msgid "Repeat Gap"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:767
+msgid "Event repeats and gaps for every Day/Week/Month"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:774
+msgid "Maximum Repeat"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/front_end.php:775
+msgid "Number of times event will repeat"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:52
+msgid "Events "
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:138
+msgid "WPLMS Courses"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:177
+msgid "Select a WPLMS Course"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:181
+msgid "Choose from published courses"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:221
+msgid "Course Events slug"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/init.php:285
+#, php-format
+msgid "Events in Course %s"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/migrate.php:140
+#, php-format
+msgid "Migrate all WPLMS Events to EventOn Events %s Start migration %s"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/migrate.php:153
+msgid ""
+"Migration Complete ! All WPLMS Events and settings have now been migrated to "
+"EventOn Events. Check WP Admin - Events section"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/migrate.php:155
+msgid "Deactivate WPLMS Events Plugin"
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/migrate.php:162
+msgid "WPLMS Events deactivated. Create new events with EventOn plugin."
+msgstr ""
+
+# @ wplms-eventon
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-eventon/includes/eventon-daily-view/includes/admin/class-admin_check.php:79
+#, php-format
+msgid "EventON %s is enabled but not effective. "
+msgstr ""

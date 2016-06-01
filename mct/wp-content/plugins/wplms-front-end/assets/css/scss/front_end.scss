@@ -1,0 +1,17 @@
+@import 'basic';
+@import 'general';
+@import 'new';
+//@import 'shortcodes';
+
+/*==== Media Modal Fixes ==== */
+
+.media-modal-content{
+	.media-frame-menu{
+		width:200px !important;
+	}
+	.wp-core-ui h1{margin:0 !important;}
+}
+
+.button.disabled{
+	opacity:0.2;
+}

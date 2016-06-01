@@ -1,0 +1,4171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Course Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-02 15:22+0530\n"
+"PO-Revision-Date: 2016-04-02 15:22+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Olymproject <info@olymproject.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Пожалуйста введите свой логин с сайта Envato."
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Пожалуйста введите свой API на Envato."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"ключ\" является обязательным парамером."
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "\"ID покупки\" на сайте Envato является обязательным параметром."
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Во время запроса API возникла неизвестная ошибка HTTP."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Попробовать снова"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Возникла неизвестная ошибка"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Плагин был обновлён, но не активирован. Пожалуйста активируйте его вручную."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Плагин успешно активирован."
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "Обновления плагина"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Логин: "
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Ключ: "
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Ваш обновлённый плагин <span style=\"color:green\">активен</span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Введенные Вами данные <span style=\"color:red\">недействительны</span>, "
+"автоматическое обновление <span style=\"color:red\">отключено</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Изменить ключ"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Невозможно активировать автообновления.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Добавить ключ"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Логин"
+
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Логин на Themeforest (для автообновлений)"
+
+#: includes/bp-course-actions.php:73
+msgid "Removed a student from Course"
+msgstr "Удались слушателя из курса"
+
+#: includes/bp-course-actions.php:74 includes/bp-course-actions.php:78
+msgid "Student submitted a Course"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-actions.php:75 includes/bp-course-actions.php:77
+msgid "Student started a Course"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-actions.php:76
+msgid "Student submitted a Quiz"
+msgstr "Слушатель отправил ответы к тесту "
+
+#: includes/bp-course-actions.php:79
+msgid "Course reset for Student"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-actions.php:80
+msgid "Bulk action by instructor"
+msgstr "Действие инструктора со списком"
+
+#: includes/bp-course-actions.php:81
+msgid "Course Evaluated for student"
+msgstr "Оценка курса слушателями"
+
+#: includes/bp-course-actions.php:82
+msgid "Student got a Badge"
+msgstr "Слушатель получил знак отличия"
+
+#: includes/bp-course-actions.php:83
+msgid "Student got a certificate"
+msgstr "Слушатель получил сертификат"
+
+#: includes/bp-course-actions.php:84
+msgid "Quiz Evaluated for student"
+msgstr "Тест слушателя оценён "
+
+#: includes/bp-course-actions.php:85
+msgid "Student subscribed for course"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-actions.php:103 includes/bp-course-actions.php:105
+msgid "per"
+msgstr " за "
+
+#: includes/bp-course-actions.php:123
+msgid "SUBSCRIPTION FOR"
+msgstr "ПОДПИСКА НА КУРС"
+
+#: includes/bp-course-actions.php:270
+#, php-format
+msgid "All Instructors <span>%s</span>"
+msgstr "Все инструкторы <span>%s</span>"
+
+#: includes/bp-course-actions.php:291
+#, fuzzy
+msgid "Expired Course"
+msgstr " для курса :  "
+
+#: includes/bp-course-actions.php:292 includes/bp-course-screens.php:225
+msgid "Start Course"
+msgstr "Начать курс"
+
+#: includes/bp-course-actions.php:293 includes/bp-course-screens.php:226
+#, fuzzy
+msgid "Continue Course"
+msgstr "Продолжить курс"
+
+#: includes/bp-course-actions.php:294 includes/bp-course-ajax.php:374
+#: includes/bp-course-screens.php:227
+msgid "Under Evaluation"
+msgstr "На проверке"
+
+#: includes/bp-course-actions.php:295
+msgid "Course Finished"
+msgstr "Курс завершён"
+
+#: includes/bp-course-actions.php:300
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Фильтровать результаты"
+
+#: includes/bp-course-actions.php:306
+msgid "Enter student name/email"
+msgstr "Имя слушателя / email"
+
+#: includes/bp-course-actions.php:307 includes/bp-course-functions.php:217
+#: includes/bp-course-widgets.php:370
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/bp-course-actions.php:343 includes/bp-course-functions.php:600
+#: includes/bp-course-functions.php:922
+msgid "EXPIRED"
+msgstr "ВРЕМЯ КУРСА ИСТЕКЛО"
+
+#: includes/bp-course-actions.php:343 includes/bp-course-actions.php:351
+#: includes/bp-course-actions.php:354 includes/bp-course-actions.php:360
+#: includes/bp-course-actions.php:363 includes/bp-course-actions.php:369
+#: includes/bp-course-actions.php:372 includes/bp-course-actions.php:378
+#, fuzzy
+msgid "COURSE"
+msgstr "НАЧАТЬ КУРС"
+
+#: includes/bp-course-actions.php:351 includes/bp-course-actions.php:369
+#, fuzzy
+msgid "START"
+msgstr "ДАТА НАЧАЛА "
+
+#: includes/bp-course-actions.php:354 includes/bp-course-actions.php:372
+#, fuzzy
+msgid "CONTINUE"
+msgstr "ПРОДОЛЖИТЬ КУРС"
+
+#: includes/bp-course-actions.php:357 includes/bp-course-actions.php:375
+msgid "UNDER"
+msgstr ""
+
+#: includes/bp-course-actions.php:357 includes/bp-course-actions.php:375
+#, fuzzy
+msgid "EVALUATION"
+msgstr "ОЦЕНКА ВЫПОЛНЕНОЙ РАБОТЫ"
+
+#: includes/bp-course-actions.php:360 includes/bp-course-actions.php:378
+#, fuzzy
+msgid "FINISHED"
+msgstr "КУРС ОКОНЧЕН"
+
+#: includes/bp-course-actions.php:363
+#, fuzzy
+msgid "ENABLED"
+msgstr "КУРС АКТИВИРОВАН"
+
+#: includes/bp-course-actions.php:449
+#, fuzzy
+msgid "This Course can not be taken. Contact Administrator."
+msgstr "Ошибка системы безопасности. Свяжитесь с администратором."
+
+#: includes/bp-course-actions.php:461
+#, fuzzy
+msgid "REVIEW COURSE "
+msgstr "УДАЛИТЬ ЗНАК ОТЛИЧИЯ"
+
+#: includes/bp-course-activity.php:196 includes/bp-course-loader.php:66
+#: includes/bp-course-notifications.php:107
+msgid "Course"
+msgstr "Курс"
+
+#: includes/bp-course-activity.php:231
+#, fuzzy, php-format
+msgid "Announcement for Course %s "
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-activity.php:245
+#, fuzzy, php-format
+msgid "News published for Course %s "
+msgstr " подписался на курс"
+
+#: includes/bp-course-activity.php:257
+#: includes/bp-course-notifications.php:478
+#, fuzzy, php-format
+msgid "Student subscribed for course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-activity.php:258
+#, fuzzy, php-format
+msgid "Student %s subscribed for course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-activity.php:271
+#, fuzzy
+msgid "Student started course "
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-activity.php:288
+#, php-format
+msgid "Student %s finished and submitted the course %s"
+msgstr "Слушатель %s закончил и отправил курс %s"
+
+#: includes/bp-course-activity.php:290
+msgid "Student Submitted the course "
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-activity.php:302
+#, fuzzy
+msgid "Instructor evaluated Course for student"
+msgstr "Инструктор оценил выполнение курса слушателем"
+
+#: includes/bp-course-activity.php:303
+#: includes/bp-course-notifications.php:855
+#, fuzzy, php-format
+msgid "Student %s got %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:321
+msgid "Course reset for student "
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-activity.php:322
+#, fuzzy, php-format
+msgid "Course %s is reset for student %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-activity.php:331
+#, fuzzy
+msgid "Student retake Course "
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-activity.php:332
+#, fuzzy, php-format
+msgid "Course %s is retaken by student %s"
+msgstr "Повторное тестирование "
+
+#: includes/bp-course-activity.php:341
+msgid "Student got a Badge in the course "
+msgstr "Слушатель получил знак отличия на этом курсе "
+
+#: includes/bp-course-activity.php:342
+#, fuzzy, php-format
+msgid "Student %s got a badge in the course %s"
+msgstr "Слушатель получил знак отличия на этом курсе "
+
+#: includes/bp-course-activity.php:350
+msgid "Student got a Certificate in course"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-activity.php:351
+#, fuzzy, php-format
+msgid "Student %s got a certificate in the course %s"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-activity.php:360
+#, fuzzy, php-format
+msgid "Student reviewed Course %s"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-activity.php:361
+#, fuzzy, php-format
+msgid "Student %s reviewd the Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:373
+#, fuzzy
+msgid "Student unsubsribed from course "
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-activity.php:374
+#, fuzzy, php-format
+msgid "Student %s is removed from the course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:383
+#, fuzzy
+msgid "Course code applied"
+msgstr "Период обучения истёк"
+
+#: includes/bp-course-activity.php:384
+#, fuzzy, php-format
+msgid "Student %s applied Course code for course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-activity.php:398
+#, fuzzy
+msgid "Student renewed a course"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-activity.php:399
+#, fuzzy, php-format
+msgid "Student %s renewd the course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:407
+msgid "Student started a unit"
+msgstr "Слушатель начал изучение модуля"
+
+#: includes/bp-course-activity.php:408
+#, fuzzy, php-format
+msgid "Student started the unit %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:418
+msgid "Student finished unit "
+msgstr "Слушатель закончил модуль"
+
+#: includes/bp-course-activity.php:419
+#, php-format
+msgid "Student %s finished the unit %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:435
+#, fuzzy
+msgid "Instructor completed a unit for Student "
+msgstr "Инструктор оценил выполнение теста слушателем"
+
+#: includes/bp-course-activity.php:436
+#: includes/bp-course-notifications.php:1249
+#, fuzzy, php-format
+msgid "Instructor %s completed unit %s for Student %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:447
+#, fuzzy
+msgid "Instructor uncompleted a unit for Student "
+msgstr "Инструктор оценил выполнение теста слушателем"
+
+#: includes/bp-course-activity.php:448
+#: includes/bp-course-notifications.php:1306
+#, fuzzy, php-format
+msgid "Instructor %s uncompleted unit %s for Student %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:459
+#, fuzzy
+msgid "Student posted comment on unit "
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-activity.php:460
+#: includes/bp-course-notifications.php:1342
+#, fuzzy, php-format
+msgid "Student %s posted comment on unit %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-activity.php:471
+msgid "Student started a quiz"
+msgstr "Слушатель начал выполнять тест "
+
+#: includes/bp-course-activity.php:472
+#: includes/bp-course-notifications.php:2281
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-activity.php:483
+msgid "Student submitted the Quiz"
+msgstr "Слушатель отправил тест"
+
+#: includes/bp-course-activity.php:484
+#, fuzzy, php-format
+msgid "Quiz %s was submitted by student"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-activity.php:496
+msgid "Instructor evaluated Quiz for student "
+msgstr "Инструктор оценил выполнение теста слушателем"
+
+#: includes/bp-course-activity.php:498
+#, fuzzy, php-format
+msgid "Student %s got %s out of %s in Quiz %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-activity.php:515
+msgid "Quiz retake by Student"
+msgstr "Повторное тестирование "
+
+#: includes/bp-course-activity.php:516
+#, fuzzy, php-format
+msgid "Student %s  initiated retake for quiz %s"
+msgstr "Слушатель начал выполнять тест "
+
+#: includes/bp-course-activity.php:527
+msgid "Instructor Reseted the Quiz for User"
+msgstr "Инструктор сбросил тест для пользователя"
+
+#: includes/bp-course-activity.php:528
+#, fuzzy, php-format
+msgid "Quiz %s  was reset by the Instructor for user %s"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-activity.php:540
+msgid "Instructor added students in course  "
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-activity.php:541
+#, fuzzy, php-format
+msgid "Instructor added %s students in course "
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-activity.php:548
+#, fuzzy
+msgid "Instructor changed course status  "
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-activity.php:549
+#, fuzzy, php-format
+msgid "Instructor changed Course Status for %s students in course "
+msgstr "Инструктор оценил выполнение курса слушателем"
+
+#: includes/bp-course-activity.php:556
+#, fuzzy
+msgid "Instructor sent Bulk message to students"
+msgstr "Инструктор отправил рассылку слушателям : "
+
+#: includes/bp-course-activity.php:557
+#, fuzzy, php-format
+msgid "Bulk Message sent to %s students "
+msgstr "Сообщение разослано по списку слушателей"
+
+#: includes/bp-course-activity.php:564
+#, fuzzy
+msgid "Instructor extended Course subscription"
+msgstr "Инструктор оценил выполнение курса слушателем"
+
+#: includes/bp-course-activity.php:565
+#, fuzzy, php-format
+msgid "Course subscription extended for %s students "
+msgstr "Подписка продлена для %d слушателей "
+
+#: includes/bp-course-activity.php:575
+#, fuzzy
+msgid "Instructor assigned/removed Certificate/Badges"
+msgstr "Инструктор удалил Сертификат/Знак отличия"
+
+#: includes/bp-course-activity.php:576
+#, fuzzy, php-format
+msgid "Instructor added/removed Badges/Certificates from %s students in course"
+msgstr "Инструктор добавил/удалил Знак отличия/Сертификат в курсе "
+
+#: includes/bp-course-activity.php:597
+#: includes/bp-course-notifications.php:1728
+#, fuzzy, php-format
+msgid "Student started assignment %s"
+msgstr "Слушатель начал изучение модуля"
+
+#: includes/bp-course-activity.php:598
+#: includes/bp-course-notifications.php:2311
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-activity.php:616
+#, fuzzy
+msgid "Student submitted assignment "
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-activity.php:617
+#: includes/bp-course-notifications.php:2317
+#, fuzzy, php-format
+msgid "Student %s submitted the assignment %s"
+msgstr "Слушатель отправил тест"
+
+#: includes/bp-course-activity.php:633
+#: includes/bp-course-notifications.php:1758
+#, php-format
+msgid "Results available for assignment %s"
+msgstr ""
+
+#: includes/bp-course-activity.php:634
+#, php-format
+msgid "Student %s got marks %s out of %s in assignment %s "
+msgstr ""
+
+#: includes/bp-course-activity.php:651
+#, fuzzy
+msgid "Instructor Reseted the Assignment for User"
+msgstr "Инструктор сбросил тест для пользователя"
+
+#: includes/bp-course-activity.php:652
+#, fuzzy, php-format
+msgid "Assignment %s was reset by the Instructor for user %s"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-activity.php:670
+#, php-format
+msgid "%1$s wrote a new %2$s, %3$s, on the site %4$s"
+msgstr "%1$s опубликовал(а) %2$s, %3$s, на сайте %4$s"
+
+#: includes/bp-course-activity.php:672
+#, php-format
+msgid "%1$s wrote a new %2$s, %3$s"
+msgstr "%1$s опубликовал(а) %2$s, %3$s"
+
+#: includes/bp-course-activity.php:682
+#, php-format
+msgid "%1$s reviewed the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s просмотрел(а) %2$s, %3$s, на сайте %4$s"
+
+#: includes/bp-course-activity.php:684
+#, php-format
+msgid "%1$s reviewed the %2$s, %3$s"
+msgstr "%1$s просмотрел(а) %2$s, %3$s"
+
+#: includes/bp-course-activity.php:688
+#, php-format
+msgid "%1$s answered the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s ответил(а) %2$s, %3$s, на сайте %4$s"
+
+#: includes/bp-course-activity.php:690
+#, php-format
+msgid "%1$s answered the %2$s, %3$s"
+msgstr "%1$s ответил(а) %2$s, %3$s"
+
+#: includes/bp-course-activity.php:697
+#, fuzzy, php-format
+msgid "User applied for Course %s "
+msgstr " подписался на курс"
+
+#: includes/bp-course-activity.php:698
+#, fuzzy, php-format
+msgid "User %s applied for Course %s "
+msgstr " подписался на курс"
+
+#: includes/bp-course-activity.php:708
+#, fuzzy, php-format
+msgid "User application %s for Course %s "
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-activity.php:709
+#, fuzzy, php-format
+msgid "User %s application %s for Course %s "
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-activity.php:720
+#, fuzzy, php-format
+msgid "Instructor Published the course Course %s "
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-activity.php:721
+#, fuzzy, php-format
+msgid "Instructor %s published the Course %s "
+msgstr " подписался на курс"
+
+#: includes/bp-course-activity.php:729
+#, fuzzy, php-format
+msgid "Instructor submitted the Course %s for approval"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-activity.php:730
+#, fuzzy, php-format
+msgid "Instructor %s submitted the Course %s for approval"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-ajax.php:90 includes/bp-course-ajax.php:1855
+#: includes/bp-course-ajax.php:2067 includes/bp-course-ajax.php:2323
+#: includes/bp-course-ajax.php:2495 includes/bp-course-ajax.php:2508
+#: includes/bp-course-ajax.php:2565 includes/bp-course-ajax.php:2610
+#: includes/bp-course-ajax.php:2674 includes/bp-course-ajax.php:2781
+#: includes/bp-course-ajax.php:2796
+msgid "Security check Failed. Contact Administrator."
+msgstr "Ошибка системы безопасности. Свяжитесь с администратором."
+
+#: includes/bp-course-ajax.php:133 includes/bp-course-ajax.php:163
+#: includes/bp-course-ajax.php:207 includes/bp-course-ajax.php:327
+#: includes/bp-course-ajax.php:407 includes/bp-course-ajax.php:528
+#: includes/bp-course-ajax.php:566 includes/bp-course-ajax.php:644
+#: includes/bp-course-ajax.php:689 includes/bp-course-ajax.php:773
+#: includes/bp-course-ajax.php:826 includes/bp-course-ajax.php:1325
+#: includes/bp-course-ajax.php:1530
+msgid "Security check failed !"
+msgstr "Ошибка безопасности !"
+
+#: includes/bp-course-ajax.php:194
+msgid "Answer Reset"
+msgstr "Сброс ответов"
+
+#: includes/bp-course-ajax.php:196
+msgid "Unable to Reset"
+msgstr "Невозможно сбросить"
+
+#: includes/bp-course-ajax.php:212
+msgid "Incorrect Course selected."
+msgstr "Выбран неверный курс."
+
+#: includes/bp-course-ajax.php:312
+msgid "Statistics successfully calculated. Reloading..."
+msgstr "Статистика успешно пересчитана. Перезагружаю ..."
+
+#: includes/bp-course-ajax.php:314
+msgid "Unable to calculate Average."
+msgstr "Невозможно подсчитать среднее."
+
+#: includes/bp-course-ajax.php:324
+msgid "SHOW STATS"
+msgstr "СТАТИСТИКА"
+
+#: includes/bp-course-ajax.php:324
+msgid "HIDE"
+msgstr "СКРЫТЬ"
+
+#: includes/bp-course-ajax.php:332
+msgid "Incorrect User selected."
+msgstr "Выбран неверный слушатель."
+
+#: includes/bp-course-ajax.php:343
+msgid "This User has not started the course."
+msgstr "Этот слушатель пока не изучает курс."
+
+#: includes/bp-course-ajax.php:347
+msgid "This User has completed the course."
+msgstr "Этот слушатель прошёл курс."
+
+#: includes/bp-course-ajax.php:348
+msgid "Student Score for Course "
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-ajax.php:348
+msgid " out of 100"
+msgstr "из 100"
+
+#: includes/bp-course-ajax.php:358
+msgid "Course Started : "
+msgstr "Курс начал : "
+
+#: includes/bp-course-ajax.php:365
+msgid "Curriculum :"
+msgstr "План обучения : "
+
+#: includes/bp-course-ajax.php:366
+msgid "Quizes"
+msgstr "Тесты"
+
+#: includes/bp-course-ajax.php:374
+msgid "Marks Obtained : "
+msgstr "Оценки отправлены : "
+
+#: includes/bp-course-ajax.php:389
+msgid "Units Completed "
+msgstr "Завершенные модули"
+
+#: includes/bp-course-ajax.php:389 includes/bp-course-ajax.php:797
+msgid " out of "
+msgstr " из "
+
+#: includes/bp-course-ajax.php:427 includes/bp-course-ajax.php:866
+msgid "Marked Answer :"
+msgstr "Ответ : "
+
+#: includes/bp-course-ajax.php:437 includes/bp-course-ajax.php:2392
+#: includes/bp-course-functions.php:483
+msgid "FALSE"
+msgstr "НЕВЕРНО"
+
+#: includes/bp-course-ajax.php:437 includes/bp-course-ajax.php:2392
+#: includes/bp-course-functions.php:483
+msgid "TRUE"
+msgstr "ВЕРНО"
+
+#: includes/bp-course-ajax.php:488 includes/bp-course-ajax.php:931
+msgid "Correct Answer :"
+msgstr "Верный ответ : "
+
+#: includes/bp-course-ajax.php:489
+msgid "View answer explanation"
+msgstr ""
+
+#: includes/bp-course-ajax.php:494
+#, fuzzy
+msgid "Total Marks :"
+msgstr "Всего"
+
+#: includes/bp-course-ajax.php:498 includes/bp-course-ajax.php:500
+msgid "MARKS OBTAINED"
+msgstr ""
+
+#: includes/bp-course-ajax.php:504 includes/bp-course-ajax.php:945
+#: includes/bp-course-ajax.php:953
+msgid "Marks Obtained"
+msgstr "Оценки отправлены"
+
+#: includes/bp-course-ajax.php:516 includes/bp-course-ajax.php:959
+msgid "Total Marks"
+msgstr "Всего"
+
+#: includes/bp-course-ajax.php:533 includes/bp-course-ajax.php:571
+#: includes/bp-course-ajax.php:649 includes/bp-course-ajax.php:778
+#: includes/bp-course-ajax.php:831 includes/bp-course-functions.php:846
+msgid " Incorrect User selected."
+msgstr "Выбран неверный слушатель."
+
+#: includes/bp-course-ajax.php:546
+msgid "User removed from the Course"
+msgstr "Слушатель удален из курса"
+
+#: includes/bp-course-ajax.php:627
+msgid "Course Reset for User"
+msgstr "Сброс курса для пользователя"
+
+#: includes/bp-course-ajax.php:632
+msgid ""
+"There was issue in resetting this course for the user. Please contact admin."
+msgstr ""
+"Возникла проблема со сбросом этого курса для пользователя. Пожалуйста, "
+"свяжитесь с администратором."
+
+#: includes/bp-course-ajax.php:664
+msgid "Quiz Reset for Selected User"
+msgstr "Сброс теста для выбранного пользователя"
+
+#: includes/bp-course-ajax.php:741
+msgid "COURSE MARKED COMPLETE"
+msgstr "КУРС ПОМЕЧЕН КАК ПРОЙДЕННЫЙ"
+
+#: includes/bp-course-ajax.php:797
+msgid "MARKS: "
+msgstr "БАЛЛЫ: "
+
+#: includes/bp-course-ajax.php:797 includes/bp-course-ajax.php:802
+msgid " PENDING"
+msgstr " В ПРОЦЕССЕ"
+
+#: includes/bp-course-ajax.php:802
+msgid "DONE"
+msgstr "ЗАВЕРШЁН"
+
+#: includes/bp-course-ajax.php:811 includes/bp-course-ajax.php:965
+msgid "Total"
+msgstr "Всего"
+
+#: includes/bp-course-ajax.php:812
+msgid "Course Percentage (Out of 100)"
+msgstr "Выполнение курса (из 100%)"
+
+#: includes/bp-course-ajax.php:812
+msgid "Course Percentage out of 100"
+msgstr "Выполнение курса из 100%"
+
+#: includes/bp-course-ajax.php:813
+msgid "Mark Course Complete"
+msgstr "Пометить курс как пройденный"
+
+#: includes/bp-course-ajax.php:836
+msgid " Incorrect Quiz Id."
+msgstr "Неверный id теста."
+
+#: includes/bp-course-ajax.php:945 includes/bp-course-ajax.php:953
+msgid "Give marks"
+msgstr "Оценить"
+
+#: includes/bp-course-ajax.php:946
+msgid "Update Marks"
+msgstr "Изменить оценку"
+
+#: includes/bp-course-ajax.php:954
+msgid "Give Marks"
+msgstr "Оценка"
+
+#: includes/bp-course-ajax.php:966
+msgid "Mark Quiz as Checked"
+msgstr "Пометить тест как проверенный"
+
+#: includes/bp-course-ajax.php:990 includes/bp-course-ajax.php:995
+msgid "Set a Subject for the message"
+msgstr "Тема сообщения"
+
+#: includes/bp-course-ajax.php:1004
+msgid "Messages Sent to "
+msgstr "Сообщение отправлено "
+
+#: includes/bp-course-ajax.php:1004 includes/bp-course-ajax.php:1189
+#: includes/bp-course-ajax.php:1307
+msgid " members"
+msgstr " пользователям "
+
+#: includes/bp-course-ajax.php:1006 includes/bp-course-ajax.php:1197
+#: includes/bp-course-ajax.php:1220 includes/bp-course-ajax.php:1313
+msgid "Please select members"
+msgstr "Пожалуйста выберите участников"
+
+#: includes/bp-course-ajax.php:1095
+#: includes/templates/course/single/admin.php:89
+msgid "Reset Course for User"
+msgstr "Сбросить курс для пользователя"
+
+#: includes/bp-course-ajax.php:1096
+#: includes/templates/course/single/admin.php:90
+msgid "See Course stats for User"
+msgstr "Статистика курса для пользователя"
+
+#: includes/bp-course-ajax.php:1097
+#: includes/templates/course/single/admin.php:92
+msgid "Remove User from this Course"
+msgstr "Удалить пользователя из курса"
+
+#: includes/bp-course-ajax.php:1129
+msgid "Select Assign Value"
+msgstr "Присвоить значение"
+
+#: includes/bp-course-ajax.php:1189
+msgid "Action assigned to "
+msgstr "Действие присвоено  "
+
+#: includes/bp-course-ajax.php:1194 includes/bp-course-ajax.php:1310
+msgid "Could not assign action to members"
+msgstr "Не получилось присвоить действие участникам "
+
+#: includes/bp-course-ajax.php:1215
+msgid "Please enter extension amount"
+msgstr "Пожалуйста введите период продления"
+
+#: includes/bp-course-ajax.php:1243
+#, php-format
+msgid "Subscription extended for %d students, unable to extend for %d students"
+msgstr ""
+"Подписка продлена для %d слушателей, не могу продлить для %d слушателей"
+
+#: includes/bp-course-ajax.php:1245
+#, php-format
+msgid "Subscription extended for %d students"
+msgstr "Подписка продлена для %d слушателей "
+
+#: includes/bp-course-ajax.php:1266
+#, fuzzy
+msgid "Select Course Status"
+msgstr "Выбрать курс"
+
+#: includes/bp-course-ajax.php:1307
+#, fuzzy
+msgid "Course status changed for "
+msgstr "Статистика курса для пользователя"
+
+#: includes/bp-course-ajax.php:1329 includes/bp-course-ajax.php:1534
+msgid "User does not have capability to download stats !"
+msgstr "Пользователь не обладает полномочиями для загрузки статистики ! "
+
+#: includes/bp-course-ajax.php:1369 includes/bp-course-ajax.php:1567
+msgid "START DATE"
+msgstr "ДАТА НАЧАЛА "
+
+#: includes/bp-course-ajax.php:1377 includes/bp-course-ajax.php:1389
+#: includes/bp-course-ajax.php:1437 includes/bp-course-ajax.php:1583
+#: includes/bp-course-ajax.php:1600 includes/bp-course-ajax.php:1793
+msgid "N.A"
+msgstr "Н.Д. "
+
+#: includes/bp-course-ajax.php:1381 includes/bp-course-ajax.php:1586
+msgid "COMPLETION DATE"
+msgstr "ДАТА ЗАВЕРШЕНИЯ "
+
+#: includes/bp-course-ajax.php:1392 includes/bp-course-ajax.php:1604
+#: includes/bp-course-ajax.php:1822
+msgid "ID"
+msgstr "ID "
+
+#: includes/bp-course-ajax.php:1399 includes/bp-course-ajax.php:1611
+msgid "NAME"
+msgstr "ИМЯ "
+
+#: includes/bp-course-ajax.php:1446
+msgid "BADGE"
+msgstr "ЗНАК ОТЛИЧИЯ"
+
+#: includes/bp-course-ajax.php:1458
+msgid "CERTIFICATE"
+msgstr "СЕРТИФИКАТ "
+
+#: includes/bp-course-ajax.php:1470 includes/bp-course-ajax.php:1641
+msgid "SCORE"
+msgstr "БАЛЛ "
+
+#: includes/bp-course-ajax.php:1729
+msgid "User not allowed to access stats"
+msgstr "Пользователи не имеют доступа к статистике "
+
+#: includes/bp-course-ajax.php:1760
+msgid "No data available"
+msgstr "Дата не указана "
+
+#: includes/bp-course-ajax.php:1769 includes/bp-course-loader.php:346
+#: includes/templates/course/single/admin.php:26
+msgid "Stats"
+msgstr "Статистика"
+
+#: includes/bp-course-ajax.php:1789
+msgid "Average"
+msgstr "В среднем "
+
+#: includes/bp-course-ajax.php:1790
+msgid "Max"
+msgstr "Макс. "
+
+#: includes/bp-course-ajax.php:1791
+msgid "Min"
+msgstr "Мин."
+
+#: includes/bp-course-ajax.php:1797
+msgid "Leaderboard"
+msgstr "Доска почёта "
+
+#: includes/bp-course-ajax.php:1817
+msgid "Download Stats"
+msgstr "Загрузить статистику "
+
+#: includes/bp-course-ajax.php:1820
+msgid "Start Date/Time"
+msgstr "Дата/время начала  "
+
+#: includes/bp-course-ajax.php:1821
+msgid "End Date/Time"
+msgstr "Дата/время окончания "
+
+#: includes/bp-course-ajax.php:1823
+msgid "Student Name"
+msgstr "Имя слушателя "
+
+#: includes/bp-course-ajax.php:1824
+msgid "Score"
+msgstr "Баллы "
+
+#: includes/bp-course-ajax.php:1827
+msgid "Question scores (* for static quizzes only)"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1837
+msgid "All students"
+msgstr "Все слушатели"
+
+#: includes/bp-course-ajax.php:1838
+msgid "Students who finished"
+msgstr "Выпускники "
+
+#: includes/bp-course-ajax.php:1841
+msgid "Process Stats"
+msgstr "Статистика процесса "
+
+#: includes/bp-course-ajax.php:1862
+#, fuzzy
+msgid "Unit not in Course"
+msgstr " для курса :  "
+
+#: includes/bp-course-ajax.php:1880
+msgid "Course Expired."
+msgstr "Период обучения истёк"
+
+#: includes/bp-course-ajax.php:1880 includes/bp-course-functions.php:330
+msgid "Click to renew"
+msgstr "Кликните, чтобы обновить "
+
+#: includes/bp-course-ajax.php:1931 includes/bp-course-ajax.php:1952
+msgid "Unit will be available in "
+msgstr "Модуль будет доступен "
+
+#: includes/bp-course-ajax.php:1955 includes/bp-course-ajax.php:1959
+msgid "Unit can not be accessed."
+msgstr "Модуль недоступен."
+
+#: includes/bp-course-ajax.php:1978
+#, fuzzy
+msgid "Unlimited"
+msgstr "Неограниченная продолжительность"
+
+#: includes/bp-course-ajax.php:2003
+#, fuzzy
+msgid "Previous Quiz"
+msgstr "Предыдущий вопрос"
+
+#: includes/bp-course-ajax.php:2005
+msgid "Previous Unit"
+msgstr "Предыдущий модуль"
+
+#: includes/bp-course-ajax.php:2015
+msgid "Check Results"
+msgstr "Результаты"
+
+#: includes/bp-course-ajax.php:2018
+#, fuzzy
+msgid "Continue Quiz"
+msgstr "Продолжить курс"
+
+#: includes/bp-course-ajax.php:2022
+msgid "Start Quiz"
+msgstr "Начать тест"
+
+#: includes/bp-course-ajax.php:2025
+msgid "Mark this Unit Complete"
+msgstr "Пометить модуль как пройденый"
+
+#: includes/bp-course-ajax.php:2047
+msgid "Proceed to Quiz"
+msgstr "Перейти к тестированию"
+
+#: includes/bp-course-ajax.php:2050
+msgid "Next Unit"
+msgstr "Следующий модуль"
+
+#: includes/bp-course-ajax.php:2073 includes/bp-course-ajax.php:2140
+#, fuzzy
+msgid "Invalid submission time."
+msgstr "Оценить отправленные тесты"
+
+#: includes/bp-course-ajax.php:2079 includes/bp-course-ajax.php:2145
+#: includes/bp-course-ajax.php:2335
+#, fuzzy
+msgid "Questions not set."
+msgstr "Продолжительность не установлена "
+
+#: includes/bp-course-ajax.php:2230 includes/bp-course-ajax.php:2280
+#: includes/bp-course-ajax.php:2309
+msgid "Quiz Timed Out ."
+msgstr "Истекло время теста ."
+
+#: includes/bp-course-ajax.php:2231 includes/bp-course-ajax.php:2281
+#: includes/bp-course-ajax.php:2310 includes/bp-course-ajax.php:2314
+msgid "If you want to attempt again, Contact Instructor to reset the quiz."
+msgstr ""
+"Если Вы хотите попробовать ещё раз, свяжитесь с инструктором для сброса "
+"теста."
+
+#: includes/bp-course-ajax.php:2237
+msgid "Quiz Already Attempted."
+msgstr "Попытка пройти тест уже была."
+
+#: includes/bp-course-ajax.php:2238
+msgid "Security Check Failed. Contact Site Admin."
+msgstr "Ошибка системы безопасности. Свяжитесь с администратором."
+
+#: includes/bp-course-ajax.php:2285
+msgid "Start Quiz to begin quiz."
+msgstr "Начать тест."
+
+#: includes/bp-course-ajax.php:2286
+msgid "Click \"Start Quiz\" button to start the Quiz."
+msgstr "Назмите кнопку \"Начать тест\", для начала тестирования. "
+
+#: includes/bp-course-ajax.php:2290
+msgid "Quiz not active."
+msgstr "Тест неактивен."
+
+#: includes/bp-course-ajax.php:2291
+msgid "Contact your instructor or site admin."
+msgstr "Свяжитесь с Вашим инструктором или администратором сайта."
+
+#: includes/bp-course-ajax.php:2313
+msgid "Quiz Already Attempted ."
+msgstr "Попытка пройти тест уже была ."
+
+#: includes/bp-course-ajax.php:2379 includes/bp-course-functions.php:433
+msgid "SHOW HINT"
+msgstr "ПОКАЗАТЬ ПОДСКАЗКУ"
+
+#: includes/bp-course-ajax.php:2380 includes/bp-course-functions.php:434
+msgid "HINT"
+msgstr "ПОДСКАЗКА"
+
+#: includes/bp-course-ajax.php:2460 includes/bp-course-ajax.php:2463
+#, fuzzy
+msgid "Type Answer"
+msgstr "Ответ : "
+
+#: includes/bp-course-ajax.php:2470
+msgid "PAGES"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2512 includes/bp-course-ajax.php:2555
+#, fuzzy
+msgid "Unable to add message"
+msgstr "Невозможно сбросить"
+
+#: includes/bp-course-ajax.php:2545
+msgid "JUST NOW"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2655
+#: includes/templates/course/single/submissions.php:106
+msgid "Reset Quiz for User"
+msgstr "Сбросить тест для пользователя"
+
+#: includes/bp-course-ajax.php:2656
+#: includes/templates/course/single/submissions.php:107
+msgid "Evaluate Quiz for User"
+msgstr "Оценить тест пользователя"
+
+#: includes/bp-course-ajax.php:2716
+#: includes/templates/course/single/submissions.php:153
+msgid "Evaluate Course for User"
+msgstr "Оценить прохождение курса пользователем"
+
+#: includes/bp-course-ajax.php:2744
+#, fuzzy
+msgid "Invalid Course or Unit ID"
+msgstr "Оценить прохождение курса пользователем"
+
+#: includes/bp-course-ajax.php:2751
+#, fuzzy
+msgid "Unit not found in Course"
+msgstr " для курса :  "
+
+#: includes/bp-course-cssjs.php:59
+msgid ""
+"This step is irreversible. Are you sure you want to remove the User from the "
+"course ?"
+msgstr ""
+"Это действие невозмжно вернуть назад. Вы уверены, что хотите удалить этого "
+"пользователя из списка участников курса?"
+
+#: includes/bp-course-cssjs.php:60
+msgid "Confirm, Remove User from Course"
+msgstr "Подтверждаю, удалить пользователя"
+
+#: includes/bp-course-cssjs.php:63
+msgid ""
+"This step is irreversible. All Units, Quiz results would be reset for this "
+"user. Are you sure you want to Reset the Course for this User?"
+msgstr ""
+"Это действие невозмжно вернуть назад. Результаты изучения модулей и "
+"прохождения тестов для этого пользователя будут удалены. Вы уверены, что "
+"хотите обнулить курс для этого пользователя?"
+
+#: includes/bp-course-cssjs.php:64
+msgid "Confirm, Reset Course for this User"
+msgstr "Подтверждаю, сбросить курс"
+
+#: includes/bp-course-cssjs.php:65
+msgid ""
+"This step is irreversible. All Questions answers would be reset for this "
+"user. Are you sure you want to Reset the Quiz for this User? "
+msgstr ""
+"Это действие невозмжно вернуть назад. Все ответы на вопросы этого "
+"пользователя будут удалены. Вы уверены, что хотите обнулить прохождение "
+"теста для этого пользователя?"
+
+#: includes/bp-course-cssjs.php:66
+msgid "Confirm, Reset Quiz for this User"
+msgstr "Подтверждаю, сбросить тест"
+
+#: includes/bp-course-cssjs.php:67
+msgid "Marks Saved"
+msgstr "Оценки сохранены"
+
+#: includes/bp-course-cssjs.php:68
+msgid "Quiz Marks Saved"
+msgstr "Оценка тестирования сохранена"
+
+#: includes/bp-course-cssjs.php:69
+msgid "Submit Quiz"
+msgstr "Отправить ответы "
+
+#: includes/bp-course-cssjs.php:70
+msgid "Sending Messages ..."
+msgstr "Отправляю сообщение ..."
+
+#: includes/bp-course-cssjs.php:71
+msgid "Adding Students to Course ..."
+msgstr "Добавляю слушателей курса ..."
+
+#: includes/bp-course-cssjs.php:72
+msgid "Students successfully added to Course"
+msgstr "Слушатели курса успешно добавлены"
+
+#: includes/bp-course-cssjs.php:73
+msgid "Unable to Add students to Course"
+msgstr "Невозможно добавить слушателей курса"
+
+#: includes/bp-course-cssjs.php:74
+msgid "Please select fields to download"
+msgstr "Пожалуйста выберите поля для загрузки "
+
+#: includes/bp-course-cssjs.php:75
+msgid "Download"
+msgstr "Загрузить "
+
+#: includes/bp-course-cssjs.php:76
+msgid "TIMEOUT"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:79
+msgid "for Course"
+msgstr "к курсу "
+
+#: includes/bp-course-cssjs.php:80
+#, fuzzy
+msgid "Active Filters"
+msgstr "Активности"
+
+#: includes/bp-course-cssjs.php:81
+msgid "Clear all filters"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:82
+#, fuzzy
+msgid "Are you sure you want to remove this note?"
+msgstr ""
+"Это действие невозмжно вернуть назад. Вы уверены, что хотите удалить этого "
+"пользователя из списка участников курса?"
+
+#: includes/bp-course-cssjs.php:83
+#, fuzzy
+msgid "Confirm, remove note"
+msgstr "Подтверждаю, удалить пользователя"
+
+#: includes/bp-course-cssjs.php:84
+msgid "Make Private"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:85
+msgid "Add your note"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:86
+msgid "Please add questions or retake the quiz !"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:87
+#, fuzzy
+msgid "Are you sure you want to remove this Annoucement?"
+msgstr ""
+"Это действие невозмжно вернуть назад. Вы уверены, что хотите удалить этого "
+"пользователя из списка участников курса?"
+
+#: includes/bp-course-cssjs.php:88
+msgid "You're about to start the Quiz. Please click confirm to begin the quiz."
+msgstr ""
+
+#: includes/bp-course-cssjs.php:89
+msgid ""
+"Are you sure you want to submit the quiz. Submitting the quiz will freeze "
+"all your answers, you can not change them.  Please confirm."
+msgstr ""
+
+#: includes/bp-course-cssjs.php:90
+#, fuzzy
+msgid "Check results"
+msgstr "Результаты"
+
+#: includes/bp-course-cssjs.php:91
+#, fuzzy
+msgid "Correct"
+msgstr "Верный ответ : "
+
+#: includes/bp-course-cssjs.php:92
+#, fuzzy
+msgid "Incorrect"
+msgstr "Неверный id теста."
+
+#: includes/bp-course-cssjs.php:96
+msgid "You have few unanswered questions. Are you sure you want to continue ?"
+msgstr ""
+
+#: includes/bp-course-filters.php:441
+msgid "No Courses found."
+msgstr "Курсы не найдены."
+
+#: includes/bp-course-functions.php:53
+msgid "Course Directory"
+msgstr "Каталог курсов"
+
+#: includes/bp-course-functions.php:54
+msgid "All Courses by all instructors"
+msgstr "Все курсы по всем инструкторам"
+
+#: includes/bp-course-functions.php:89 includes/bp-course-loader.php:381
+#: includes/templates/course/single/home.php:39
+msgid "Home"
+msgstr "На главную"
+
+#: includes/bp-course-functions.php:95
+#: includes/templates/course/single/home.php:40
+msgid "Curriculum"
+msgstr "План обучения"
+
+#: includes/bp-course-functions.php:97
+#, fuzzy
+msgid "curriculum"
+msgstr "План обучения"
+
+#: includes/bp-course-functions.php:102
+#: includes/templates/course/single/admin.php:17
+#: includes/templates/course/single/home.php:41
+msgid "Members"
+msgstr "Участники"
+
+#: includes/bp-course-functions.php:104
+#, fuzzy
+msgid "members"
+msgstr " пользователям "
+
+#: includes/bp-course-functions.php:112
+#: includes/templates/course/single/admin.php:23
+msgid "Activity"
+msgstr "Активности"
+
+#: includes/bp-course-functions.php:114
+#, fuzzy
+msgid "activity"
+msgstr "Активности"
+
+#: includes/bp-course-functions.php:127
+#: includes/templates/course/single/home.php:49
+msgid "Group"
+msgstr "Группа"
+
+#: includes/bp-course-functions.php:140
+#: includes/templates/course/single/home.php:55
+msgid "Forum"
+msgstr "Форум"
+
+#: includes/bp-course-functions.php:185
+#: includes/templates/course/single/home.php:60
+msgid "Admin"
+msgstr "Управление курсом"
+
+#: includes/bp-course-functions.php:236 includes/bp-course-functions.php:348
+msgid "TAKE THIS COURSE"
+msgstr "ПРОЙТИ ЭТОТ КУРС"
+
+#: includes/bp-course-functions.php:284
+msgid "START COURSE"
+msgstr "НАЧАТЬ КУРС"
+
+#: includes/bp-course-functions.php:288
+msgid "CONTINUE COURSE"
+msgstr "ПРОДОЛЖИТЬ КУРС"
+
+#: includes/bp-course-functions.php:292
+msgid "COURSE UNDER EVALUATION"
+msgstr "ОЦЕНКА ВЫПОЛНЕНОЙ РАБОТЫ"
+
+#: includes/bp-course-functions.php:298
+msgid "FINISHED COURSE"
+msgstr "КУРС ОКОНЧЕН"
+
+#: includes/bp-course-functions.php:301 includes/bp-course-offline.php:173
+msgid "COURSE FINISHED"
+msgstr "КУРС ЗАВЕРШЁН"
+
+#: includes/bp-course-functions.php:305 includes/bp-course-functions.php:317
+msgid "COURSE ENABLED"
+msgstr "КУРС АКТИВИРОВАН"
+
+#: includes/bp-course-functions.php:305 includes/bp-course-functions.php:317
+msgid "CONTACT ADMIN TO ENABLE"
+msgstr "СВЯЖИТЕСЬ С АДМИНОМ ДЛЯ АКТИВАЦИИ"
+
+#: includes/bp-course-functions.php:330
+msgid "Course Expired"
+msgstr "Период обучения истёк"
+
+#: includes/bp-course-functions.php:350
+msgid "PRIVATE COURSE"
+msgstr "БЕСПЛАТНЫЙ КУРС"
+
+#: includes/bp-course-functions.php:392
+msgid "* REQUIRES"
+msgstr "* ОБЯЗАТЕЛЬНО"
+
+#: includes/bp-course-functions.php:396
+msgid "SEATS"
+msgstr "МЕСТ"
+
+#: includes/bp-course-functions.php:397
+msgid "Course Badge"
+msgstr "Знак отличия"
+
+#: includes/bp-course-functions.php:398
+msgid "Course Certificate"
+msgstr "Сертификат"
+
+#: includes/bp-course-functions.php:553 includes/bp-course-functions.php:563
+#, fuzzy
+msgid "Type answer"
+msgstr "Ответ : "
+
+#: includes/bp-course-functions.php:596
+#, fuzzy
+msgid "Unlimited Time"
+msgstr "Неограниченная продолжительность"
+
+#: includes/bp-course-functions.php:634 includes/bp-course-functions.php:642
+msgid "Next Question"
+msgstr "Следующий вопрос"
+
+#: includes/bp-course-functions.php:638 includes/bp-course-functions.php:641
+msgid "Previous Question"
+msgstr "Предыдущий вопрос"
+
+#: includes/bp-course-functions.php:691 includes/bp-course-functions.php:729
+msgid "Duration not Set"
+msgstr "Продолжительность не установлена "
+
+#: includes/bp-course-functions.php:701 includes/bp-course-functions.php:1189
+msgid "Time Remaining"
+msgstr "Оставшееся время"
+
+#: includes/bp-course-functions.php:702
+msgid "Mins"
+msgstr "Мин."
+
+#: includes/bp-course-functions.php:702
+msgid "Secs"
+msgstr "Сек."
+
+#: includes/bp-course-functions.php:737
+msgid "Progress"
+msgstr ""
+
+#: includes/bp-course-functions.php:782
+msgid "Please set questions in quiz or reset quiz !"
+msgstr ""
+
+#: includes/bp-course-functions.php:826
+msgid "QUESTION"
+msgstr "ВОПРОС"
+
+#: includes/bp-course-functions.php:846
+msgid "Security Error"
+msgstr "Ошибка безопасности"
+
+#: includes/bp-course-functions.php:905
+msgid "year"
+msgstr "год "
+
+#: includes/bp-course-functions.php:905
+msgid "years"
+msgstr "лет "
+
+#: includes/bp-course-functions.php:907
+msgid "month"
+msgstr "месяц"
+
+#: includes/bp-course-functions.php:907
+msgid "months"
+msgstr "месяцев"
+
+#: includes/bp-course-functions.php:909
+msgid "week"
+msgstr "неделя"
+
+#: includes/bp-course-functions.php:909
+msgid "weeks"
+msgstr "недель "
+
+#: includes/bp-course-functions.php:911
+msgid "day"
+msgstr "день "
+
+#: includes/bp-course-functions.php:911
+msgid "days"
+msgstr "дней"
+
+#: includes/bp-course-functions.php:913
+msgid "hour"
+msgstr "час "
+
+#: includes/bp-course-functions.php:913
+msgid "hours"
+msgstr "часов "
+
+#: includes/bp-course-functions.php:915
+msgid "minute"
+msgstr "мин."
+
+#: includes/bp-course-functions.php:915
+#: includes/templates/course/single/curriculum.php:57
+msgid "minutes"
+msgstr "мин."
+
+#: includes/bp-course-functions.php:917
+msgid "second"
+msgstr "секунда "
+
+#: includes/bp-course-functions.php:917
+msgid "seconds"
+msgstr "секунд "
+
+#: includes/bp-course-functions.php:1014
+msgid "Course Curriculum Not Set."
+msgstr "Программа обучения курса не определена."
+
+#: includes/bp-course-functions.php:1069
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Возникли вопросы? Задайте их в форуме к модулю."
+
+#: includes/bp-course-functions.php:1119
+msgid "Attachments"
+msgstr "Приложения"
+
+#: includes/bp-course-functions.php:1147 includes/bp-course-mailer.php:253
+#: includes/bp-course-notifications.php:139
+msgid "Instructor"
+msgstr "Инструктор"
+
+#: includes/bp-course-functions.php:1365 includes/bp-course-functions.php:1368
+msgid "Certificate not valid for user"
+msgstr "Сертификат не действителен для пользователя"
+
+#: includes/bp-course-functions.php:1509
+msgid "Evaluate course submissions"
+msgstr "Оценить отправленные курсы"
+
+#: includes/bp-course-functions.php:1521
+msgid "Evaluate Quiz submissions"
+msgstr "Оценить отправленные тесты"
+
+#: includes/bp-course-functions.php:1527
+msgid "Manage Students"
+msgstr "Управлять слушателями"
+
+#: includes/bp-course-functions.php:1528
+msgid "See Stats"
+msgstr "Статистика"
+
+#: includes/bp-course-functions.php:1529
+msgid "See all Activity"
+msgstr "Активности"
+
+#: includes/bp-course-functions.php:1558
+msgid "Seconds"
+msgstr "сек."
+
+#: includes/bp-course-functions.php:1559
+msgid "Minutes"
+msgstr "мин."
+
+#: includes/bp-course-functions.php:1560
+msgid "Hours"
+msgstr "ч. "
+
+#: includes/bp-course-functions.php:1561
+msgid "Days"
+msgstr "дн. "
+
+#: includes/bp-course-functions.php:1562
+msgid "Weeks"
+msgstr "нед. "
+
+#: includes/bp-course-functions.php:1563
+msgid "Months"
+msgstr "мес. "
+
+#: includes/bp-course-functions.php:1564
+msgid "Years"
+msgstr "лет "
+
+#: includes/bp-course-loader.php:266
+#, fuzzy
+msgid "Search courses ..."
+msgstr "Поиск ..."
+
+#: includes/bp-course-loader.php:288
+#, php-format
+msgid "Courses <span>%s</span>"
+msgstr "Курсы <span>%s</span>"
+
+#: includes/bp-course-loader.php:326
+msgid "My Courses"
+msgstr "Мои курсы"
+
+#: includes/bp-course-loader.php:336
+msgid "Results"
+msgstr "Результаты"
+
+#: includes/bp-course-loader.php:356
+msgid "Instructing Courses"
+msgstr "Инструктирование"
+
+#: includes/bp-course-loader.php:470 includes/bp-course-loader.php:476
+#: includes/bp-course-loader.php:486
+#, fuzzy, php-format
+msgid "Please Update the %s theme to latest version %s"
+msgstr "Пожалуйста обновите тему оформления WPLMS до последней версии"
+
+#: includes/bp-course-mailer.php:90
+#, php-format
+msgid "Click %s to Activate account."
+msgstr ""
+
+#: includes/bp-course-mailer.php:90
+msgid "this link"
+msgstr ""
+
+#: includes/bp-course-mailer.php:251
+msgid "Profile"
+msgstr ""
+
+#: includes/bp-course-mailer.php:251
+#, fuzzy
+msgid "Courses"
+msgstr "Курс"
+
+#: includes/bp-course-mailer.php:253
+msgid "Link"
+msgstr ""
+
+#: includes/bp-course-notifications.php:108
+#: includes/bp-course-notifications.php:140
+msgid "Yes"
+msgstr "Да"
+
+#: includes/bp-course-notifications.php:109
+#: includes/bp-course-notifications.php:141
+msgid "No"
+msgstr "Нет"
+
+#: includes/bp-course-notifications.php:171
+#: includes/bp-course-notifications.php:281
+#, fuzzy, php-format
+msgid "Announcement for course %s"
+msgstr "Инструктор добавил слушателя курса"
+
+#: includes/bp-course-notifications.php:275
+#: includes/bp-course-notifications.php:299
+#: includes/bp-course-notifications.php:2176
+#: includes/bp-course-notifications.php:2179
+#, fuzzy, php-format
+msgid "Announcement for Course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:315
+#: includes/bp-course-notifications.php:363
+#: includes/bp-course-notifications.php:375
+#: includes/bp-course-notifications.php:405
+msgid "Read more"
+msgstr ""
+
+#: includes/bp-course-notifications.php:317
+#: includes/bp-course-notifications.php:362
+#: includes/bp-course-notifications.php:404
+#, fuzzy, php-format
+msgid "News for Course %s"
+msgstr "к курсу "
+
+#: includes/bp-course-notifications.php:374
+#, fuzzy, php-format
+msgid "News for course %s"
+msgstr "к курсу "
+
+#: includes/bp-course-notifications.php:417
+#: includes/bp-course-notifications.php:440
+#, fuzzy, php-format
+msgid "You're subscribed for course : %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:419
+#: includes/bp-course-notifications.php:439
+#: includes/bp-course-notifications.php:456
+#, fuzzy
+msgid "Subscribed for Course"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:454
+#: includes/bp-course-notifications.php:479
+#, fuzzy, php-format
+msgid "Student %s subscribed for course : %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:495
+#, fuzzy, php-format
+msgid "You're added to course : %s"
+msgstr "Инструктор добавил слушателя курса"
+
+#: includes/bp-course-notifications.php:497
+#, fuzzy
+msgid "Added to Course"
+msgstr "Добавить слушателей курса"
+
+#: includes/bp-course-notifications.php:526
+#, fuzzy, php-format
+msgid "Added to course %s"
+msgstr "Добавить слушателей курса"
+
+#: includes/bp-course-notifications.php:527
+#, fuzzy, php-format
+msgid "You've been added to course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:542
+#, fuzzy, php-format
+msgid "Student %s added to course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:544
+#, fuzzy
+msgid "Student added to Course"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-notifications.php:583
+#, fuzzy, php-format
+msgid "Students added to course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:584
+#, fuzzy, php-format
+msgid "%d students added to course : %s , %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:594
+#, fuzzy, php-format
+msgid "You started the course : %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:596
+#, fuzzy
+msgid "Started a Course"
+msgstr "Начать курс"
+
+#: includes/bp-course-notifications.php:615
+#, fuzzy, php-format
+msgid "You started course %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:616
+#, fuzzy, php-format
+msgid "You've started the course : %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:628
+#: includes/bp-course-notifications.php:653
+#, fuzzy, php-format
+msgid "Student %s started the course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:630
+#, fuzzy, php-format
+msgid "Student started the course %s"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-notifications.php:652
+#, fuzzy, php-format
+msgid "Student started course %s"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-notifications.php:662
+#: includes/bp-course-notifications.php:684
+#, fuzzy, php-format
+msgid "You've submitted the course : %s"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:664
+#, fuzzy
+msgid "Course submitted"
+msgstr "Название курса"
+
+#: includes/bp-course-notifications.php:683
+#, fuzzy, php-format
+msgid "Course %s submitted"
+msgstr "Название курса"
+
+#: includes/bp-course-notifications.php:694
+#: includes/bp-course-notifications.php:717
+#, fuzzy, php-format
+msgid "Student %s submitted the course : %s"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:696
+#, fuzzy, php-format
+msgid "Student submitted the course %s"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:716
+#, fuzzy, php-format
+msgid "Student submitted course %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:726
+#, fuzzy, php-format
+msgid "The Course %s was reset by Course instructor "
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:728
+#, fuzzy
+msgid "Course reset"
+msgstr "Курс"
+
+#: includes/bp-course-notifications.php:744
+#, fuzzy, php-format
+msgid "Course %s reset"
+msgstr "Сброс курса для пользователя"
+
+#: includes/bp-course-notifications.php:745
+#, fuzzy, php-format
+msgid "%s Course was reset by Instructor"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:751
+#, fuzzy, php-format
+msgid "%s course reset for student : %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:753
+#: includes/bp-course-notifications.php:804
+#, fuzzy, php-format
+msgid "Course %s reset for student"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:770
+#, fuzzy, php-format
+msgid "Course %s reset for Student"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:771
+#, fuzzy, php-format
+msgid "Course %s was reset for student %s "
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:778
+#, fuzzy, php-format
+msgid "You retook the Course %s "
+msgstr " удален(а) из курса "
+
+#: includes/bp-course-notifications.php:780
+#, fuzzy
+msgid "Course retake"
+msgstr "Знак отличия"
+
+#: includes/bp-course-notifications.php:795
+#, fuzzy, php-format
+msgid "You retook the course Course %s"
+msgstr " удален(а) из курса "
+
+#: includes/bp-course-notifications.php:796
+#, fuzzy, php-format
+msgid "You've retaken the Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:802
+#, fuzzy, php-format
+msgid "Student %s retook the course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:821
+#, fuzzy, php-format
+msgid "Course %s retaken by the Student"
+msgstr "Повторное тестирование "
+
+#: includes/bp-course-notifications.php:822
+#, fuzzy, php-format
+msgid "Course %s was retaken by the student %s "
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:831
+#: includes/bp-course-notifications.php:849
+#, fuzzy, php-format
+msgid "You've obtained %s  in Course : %s"
+msgstr "Вы получили "
+
+#: includes/bp-course-notifications.php:833
+msgid "Course results available"
+msgstr "Доступны результаты курса"
+
+#: includes/bp-course-notifications.php:848
+#, fuzzy, php-format
+msgid "Course %s results available"
+msgstr "Доступны результаты курса"
+
+#: includes/bp-course-notifications.php:857
+#, fuzzy, php-format
+msgid "Course %s evaluated for student"
+msgstr "Оценка курса слушателями"
+
+#: includes/bp-course-notifications.php:873
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student"
+msgstr "Оценка курса слушателями"
+
+#: includes/bp-course-notifications.php:874
+#, fuzzy, php-format
+msgid "Student %s got %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:883
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a badge in Course : %s"
+msgstr "Поздравляем! Вы получили "
+
+#: includes/bp-course-notifications.php:885
+#, fuzzy
+msgid "You got a new Badge !"
+msgstr "Слушатель получил знак отличия"
+
+#: includes/bp-course-notifications.php:904
+#, fuzzy, php-format
+msgid "You got a Badge in Course %s"
+msgstr " получил знак отличия на этом курсе"
+
+#: includes/bp-course-notifications.php:905
+#, fuzzy, php-format
+msgid "You've obtained a Badge in Course : %s"
+msgstr "Слушатель получил знак отличия на этом курсе "
+
+#: includes/bp-course-notifications.php:913
+#: includes/bp-course-notifications.php:1033
+#, fuzzy, php-format
+msgid "Student %s got a Badge in course %s"
+msgstr "Слушатель получил знак отличия на этом курсе "
+
+#: includes/bp-course-notifications.php:915
+#: includes/bp-course-notifications.php:935
+#: includes/bp-course-notifications.php:1035
+#, fuzzy, php-format
+msgid "Student got a Badge in Course %s"
+msgstr "Слушатель получил знак отличия на этом курсе "
+
+#: includes/bp-course-notifications.php:936
+#: includes/bp-course-notifications.php:2233
+#, fuzzy, php-format
+msgid "Student %s got a Badge in Course %s"
+msgstr "Слушатель получил знак отличия на этом курсе "
+
+#: includes/bp-course-notifications.php:945
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a Certificate in Course : %s"
+msgstr "Поздравляем! Вы получили "
+
+#: includes/bp-course-notifications.php:947
+#, fuzzy
+msgid "You got a new Certificate !"
+msgstr "Слушатель получил сертификат"
+
+#: includes/bp-course-notifications.php:966
+#, fuzzy, php-format
+msgid "You got a Certificate in Course %s"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-notifications.php:967
+#, fuzzy, php-format
+msgid "You've obtained a certificate in Course : %s"
+msgstr " получил сертификат курса"
+
+#: includes/bp-course-notifications.php:975
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in course %s"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-notifications.php:977
+#: includes/bp-course-notifications.php:997
+#, fuzzy, php-format
+msgid "Student got a Certificate in Course %s"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-notifications.php:998
+#: includes/bp-course-notifications.php:2239
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in Course %s"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-notifications.php:1006
+#, fuzzy, php-format
+msgid "You've submitted a review of Course : %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1008
+#, fuzzy
+msgid "You submitted a course review"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1025
+#: includes/bp-course-notifications.php:2242
+#, fuzzy, php-format
+msgid "You submitted a review for Course %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1026
+#, fuzzy, php-format
+msgid "You submitted a review Course : %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1053
+#, fuzzy, php-format
+msgid "Student submitted a review for Course %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1054
+#, fuzzy, php-format
+msgid "Student %s submitted a review for the Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1062
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course : %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:1064
+#, fuzzy
+msgid "You unsubscribed from course"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:1079
+#, fuzzy, php-format
+msgid "You're unsubscribed from course %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:1080
+#, fuzzy, php-format
+msgid "You're unsubscribed from the Course %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:1086
+#, fuzzy, php-format
+msgid "Student %s unsubscribed course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:1088
+#: includes/bp-course-notifications.php:1104
+#, fuzzy, php-format
+msgid "Student unsubscribed from Course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:1105
+#, fuzzy, php-format
+msgid "Student %s unsubscribed from Course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:1112
+#, fuzzy, php-format
+msgid "You applied a code for Course : %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1114
+msgid "You applied a course code"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1129
+#, fuzzy, php-format
+msgid "You applied course code in course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1130
+#, fuzzy, php-format
+msgid "You've applied Course Code in Course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1137
+#, fuzzy, php-format
+msgid "Student %s used course code %s for course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:1139
+#, fuzzy, php-format
+msgid "Student applied Course code for Course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1155
+#, fuzzy, php-format
+msgid "Student applied code for Course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1156
+#, fuzzy, php-format
+msgid "Student %s applied code %s for Course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1164
+#, fuzzy, php-format
+msgid "You've completed the unit %s in Course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1166
+msgid "You completed a unit"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1184
+msgid "You completed unit"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1185
+#, fuzzy, php-format
+msgid "You completed a unit %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1192
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1194
+#: includes/bp-course-notifications.php:1251
+#, fuzzy, php-format
+msgid "Student completed a unit in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1212
+#, fuzzy, php-format
+msgid "Student completed unit in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1213
+#, fuzzy, php-format
+msgid "Student %s completed unit %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1221
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s complete in Course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1223
+#, fuzzy, php-format
+msgid "Instructor marked a unit complete in Course %s"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:1241
+#, fuzzy, php-format
+msgid "Instructor marked unit %s complete "
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:1242
+#, fuzzy, php-format
+msgid "Unit %s was marked complete by Instructor %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1269
+#: includes/bp-course-notifications.php:1326
+#, fuzzy, php-format
+msgid "Instructor marked unit %s comple for Student in Course %s"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:1270
+#, fuzzy, php-format
+msgid "Instructor %s completed the unit %s for Student %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1278
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s uncomplete in Course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1280
+#, fuzzy, php-format
+msgid "Instructor marked a unit uncomplete in Course %s"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:1298
+#, fuzzy, php-format
+msgid "Instructor marked unit %s uncompleted "
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:1299
+#, fuzzy, php-format
+msgid "Unit %s was marked uncomplete by Instructor %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1308
+#, fuzzy, php-format
+msgid "Student uncompleted a unit in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1327
+#, fuzzy, php-format
+msgid "Instructor %s uncompleted the unit %s for Student %s in Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1335
+#, php-format
+msgid "You've submitted a comment on unit : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1337
+msgid "You submitted a question/comment"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1365
+#: includes/bp-course-notifications.php:1366
+#, php-format
+msgid "You added a comment on Unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1373
+#, fuzzy, php-format
+msgid "Student %s submitted a comment on unit %s "
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1375
+#, fuzzy
+msgid "Student submitted a comment on Unit"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1394
+#, fuzzy, php-format
+msgid "Student added comment in unit %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1395
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s "
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1405
+#, fuzzy, php-format
+msgid "You've started the quiz : %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:1407
+#, fuzzy
+msgid "You started a Quiz"
+msgstr "Слушатель начал выполнять тест "
+
+#: includes/bp-course-notifications.php:1422
+#, fuzzy, php-format
+msgid "You started quiz %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:1423
+#, fuzzy, php-format
+msgid "You started a quiz %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:1429
+#: includes/bp-course-notifications.php:1450
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s "
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1431
+#, fuzzy, php-format
+msgid "Student started the quiz %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1449
+#, fuzzy, php-format
+msgid "Student started quiz %s"
+msgstr "Слушатель начал выполнять тест "
+
+#: includes/bp-course-notifications.php:1463
+#: includes/bp-course-notifications.php:1482
+#, php-format
+msgid "You obtained %d out of %s in Quiz : "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1465
+msgid "Quiz results available"
+msgstr "Доступны результаты теста"
+
+#: includes/bp-course-notifications.php:1481
+#, fuzzy, php-format
+msgid "Results available for quiz %s"
+msgstr "Доступны результаты теста"
+
+#: includes/bp-course-notifications.php:1488
+#: includes/bp-course-notifications.php:1509
+#, php-format
+msgid "Student %s got %s from %s in quiz %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1490
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for student"
+msgstr "Тест слушателя оценён "
+
+#: includes/bp-course-notifications.php:1508
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for Student"
+msgstr "Тест слушателя оценён "
+
+#: includes/bp-course-notifications.php:1521
+#, fuzzy, php-format
+msgid "You submitted the Quiz : %s"
+msgstr "Слушатель отправил тест"
+
+#: includes/bp-course-notifications.php:1523
+#, fuzzy, php-format
+msgid "You submitted quiz %s "
+msgstr "Слушатель отправил ответы к тесту "
+
+#: includes/bp-course-notifications.php:1540
+#: includes/bp-course-notifications.php:1541
+#, fuzzy, php-format
+msgid "You submitted quiz %s"
+msgstr "Слушатель отправил ответы к тесту "
+
+#: includes/bp-course-notifications.php:1554
+#, fuzzy, php-format
+msgid "Quiz %s submitted by student %s"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:1556
+#, fuzzy, php-format
+msgid "Quiz %s submitted by Student"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:1572
+#, fuzzy, php-format
+msgid "Student submitted quiz %s"
+msgstr "Слушатель отправил ответы к тесту "
+
+#: includes/bp-course-notifications.php:1573
+#, fuzzy, php-format
+msgid "Student %s submitted quiz %s"
+msgstr "Слушатель отправил ответы к тесту "
+
+#: includes/bp-course-notifications.php:1580
+#, php-format
+msgid "You retook the Quiz : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1582
+msgid "You retook a Quiz"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1597
+#: includes/bp-course-notifications.php:1598
+#, php-format
+msgid "You retook quiz %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1604
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1606
+#, fuzzy, php-format
+msgid "Student retook the Quiz %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1622
+#, fuzzy, php-format
+msgid "Student retook the quiz %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1623
+#, fuzzy, php-format
+msgid "Student %s retook the quiz %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1630
+#: includes/bp-course-notifications.php:1648
+#, fuzzy, php-format
+msgid "Quiz %s was reset by Instructor"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:1632
+#, fuzzy
+msgid "Quiz reset by Instructor"
+msgstr "Выбрать инструктора"
+
+#: includes/bp-course-notifications.php:1647
+#, fuzzy, php-format
+msgid "Quiz %s reset"
+msgstr "Тесты"
+
+#: includes/bp-course-notifications.php:1654
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:1656
+#: includes/bp-course-notifications.php:1674
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:1675
+#, fuzzy, php-format
+msgid "Quiz %s was reset for Student %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:1684
+#, fuzzy, php-format
+msgid "You've started the assignemtn : %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1686
+#: includes/bp-course-notifications.php:1701
+#, fuzzy, php-format
+msgid "You started assignment %s"
+msgstr "Оценить задание : "
+
+#: includes/bp-course-notifications.php:1702
+#: includes/bp-course-notifications.php:2308
+#, fuzzy, php-format
+msgid "You started the assignment %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:1708
+#: includes/bp-course-notifications.php:1729
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s "
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:1710
+#, fuzzy, php-format
+msgid "Student started an assignment %s "
+msgstr "Слушатель начал изучение модуля"
+
+#: includes/bp-course-notifications.php:1740
+#, php-format
+msgid "You obtained %d out of %s in Assignment : %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1742
+#, fuzzy
+msgid "Assignment results available"
+msgstr "Доступны результаты курса"
+
+#: includes/bp-course-notifications.php:1759
+#, fuzzy, php-format
+msgid "You obtained %d out of %s in Assignment : %s"
+msgstr "Вы получили "
+
+#: includes/bp-course-notifications.php:1765
+#: includes/bp-course-notifications.php:1786
+#, php-format
+msgid "Student %s got %s from %s in assignment %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1767
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for student"
+msgstr " был проверен для слушателя "
+
+#: includes/bp-course-notifications.php:1785
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for Student"
+msgstr "На проверке"
+
+#: includes/bp-course-notifications.php:1799
+#, php-format
+msgid "You submitted the assignment : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1801
+#, php-format
+msgid "You submitted the assignment %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1818
+#: includes/bp-course-notifications.php:1819
+#, fuzzy, php-format
+msgid "You submitted assignment %s"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:1831
+#, fuzzy, php-format
+msgid "Assignment %s submitted by student %s"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:1833
+#, fuzzy, php-format
+msgid "Assignment %s submitted by Student"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:1849
+#, fuzzy, php-format
+msgid "Student submitted assignment %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1850
+#, fuzzy, php-format
+msgid "Student %s submitted assignment %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1858
+#: includes/bp-course-notifications.php:1876
+#, fuzzy, php-format
+msgid "Assignment %s was reset by Instructor"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:1860
+#, fuzzy
+msgid "Assignment reset by Instructor"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:1875
+#, fuzzy, php-format
+msgid "Assignment %s reset"
+msgstr "На проверке"
+
+#: includes/bp-course-notifications.php:1882
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:1884
+#: includes/bp-course-notifications.php:1902
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:1903
+#, fuzzy, php-format
+msgid "Assignment %s was reset for Student %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:1911
+#: includes/bp-course-notifications.php:1930
+#, fuzzy, php-format
+msgid "You applied to course %s "
+msgstr "Инструктор добавил слушателя курса"
+
+#: includes/bp-course-notifications.php:1913
+#, fuzzy
+msgid "You applied for Course"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1931
+#, fuzzy, php-format
+msgid "You have applied to Course %s "
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:1939
+#, fuzzy, php-format
+msgid "Student %s applied to course %s "
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1941
+#, fuzzy
+msgid "Student applied for Course"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:1959
+#, fuzzy, php-format
+msgid "Application for course %s was submitted by Student"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:1960
+#, fuzzy, php-format
+msgid "Student %s submitted an application for course %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:1968
+#: includes/bp-course-notifications.php:1996
+#, fuzzy, php-format
+msgid "Application %s for course %s "
+msgstr "к курсу "
+
+#: includes/bp-course-notifications.php:1970
+#: includes/bp-course-notifications.php:1998
+#, fuzzy, php-format
+msgid "Application %s by Instructor"
+msgstr "Действие инструктора со списком"
+
+#: includes/bp-course-notifications.php:1987
+#, fuzzy, php-format
+msgid "Application %s to course %s "
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:1988
+#, fuzzy, php-format
+msgid "Your application was %s for Course %s "
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:2016
+#, fuzzy, php-format
+msgid "Student application for course %s was %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:2017
+#, fuzzy, php-format
+msgid "Application by Student %s was %s for course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:2029
+#: includes/bp-course-notifications.php:2055
+#, fuzzy, php-format
+msgid "You published the course %s "
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:2031
+#: includes/bp-course-notifications.php:2058
+#, fuzzy, php-format
+msgid "Course %s sent for approval from admin"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:2035
+#, fuzzy
+msgid "Course status updated"
+msgstr "Статистика курса для пользователя"
+
+#: includes/bp-course-notifications.php:2054
+#, fuzzy, php-format
+msgid "Course %s published"
+msgstr "Название курса"
+
+#: includes/bp-course-notifications.php:2057
+#, fuzzy, php-format
+msgid "Course %s sent for Admin approval"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:2077
+#, fuzzy, php-format
+msgid "Instructor published the course %s "
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:2079
+#, fuzzy, php-format
+msgid "Instructor %s sent the Course %s for approval"
+msgstr "Инструктор сбросил тест для пользователя"
+
+#: includes/bp-course-notifications.php:2083
+#, fuzzy
+msgid "Instructor changed the Course status"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:2121
+#, fuzzy, php-format
+msgid "Instructor changed status for Course %s to %s"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:2122
+#, fuzzy, php-format
+msgid "Instructor %s changed status for Course %s to %s"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:2182
+#: includes/bp-course-notifications.php:2188
+#, fuzzy, php-format
+msgid "Added to Course %s"
+msgstr "Добавить слушателей курса"
+
+#: includes/bp-course-notifications.php:2185
+#: includes/bp-course-notifications.php:2191
+#, fuzzy, php-format
+msgid "Student %s added to Course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:2194
+#, fuzzy, php-format
+msgid "You've subscribed to Course %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:2197
+#, fuzzy, php-format
+msgid "Student %s subscribed to Course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:2200
+#, fuzzy, php-format
+msgid "You started the course %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:2203
+#, fuzzy, php-format
+msgid "Student %s started course %s"
+msgstr "Случатель начал изучение курса"
+
+#: includes/bp-course-notifications.php:2206
+#, fuzzy, php-format
+msgid "You submitted the course %s"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:2209
+#: includes/bp-course-notifications.php:2212
+#, fuzzy, php-format
+msgid "Student %s submitted course %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:2215
+#, fuzzy, php-format
+msgid "Course %s was reset for Student %s"
+msgstr "Сброс курса для слушателя"
+
+#: includes/bp-course-notifications.php:2218
+#, fuzzy, php-format
+msgid "Student %s retook the course course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:2221
+#, fuzzy, php-format
+msgid "Course %s was retaken by Student %s"
+msgstr "Повторное тестирование "
+
+#: includes/bp-course-notifications.php:2224
+#: includes/bp-course-notifications.php:2227
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student %s"
+msgstr "Оценка курса слушателями"
+
+#: includes/bp-course-notifications.php:2230
+#, fuzzy, php-format
+msgid "Congratulations ! You got a badge in Course %s"
+msgstr "Поздравляем! Вы получили "
+
+#: includes/bp-course-notifications.php:2236
+#, fuzzy, php-format
+msgid "Congratulations ! You got a certificate in Course %s"
+msgstr "Слушатель получил сертификат курса "
+
+#: includes/bp-course-notifications.php:2245
+#, fuzzy, php-format
+msgid "Student %s submitted a review for Course %s"
+msgstr "Слушатель закончил курс"
+
+#: includes/bp-course-notifications.php:2248
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:2251
+#, fuzzy, php-format
+msgid "Student %s is unsubscribed from Course %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:2254
+#, fuzzy, php-format
+msgid "You completed the unit %s in course %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:2257
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:2260
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s complete for you."
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:2263
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s complete for Student %s"
+msgstr "Инструктор оценил выполнение курса слушателем"
+
+#: includes/bp-course-notifications.php:2266
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s uncomplete for you."
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-notifications.php:2269
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s uncomplete for Student %s"
+msgstr "Инструктор оценил выполнение курса слушателем"
+
+#: includes/bp-course-notifications.php:2272
+#, php-format
+msgid "You added a comment in unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:2275
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s"
+msgstr "Слушатель начал изучение этого модуля"
+
+#: includes/bp-course-notifications.php:2278
+#, fuzzy, php-format
+msgid "You started the quiz %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:2284
+#, fuzzy, php-format
+msgid "You submitted the quiz %s"
+msgstr "Слушатель отправил тест"
+
+#: includes/bp-course-notifications.php:2287
+#, fuzzy, php-format
+msgid "Student %s submitted the quiz %s"
+msgstr "Слушатель отправил тест"
+
+#: includes/bp-course-notifications.php:2290
+#, fuzzy, php-format
+msgid "Quiz %s results available"
+msgstr "Доступны результаты теста"
+
+#: includes/bp-course-notifications.php:2293
+#, fuzzy, php-format
+msgid "Quiz %s results available for student %s"
+msgstr "Доступны результаты теста"
+
+#: includes/bp-course-notifications.php:2296
+#, fuzzy, php-format
+msgid "Quiz %s reset by Instructor"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:2299
+#, fuzzy, php-format
+msgid "Quiz %s reset for student %s"
+msgstr " - сброс для слушателя"
+
+#: includes/bp-course-notifications.php:2302
+#, fuzzy, php-format
+msgid "You retook the quiz %s"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:2305
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:2314
+#, fuzzy, php-format
+msgid "You submitted the assignment %s"
+msgstr " был отправлен слушателем "
+
+#: includes/bp-course-notifications.php:2320
+#, fuzzy, php-format
+msgid "Assignment %s results available"
+msgstr "Доступны результаты курса"
+
+#: includes/bp-course-notifications.php:2323
+#, php-format
+msgid "Assignment %s results available for student %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:2326
+#, fuzzy, php-format
+msgid "Assignment %s reset by Instructor"
+msgstr " был сброшен инструктором для данного пользователя "
+
+#: includes/bp-course-notifications.php:2329
+#, fuzzy, php-format
+msgid "Assignment %s reset for student %s"
+msgstr " - сброс для слушателя"
+
+#: includes/bp-course-notifications.php:2332
+#, fuzzy, php-format
+msgid "Latest News : %s for Course : %s"
+msgstr "к курсу "
+
+#: includes/bp-course-notifications.php:2335
+#, fuzzy, php-format
+msgid "News : %s was published for your course : %s"
+msgstr " подписался на курс"
+
+#: includes/bp-course-notifications.php:2338
+#, fuzzy, php-format
+msgid "You applied for course %s"
+msgstr "Набранные балл слушателя"
+
+#: includes/bp-course-notifications.php:2341
+#, fuzzy, php-format
+msgid "Student %s applied for course : %s"
+msgstr "Слушатель %s закончил модуль %s курса %s"
+
+#: includes/bp-course-notifications.php:2344
+#, fuzzy, php-format
+msgid "Application approved for course %s"
+msgstr " удален(а) из курса"
+
+#: includes/bp-course-notifications.php:2347
+#, fuzzy, php-format
+msgid "Student %s application approved for course : %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:2350
+#, fuzzy, php-format
+msgid "Application rejected for course %s"
+msgstr "Инструктор добавил слушателя курса"
+
+#: includes/bp-course-notifications.php:2353
+#, fuzzy, php-format
+msgid "Student %s application rejected for course : %s"
+msgstr "Слушатель подписался на курс"
+
+#: includes/bp-course-notifications.php:2356
+#, fuzzy, php-format
+msgid "You published the course %s"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:2359
+#, fuzzy, php-format
+msgid "You sent the course %s for approval"
+msgstr " начал(а) выполнять тест "
+
+#: includes/bp-course-notifications.php:2362
+#, fuzzy, php-format
+msgid "Instructor %s published the course %s"
+msgstr "Слушатель отправил курс "
+
+#: includes/bp-course-notifications.php:2365
+#, fuzzy, php-format
+msgid "Instructor %s sent the course %s for approval"
+msgstr "Инструктор добавил слушателей курса"
+
+#: includes/bp-course-screens.php:97
+msgid "Course Settings Header"
+msgstr "Заголовок настроек курса"
+
+#: includes/bp-course-screens.php:101
+msgid "Course Settings"
+msgstr "Настройки курса"
+
+#: includes/bp-course-screens.php:109
+msgid "Changes Saved."
+msgstr "Изменения сохранены."
+
+#: includes/bp-course-screens.php:115
+msgid "Do you love clicking checkboxes?"
+msgstr "Вы любите кликать по флажкам?"
+
+#: includes/bp-course-screens.php:117
+msgid "Save Settings"
+msgstr "Сохранить изменения"
+
+#: includes/bp-course-screens.php:151
+msgid "Send Bulk Message"
+msgstr "Отправить сообщение по списку"
+
+#: includes/bp-course-screens.php:161
+#, php-format
+msgid "Enter extend amount ( in %s"
+msgstr ""
+
+#: includes/bp-course-screens.php:162
+msgid "Extend Subscription"
+msgstr "Продлить подписку "
+
+#: includes/bp-course-screens.php:173
+msgid "Type Message Subject"
+msgstr "Введите тему сообщения"
+
+#: includes/bp-course-screens.php:174
+msgid "Type Message"
+msgstr "Введите текст сообщения"
+
+#: includes/bp-course-screens.php:176
+#, fuzzy
+msgid "All Students"
+msgstr "Все слушатели"
+
+#: includes/bp-course-screens.php:178
+msgid "Send Message"
+msgstr "Отправить"
+
+#: includes/bp-course-screens.php:191
+#, fuzzy
+msgid "Enter Student Usernames/Emails, separated by comma"
+msgstr "Введите логины слушателей через запятую"
+
+#: includes/bp-course-screens.php:193
+msgid "Add Students"
+msgstr "Добавить слушателей"
+
+#: includes/bp-course-screens.php:207
+msgid "ASSIGN COURSE BADGE"
+msgstr "ПРИСВОИТЬ ЗНАК ОТЛИЧИЯ"
+
+#: includes/bp-course-screens.php:208
+msgid "ASSIGN COURSE CERTIFICATE"
+msgstr "ВЫДАТЬ СЕРТИФИКАТ"
+
+#: includes/bp-course-screens.php:209
+msgid "REMOVE COURSE BADGE"
+msgstr "УДАЛИТЬ ЗНАК ОТЛИЧИЯ"
+
+#: includes/bp-course-screens.php:210
+msgid "REMOVE COURSE CERTIFICATE"
+msgstr "УДАЛИТЬ СЕРТИФИКАТ"
+
+#: includes/bp-course-screens.php:212
+msgid "Assign Action"
+msgstr "Определить действие"
+
+#: includes/bp-course-screens.php:228
+#, fuzzy
+msgid "Finished Course"
+msgstr " для курса :  "
+
+#: includes/bp-course-screens.php:230
+#, fuzzy
+msgid "Enter marks"
+msgstr "Оценить"
+
+#: includes/bp-course-screens.php:231
+#, fuzzy
+msgid "Change Course Status"
+msgstr "Настройки курса"
+
+#: includes/bp-course-template.php:338
+#, php-format
+msgid "Viewing page %1$s of %2$s"
+msgstr "Страница с %1$s по %2$s"
+
+#: includes/bp-course-template.php:592
+msgid "REVIEWS"
+msgstr "ОБЗОРЫ"
+
+#: includes/bp-course-template.php:597
+msgid "STUDENTS"
+msgstr "СЛУШАТЕЛИ"
+
+#: includes/bp-course-template.php:731 includes/bp-course-template.php:1074
+#: includes/templates/course/single/curriculum.php:43
+msgid "FREE"
+msgstr "ОТКРЫТО"
+
+#: includes/bp-course-template.php:774
+#, fuzzy
+msgid "Price Options +"
+msgstr "Конфидециальность"
+
+#: includes/bp-course-template.php:808
+msgid "PRIVATE"
+msgstr "БЕСПЛАТНО"
+
+#: includes/bp-course-template.php:964
+#, fuzzy, php-format
+msgid "Viewing page %d of %d "
+msgstr "Страница с %1$s по %2$s"
+
+#: includes/bp-course-template.php:1613
+msgid "COURSE EVALUATED "
+msgstr "КУРС ОЦЕНЁН"
+
+#: includes/bp-course-template.php:1646
+msgid "Congratulations ! You've earned the "
+msgstr "Поздравляем! Вы получили "
+
+#: includes/bp-course-template.php:1646
+msgid "Badge"
+msgstr "Знак отличия"
+
+#: includes/bp-course-template.php:1667
+msgid ""
+"Congratulations ! You've successfully passed the course and earned the "
+"Course Completion Certificate !"
+msgstr ""
+"Поздравляем! Вы успешно прошли курс обучения и получаете сертификат об "
+"успешном его окончании!"
+
+#: includes/bp-course-template.php:1667
+msgid "View Certificate"
+msgstr "Показать сертификат"
+
+#: includes/bp-course-template.php:1676
+#, fuzzy, php-format
+msgid "You've obtained %s in course %s "
+msgstr "Вы получили "
+
+#: includes/bp-course-template.php:1682
+msgid "COURSE SUBMITTED FOR EVALUATION"
+msgstr "КУРС ОТПРАВЛЕН НА ПРОВЕРКУ"
+
+#: includes/bp-course-template.php:1695
+msgid "UNIT"
+msgstr "МОДУЛЬ"
+
+#: includes/bp-course-template.php:1698
+msgid "ASSIGNMENT"
+msgstr "ЗАДАНИЕ "
+
+#: includes/bp-course-template.php:1701
+msgid "QUIZ"
+msgstr "ТЕСТ "
+
+#: includes/bp-course-template.php:1704
+msgid "PLEASE COMPLETE THE "
+msgstr "ПОЖАЛУЙСТА ЗЕВЕРШИТЕ "
+
+#: includes/bp-course-template.php:1708
+msgid "COURSE CURRICULUM NOT SET"
+msgstr "ПРОГРАММА ОБУЧЕНИЯ НЕ ЗАДАНА"
+
+#: includes/bp-course-widgets.php:36
+msgid "BuddyPress Course Widget"
+msgstr "Виджет курсов для BuddyPress"
+
+#: includes/bp-course-widgets.php:93 includes/bp-course-widgets.php:234
+msgid "by"
+msgstr " инструтор "
+
+#: includes/bp-course-widgets.php:153 includes/bp-course-widgets.php:265
+#: includes/bp-course-widgets.php:418 includes/bp-course-widgets.php:546
+#: includes/bp-course-widgets.php:979 includes/bp-course-widgets.php:1194
+msgid "Widget Title"
+msgstr "Название "
+
+#: includes/bp-course-widgets.php:154 includes/bp-course-widgets.php:983
+msgid "Style"
+msgstr "Стиль"
+
+#: includes/bp-course-widgets.php:156 includes/bp-course-widgets.php:985
+msgid "Single"
+msgstr "Отдельный"
+
+#: includes/bp-course-widgets.php:157 includes/bp-course-widgets.php:986
+msgid "List"
+msgstr "Список"
+
+#: includes/bp-course-widgets.php:158
+msgid "Ratings List"
+msgstr "Рейтинг"
+
+#: includes/bp-course-widgets.php:159 includes/bp-course-widgets.php:987
+msgid "Carousel"
+msgstr "Карусель"
+
+#: includes/bp-course-widgets.php:162 includes/bp-course-widgets.php:304
+msgid "Select Course Category"
+msgstr "Выбрать раздел курса"
+
+#: includes/bp-course-widgets.php:164
+msgid "None"
+msgstr ""
+
+#: includes/bp-course-widgets.php:172 includes/bp-course-widgets.php:990
+msgid "Order By"
+msgstr "Сортировать"
+
+#: includes/bp-course-widgets.php:174 includes/bp-course-widgets.php:993
+msgid "Random"
+msgstr "Произвольно"
+
+#: includes/bp-course-widgets.php:175
+msgid "Name"
+msgstr "Имя"
+
+#: includes/bp-course-widgets.php:176
+msgid "Course Title"
+msgstr "Название курса"
+
+#: includes/bp-course-widgets.php:177
+msgid "Number of Reviews"
+msgstr "Количество оценок"
+
+#: includes/bp-course-widgets.php:178
+msgid "Date Published"
+msgstr "Дата публикации"
+
+#: includes/bp-course-widgets.php:179 includes/bp-course-widgets.php:994
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: includes/bp-course-widgets.php:180
+msgid "Number of Students"
+msgstr "Количество слушателей"
+
+#: includes/bp-course-widgets.php:183 includes/bp-course-widgets.php:997
+msgid "Sort "
+msgstr "Сортировать"
+
+#: includes/bp-course-widgets.php:185 includes/bp-course-widgets.php:999
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: includes/bp-course-widgets.php:186 includes/bp-course-widgets.php:1000
+msgid "Decending"
+msgstr "По убыванию"
+
+#: includes/bp-course-widgets.php:189
+msgid "Specific Courses (enter comma saperated ids)"
+msgstr "Конкретные курсы (укажите id через запятую)"
+
+#: includes/bp-course-widgets.php:190
+msgid "Number of Courses to show"
+msgstr "Кол-во курсов для показа"
+
+#: includes/bp-course-widgets.php:204
+msgid "BuddyPress Instructor Widget"
+msgstr "BuddyPress виджет - Инструтор"
+
+#: includes/bp-course-widgets.php:228
+msgid "Check all Courses created by "
+msgstr "Посмотреть все курсы инструктора"
+
+#: includes/bp-course-widgets.php:229
+msgid "More Courses by "
+msgstr "Другие курсы инструктора "
+
+#: includes/bp-course-widgets.php:266
+msgid "Fallback Instructor ID"
+msgstr "Заредервированный для инструктора ID"
+
+#: includes/bp-course-widgets.php:267
+msgid "Number of Courses by the Instructor to show"
+msgstr "Кол-во курсов инструктора для отображения"
+
+#: includes/bp-course-widgets.php:279
+msgid "BuddyPress Course Search Widget"
+msgstr "BuddyPress виджет - Поиск курсов"
+
+#: includes/bp-course-widgets.php:337
+msgid "Select Instructor"
+msgstr "Выбрать инструктора"
+
+#: includes/bp-course-widgets.php:351
+#, fuzzy
+msgid "Select Course Location"
+msgstr "Выбрать раздел курса"
+
+#: includes/bp-course-widgets.php:362
+msgid "Select Course Level"
+msgstr "Выбрать уровень курса"
+
+#: includes/bp-course-widgets.php:369
+msgid "Type Keywords.."
+msgstr "Ключевые слова..."
+
+#: includes/bp-course-widgets.php:419
+msgid "Show Course Category Dropdown"
+msgstr "Список рубрик курсов"
+
+#: includes/bp-course-widgets.php:420
+msgid "Show Instructor Dropdown"
+msgstr "Список инструкторов"
+
+#: includes/bp-course-widgets.php:424
+#, fuzzy
+msgid "Show Location Dropdown"
+msgstr "Список инструкторов"
+
+#: includes/bp-course-widgets.php:429
+msgid "Show Level Dropdown"
+msgstr "Список уровней"
+
+#: includes/bp-course-widgets.php:443
+msgid "BuddyPress Course Stats Widget"
+msgstr "Виджет статистики курсов для BuddyPress"
+
+#: includes/bp-course-widgets.php:514
+msgid "TOTAL STUDENTS"
+msgstr "СЛУШАТЕЛИ"
+
+#: includes/bp-course-widgets.php:516
+msgid "BADGES"
+msgstr "ЗНАКИ ОТЛИЧИЯ"
+
+#: includes/bp-course-widgets.php:517
+msgid "CERTIFICATES"
+msgstr "СЕРТИФИКАТЫ "
+
+#: includes/bp-course-widgets.php:547
+msgid "Select Course"
+msgstr "Выбрать курс"
+
+#: includes/bp-course-widgets.php:549 includes/bp-course-widgets.php:704
+#: includes/bp-course-widgets.php:721
+msgid "All"
+msgstr "Все"
+
+#: includes/bp-course-widgets.php:550
+msgid "Current Course (defaults to all)"
+msgstr "Выбранный курс (стандартно для всех)"
+
+#: includes/bp-course-widgets.php:561
+msgid "Show Students Stats"
+msgstr "Показать статистику учащихся"
+
+#: includes/bp-course-widgets.php:562
+msgid "Show Badge/Certificates Stats"
+msgstr "Показать статистику по Знакам отличия/Сертификатам"
+
+#: includes/bp-course-widgets.php:572
+msgid "BuddyPress Course Filter Widget"
+msgstr "Виджет-филтр курсов BuddyPress"
+
+#: includes/bp-course-widgets.php:705
+msgid "Online"
+msgstr ""
+
+#: includes/bp-course-widgets.php:706
+msgid "Offline"
+msgstr ""
+
+#: includes/bp-course-widgets.php:713
+#, fuzzy
+msgid "Start Date"
+msgstr "Дата/время начала  "
+
+#: includes/bp-course-widgets.php:714
+#, fuzzy
+msgid "End Date"
+msgstr "Дата/время окончания "
+
+#: includes/bp-course-widgets.php:722
+msgid "Free"
+msgstr "Бесплатный "
+
+#: includes/bp-course-widgets.php:723
+msgid "Paid"
+msgstr "Платный "
+
+#: includes/bp-course-widgets.php:727
+msgid "Filter Results"
+msgstr "Фильтровать результаты"
+
+#: includes/bp-course-widgets.php:756
+msgid "Course Categories"
+msgstr "Рубрики курсов"
+
+#: includes/bp-course-widgets.php:758
+msgid "Location"
+msgstr ""
+
+#: includes/bp-course-widgets.php:760
+msgid "Levels"
+msgstr "Уровни "
+
+#: includes/bp-course-widgets.php:762
+msgid "Type"
+msgstr "Тип "
+
+#: includes/bp-course-widgets.php:764
+msgid "Price"
+msgstr ""
+
+#: includes/bp-course-widgets.php:766
+#: includes/templates/course/single/course-header.php:40
+msgid "Instructors"
+msgstr "Инструкторы"
+
+#: includes/bp-course-widgets.php:768
+#, fuzzy
+msgid "Upcoming Courses"
+msgstr "Инструктирование"
+
+#: includes/bp-course-widgets.php:793
+msgid "Show Course category filter"
+msgstr "Показать фильтр рубрик курсов"
+
+#: includes/bp-course-widgets.php:794
+msgid "Course Categories Label"
+msgstr "Ярлык рубрик курса"
+
+#: includes/bp-course-widgets.php:796
+msgid "Show Free/Paid/All filter"
+msgstr "Показать фильтр Бесплатных/Платных/Всех"
+
+#: includes/bp-course-widgets.php:797
+msgid "Free/Paid Label"
+msgstr "Ярлык Бесплатных/Платных"
+
+#: includes/bp-course-widgets.php:799
+#, fuzzy
+msgid "Show Offline/Online filter"
+msgstr "Показать фильтр уровней"
+
+#: includes/bp-course-widgets.php:800
+msgid "Online/Offline Label"
+msgstr ""
+
+#: includes/bp-course-widgets.php:802
+#, fuzzy
+msgid "Show Upcoming/Past Courses filter"
+msgstr "Список инструкторов"
+
+#: includes/bp-course-widgets.php:803
+#, fuzzy
+msgid "Upcoming courses Label"
+msgstr " курса "
+
+#: includes/bp-course-widgets.php:811
+#, fuzzy
+msgid "Show Location filter"
+msgstr "Показать фильтр рубрик курсов"
+
+#: includes/bp-course-widgets.php:812
+#, fuzzy
+msgid "Location Label"
+msgstr "Инструктор добавил"
+
+#: includes/bp-course-widgets.php:823
+msgid "Show Levels filter"
+msgstr "Показать фильтр уровней"
+
+#: includes/bp-course-widgets.php:824
+msgid "Levels Label"
+msgstr "Ярлык уровней"
+
+#: includes/bp-course-widgets.php:828
+#, fuzzy
+msgid "Show Instructor filter"
+msgstr "Список инструкторов"
+
+#: includes/bp-course-widgets.php:829
+#, fuzzy
+msgid "Instructor Label"
+msgstr "Инструктор добавил"
+
+#: includes/bp-course-widgets.php:830
+msgid "Exclude Category/Level Slugs (comma saperated)"
+msgstr "Исключить рубрику/Код уровня (через запятую)"
+
+#: includes/bp-course-widgets.php:843
+#, fuzzy
+msgid "Course Reviews Widget"
+msgstr "Виджет-филтр курсов BuddyPress"
+
+#: includes/bp-course-widgets.php:909 includes/bp-course-widgets.php:930
+msgid "Default avatar"
+msgstr ""
+
+#: includes/bp-course-widgets.php:980
+msgid "Course ID (optional)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:992
+msgid "Recent"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1003
+#, fuzzy
+msgid "Specific Reviews/Comments (enter comma saperated ids)"
+msgstr "Конкретные курсы (укажите id через запятую)"
+
+#: includes/bp-course-widgets.php:1004
+#, fuzzy
+msgid "Number of Reviews to show"
+msgstr "Количество оценок"
+
+#: includes/bp-course-widgets.php:1018
+#, fuzzy
+msgid "BuddyPress Related Courses Widget"
+msgstr "Виджет курсов для BuddyPress"
+
+#: includes/bp-course-widgets.php:1146
+#, fuzzy
+msgid "No related courses found !"
+msgstr "Курсы не найдены."
+
+#: includes/bp-course-widgets.php:1195
+#, fuzzy
+msgid "Show from same Course Category"
+msgstr "Выбрать раздел курса"
+
+#: includes/bp-course-widgets.php:1196
+#, fuzzy
+msgid "Show from same Instructor"
+msgstr "Список инструкторов"
+
+#: includes/bp-course-widgets.php:1200
+#, fuzzy
+msgid "Show from same Course location"
+msgstr "Выбрать раздел курса"
+
+#: includes/bp-course-widgets.php:1205
+#, fuzzy
+msgid "Show from same Course Level"
+msgstr "Выбрать уровень курса"
+
+#: includes/bp-course-widgets.php:1210
+msgid "Show from same Linkage"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1214
+#, fuzzy
+msgid "Numer of Courses"
+msgstr "Кол-во курсов для показа"
+
+#: includes/bp-course-widgets.php:1215
+#, fuzzy
+msgid "Block Style"
+msgstr "Стиль"
+
+#: includes/bp-course-widgets.php:1231
+#, fuzzy
+msgid "Comma saperated courses"
+msgstr " начал(а) выполнять тест "
+
+#: includes/templates/course/course-loop.php:93
+#: includes/templates/course/my-courses.php:98
+msgid "You have not subscribed to any courses."
+msgstr "Вы не подписаны ни на один из курсов. "
+
+#: includes/templates/course/index.php:58
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Все курсы <span>%s</span>"
+
+#: includes/templates/course/index.php:62
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Мои курсы <span>%s</span>"
+
+#: includes/templates/course/index.php:65
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Инструктируемые курсы <span>%s</span>"
+
+#: includes/templates/course/index.php:83
+msgid "Order By:"
+msgstr "Упорядочить по: "
+
+#: includes/templates/course/index.php:85
+msgid "Select Order"
+msgstr "Вид"
+
+#: includes/templates/course/index.php:86
+msgid "Newly Published"
+msgstr "Новизна"
+
+#: includes/templates/course/index.php:87
+msgid "Alphabetical"
+msgstr "Алфавит"
+
+#: includes/templates/course/index.php:88
+msgid "Most Members"
+msgstr "Кол-во слушателей"
+
+#: includes/templates/course/index.php:89
+msgid "Highest Rated"
+msgstr "Рейтинг"
+
+#: includes/templates/course/instructor-courses.php:89
+msgid "You have not created any Course."
+msgstr "Вы не создали ни одного курса. "
+
+#: includes/templates/course/single/activity.php:34
+msgid "Load More"
+msgstr "Загрузить ещё "
+
+#: includes/templates/course/single/activity.php:48
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+"Извините, но активность не найдена. Пожалуйста попробуйте задать другой "
+"фильтр."
+
+#: includes/templates/course/single/admin.php:20
+msgid "Submissions"
+msgstr "Отправки"
+
+#: includes/templates/course/single/admin.php:53
+#: includes/templates/course/single/members.php:19
+msgid "Total number of Students in course"
+msgstr "Общее количество слушателей курса"
+
+#: includes/templates/course/single/admin.php:54
+#: includes/templates/course/single/members.php:20
+msgid "Students Currently taking this course"
+msgstr "Слушателей в процессе изучения курса"
+
+#: includes/templates/course/single/admin.php:91
+msgid "See User Activity in Course"
+msgstr "Смотреть активности пользователя в рамках курса"
+
+#: includes/templates/course/single/admin.php:102
+msgid "No Students found."
+msgstr "Слушатели не найдены."
+
+#: includes/templates/course/single/admin.php:107
+msgid "BULK ACTIONS"
+msgstr "Действия со списком"
+
+#: includes/templates/course/single/curriculum.php:19
+msgid "Course Curriculum"
+msgstr "Учебный план курса"
+
+#: includes/templates/course/single/curriculum.php:57
+msgid " Hours"
+msgstr " час."
+
+#: includes/templates/course/single/events.php:18
+msgid " Events"
+msgstr " События"
+
+#: includes/templates/course/single/front.php:34
+msgid " STUDENTS ENROLLED"
+msgstr " СЛУШАТЕЛЕЙ В СПИСКЕ"
+
+#: includes/templates/course/single/front.php:76
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#: includes/templates/course/single/front.php:85
+msgid "LESS"
+msgstr "МЕНЬШЕ"
+
+#: includes/templates/course/single/stats.php:22
+msgid "Total Number of Students who took this course"
+msgstr "Общее количество слушателей, прошедших курс"
+
+#: includes/templates/course/single/stats.php:23
+msgid "Average Percentage obtained by Students"
+msgstr "Средний процент выполнения"
+
+#: includes/templates/course/single/stats.php:23
+msgid "out of 100"
+msgstr "из 100 "
+
+#: includes/templates/course/single/stats.php:24
+#: includes/templates/course/single/stats.php:31
+msgid "Number of Students who got a Badge"
+msgstr "Знаки отличия"
+
+#: includes/templates/course/single/stats.php:25
+#: includes/templates/course/single/stats.php:30
+msgid "Number of Passed Students"
+msgstr "Успешно прошли курс"
+
+#: includes/templates/course/single/stats.php:26
+msgid "Number of Students who did not pass "
+msgstr "Не прошли курс"
+
+#: includes/templates/course/single/stats.php:29
+msgid "Average Marks obtained by Students"
+msgstr "Средний балл"
+
+#: includes/templates/course/single/stats.php:38
+msgid "No curriculum defined"
+msgstr "План обучения не задан  "
+
+#: includes/templates/course/single/stats.php:63
+msgid "Average Marks in Quiz "
+msgstr "Средний балл по результатам тестирования"
+
+#: includes/templates/course/single/stats.php:71
+msgid "Calculate :"
+msgstr "Подсчитать : "
+
+#: includes/templates/course/single/stats.php:72
+msgid "Calculate Statistics for Course"
+msgstr "Посчитать статистику курса "
+
+#: includes/templates/course/single/submissions.php:20
+msgid "ASSIGNMENTS SUBMISSIONS"
+msgstr "ОТПРАВКИ ЗАДАНИЙ"
+
+#: includes/templates/course/single/submissions.php:51
+msgid "Reset Assignment for User"
+msgstr "Сбросить задание для пользователя"
+
+#: includes/templates/course/single/submissions.php:52
+msgid "Evaluate Assignment : "
+msgstr "Оценить задание : "
+
+#: includes/templates/course/single/submissions.php:69
+msgid "QUIZ SUBMISSIONS"
+msgstr "ВСЕГО ТЕСТОВ"
+
+#: includes/templates/course/single/submissions.php:124
+msgid "COURSE SUBMISSIONS"
+msgstr "ПРОЙДЕНО КУРСОВ"
+
+#, fuzzy
+#~ msgid "You're unsubscribed from course"
+#~ msgstr " подписался на курс"
+
+#, fuzzy
+#~ msgid "You're unsubscribed from course Course %s"
+#~ msgstr " подписался на курс"
+
+#~ msgid " Minutes"
+#~ msgstr " Минут "
+
+#~ msgid " seconds"
+#~ msgstr " секунд "
+
+#~ msgid " minutes"
+#~ msgstr "минут"
+
+#~ msgid " Days"
+#~ msgstr " Дней"
+
+#~ msgid " hours"
+#~ msgstr " часов "
+
+#, fuzzy
+#~ msgid "Student %s applied for Course %s"
+#~ msgstr "Набранные балл слушателя"
+
+#, fuzzy
+#~ msgid "Student application %s for Course %s"
+#~ msgstr "Набранные балл слушателя"
+
+#, fuzzy
+#~ msgid "Student %s application %s for Course %s"
+#~ msgstr "Набранные балл слушателя"
+
+#~ msgid "Student "
+#~ msgstr "Слушатель  "
+
+#, fuzzy
+#~ msgid " started the course "
+#~ msgstr " начал(а) выполнять тест "
+
+#~ msgid "Course "
+#~ msgstr "Курс"
+
+#~ msgid " reset for student "
+#~ msgstr " - сброс для слушателя"
+
+#, fuzzy
+#~ msgid " retake by student "
+#~ msgstr "Повторное тестирование "
+
+#~ msgid " got a badge in the course "
+#~ msgstr " получил знак отличия на этом курсе"
+
+#~ msgid " got a certificate in the course "
+#~ msgstr " получил сертификат курса"
+
+#~ msgid " removed from the course "
+#~ msgstr " удален(а) из курса "
+
+#~ msgid "Student started the unit "
+#~ msgstr "Слушатель начал изучение этого модуля"
+
+#~ msgid " in course "
+#~ msgstr " курса "
+
+#~ msgid "Could not find Quiz results for User. Contact Admin."
+#~ msgstr ""
+#~ "Не получилось найти результаты теста для пользователя. Свяжитесь с "
+#~ "администратором."
+
+#~ msgid "Too Fast or Answer not marked."
+#~ msgstr "Слишком быстро или ответ не был выбран."
+
+#~ msgid "Answer Saved."
+#~ msgstr "Ответы сохранены."
+
+#~ msgid "Processing..."
+#~ msgstr "Обрабатываю..."
+
+#~ msgid "Saving Answer...please wait"
+#~ msgstr "Сохраняю ответы... пожалуйста подождите"
+
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+
+#, fuzzy
+#~ msgid "Save Course Settings"
+#~ msgstr "Настройки курса"
+
+#, fuzzy
+#~ msgid "Connect with Course"
+#~ msgstr "Продолжить курс"
+
+#, fuzzy
+#~ msgid "Select a Course"
+#~ msgstr "Выбрать курс"
+
+#, fuzzy
+#~ msgid "Student % submitted the assignment %s"
+#~ msgstr "Слушатель отправил тест"
+
+#~ msgid ""
+#~ "There was issue in removing this user from the Course. Please contact "
+#~ "admin."
+#~ msgstr ""
+#~ "Возникла проблема с удалением этого слушателя из курса. Пожалуйста, "
+#~ "свяжитесь с администратором."
+
+#, fuzzy
+#~ msgid "Annoucements"
+#~ msgstr "Инструкторы"
+
+#, fuzzy
+#~ msgid "Course Subscribed"
+#~ msgstr "Курс начал : "
+
+#, fuzzy
+#~ msgid "User added to Course"
+#~ msgstr "Слушатель удален из курса"
+
+#, fuzzy
+#~ msgid "User Starts a Course "
+#~ msgstr "Начать курс"
+
+#, fuzzy
+#~ msgid "Course Reset by Instructor"
+#~ msgstr "Все курсы по всем инструкторам"
+
+#, fuzzy
+#~ msgid "Course Retake by User"
+#~ msgstr "Сброс курса для пользователя"
+
+#, fuzzy
+#~ msgid "Course Submit"
+#~ msgstr "Название курса"
+
+#, fuzzy
+#~ msgid "Course Evaluation"
+#~ msgstr "Оценка курса слушателями"
+
+#, fuzzy
+#~ msgid "Course Reviews"
+#~ msgstr "Виджет-филтр курсов BuddyPress"
+
+#, fuzzy
+#~ msgid "Unsubscribe Course"
+#~ msgstr " подписался на курс"
+
+#, fuzzy
+#~ msgid "Quiz Start by user"
+#~ msgstr "Повторное тестирование "
+
+#, fuzzy
+#~ msgid "Quiz Submitted by user"
+#~ msgstr "Тест отправлен на проверку "
+
+#, fuzzy
+#~ msgid "Quiz Reset by Instructor"
+#~ msgstr "Выбрать инструктора"
+
+#, fuzzy
+#~ msgid "Quiz Retake by User"
+#~ msgstr "Повторное тестирование "
+
+#, fuzzy
+#~ msgid "Quiz Evaluation"
+#~ msgstr "Тест отправлен на проверку "
+
+#, fuzzy
+#~ msgid "Assignment Start by user"
+#~ msgstr "Сбросить задание для пользователя"
+
+#, fuzzy
+#~ msgid "Assignment Submitted by user"
+#~ msgstr "Слушатель отправил курс "
+
+#, fuzzy
+#~ msgid "Assignment Evaluation"
+#~ msgstr "На проверке"
+
+#~ msgid "Unlimited Duration"
+#~ msgstr "Неограниченная продолжительность"
+
+#~ msgid " got ="
+#~ msgstr " набрал(а) = "
+
+#~ msgid " for "
+#~ msgstr " на "
+
+#~ msgid " ago"
+#~ msgstr " назад "
+
+#~ msgid "Quiz "
+#~ msgstr "Тест "
+
+#~ msgid "FAILED TO MARK COURSE, CONTACT ADMIN"
+#~ msgstr "НЕ ПОЛУЧИЛОСЬ ПОМЕТИТЬ КУРС, СВЯЖИТЕСЬ С АДМИНИСТРАТОРОМ"
+
+#~ msgid " in Quiz"
+#~ msgstr " в тесте "
+
+#~ msgid " got "
+#~ msgstr " набрал "
+
+#~ msgid " in Quiz "
+#~ msgstr " в тесте "
+
+#, fuzzy
+#~ msgid "Instructor added Student "
+#~ msgstr "Инструктор добавил слушателя"
+
+#~ msgid "Instructor added "
+#~ msgstr "Инструктор добавил"
+
+#~ msgid " students in course "
+#~ msgstr " слушателей курса "
+
+#~ msgid " initiated quiz retake "
+#~ msgstr " повторно проходит тест "
+
+#~ msgid " in quiz "
+#~ msgstr " в тесте "
+
+#~ msgid "Quiz Auto Evaluated"
+#~ msgstr "Тест поверен автоматически "
+
+#~ msgid " with marks "
+#~ msgstr ", набранные баллы "
+
+#~ msgid "/"
+#~ msgstr "/"
+
+#~ msgid "Quiz %s submitted by student %s for evaluation"
+#~ msgstr " Тест %s отправлен слушателем %s на проверку"
+
+#~ msgid " days"
+#~ msgstr "дней"
+
+#~ msgid "Course expire warning notifications"
+#~ msgstr "Сертификат"
+
+#~ msgid "Quizes evaluated"
+#~ msgstr "Тест поверен автоматически "
+
+#~ msgid "Auto evaluated Course for Student"
+#~ msgstr "Автооценка курса для слушателя"
+
+#~ msgid "Student got a Certificate in the course "
+#~ msgstr "Слушатель получил сертификат курса "
+
+#~ msgid "Student submitted course for evaluation"
+#~ msgstr "Слушатель отправил курс на проверку"
+
+#, fuzzy
+#~ msgid "Marks"
+#~ msgstr "Оценка"
+
+#~ msgid "Back to Quiz"
+#~ msgstr "Вернуться к тесту"
+
+#~ msgid "MEMBERSHIP"
+#~ msgstr "УЧАСТНИКИ"
+
+#~ msgid "NOW"
+#~ msgstr "СЕЙЧАС"
+
+#~ msgid "Right now"
+#~ msgstr "Только что "
+
+#~ msgid "course"
+#~ msgstr "курс "
+
+#~ msgid "Action One"
+#~ msgstr "Действие один"
+
+#~ msgid "Action Two"
+#~ msgstr "Действие два"
+
+#~ msgid "Multiple high-fives"
+#~ msgstr "Несколько приветов "
+
+#~ msgid "%d new high-fives, multi-five!"
+#~ msgstr "%d поличил(а) новые приветы, много приветов!"
+
+#~ msgid "%s sent you a high-five!"
+#~ msgstr "%s отправил(а) Вам привет!"
+
+#~ msgid "%s high-fived you!"
+#~ msgstr "%s поприветствовал(а) Вас!"
+
+#~ msgid "in %s"
+#~ msgstr "в %s"
+
+#~ msgid "COURSE EXPIRED"
+#~ msgstr "ВРЕМЯ КУРСА ИСТЕКЛО"
+
+#~ msgid " got a caertificate in the course "
+#~ msgstr " сертификат об окончании курса"
+
+#~ msgid "Groups Directory"
+#~ msgstr "Список групп"
+
+#~ msgid "Group Name (required)"
+#~ msgstr "Название группы (обязательно)"
+
+#~ msgid "Group Description (required)"
+#~ msgstr "Описание группы (обязательно)"
+
+#~ msgid "This is a public group"
+#~ msgstr "Открытая группа"
+
+#~ msgid "Any site member can join this group."
+#~ msgstr "Любой пользователь сайта может присоединиться."
+
+#~ msgid ""
+#~ "This group will be listed in the groups directory and in search results."
+#~ msgstr "Группа будет отображаться в списке групп и результатах поиска."
+
+#~ msgid "Group content and activity will be visible to any site member."
+#~ msgstr "Материалы и активности группы будут видны всем пользователям сайта."
+
+#~ msgid "This is a private group"
+#~ msgstr "Закрытая группа"
+
+#~ msgid ""
+#~ "Only users who request membership and are accepted can join the group."
+#~ msgstr ""
+#~ "Только получившие и принявшие приглашение пользователи могут вступить в "
+#~ "её состав."
+
+#~ msgid ""
+#~ "Group content and activity will only be visible to members of the group."
+#~ msgstr "Материалы группы видны только участникам группы."
+
+#~ msgid "This is a hidden group"
+#~ msgstr "Скрытая группа"
+
+#~ msgid "Only users who are invited can join the group."
+#~ msgstr "Только приглашенные пользователи могут войти в её состав."
+
+#~ msgid ""
+#~ "This group will not be listed in the groups directory or search results."
+#~ msgstr "Группа не будет числиться в списке групп или результатах поиска."
+
+#~ msgid "Group Invitations"
+#~ msgstr "Приглашения войти в группу"
+
+#~ msgid "Which members of this group are allowed to invite others?"
+#~ msgstr "Кто из членов группы может приглашать других участников?"
+
+#~ msgid "All group members"
+#~ msgstr "Все"
+
+#~ msgid "Group admins and mods only"
+#~ msgstr "Администраторы и модераторы"
+
+#~ msgid "Group admins only"
+#~ msgstr "Только администраторы"
+
+#~ msgid "Group Forums"
+#~ msgstr "Форумы групп"
+
+#~ msgid "Should this group have a forum?"
+#~ msgstr "Нужно ли создать форум группы?"
+
+#~ msgid "Enable discussion forum"
+#~ msgstr "Открыть форум обсуждений"
+
+#~ msgid ""
+#~ "<strong>Attention Site Admin:</strong> Group forums require the <a href="
+#~ "\"%s\">correct setup and configuration</a> of a bbPress installation."
+#~ msgstr ""
+#~ "<strong>Вниманию администраторов сайта:</strong> Форумы групп требуют <a "
+#~ "href=\"%s\">корректной настройки и конфигурации</a> установленного "
+#~ "плагина bbPress."
+
+#~ msgid ""
+#~ "Upload an image to use as an avatar for this group. The image will be "
+#~ "shown on the main group page, and in search results."
+#~ msgstr ""
+#~ "Загрузить изображение для использования в качестве аватара группы. Он "
+#~ "будет отображаться на странице группы и в результатах поиска."
+
+#~ msgid "Upload Image"
+#~ msgstr "Загрузить изображение"
+
+#~ msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+#~ msgstr "Чтобы пропустить загрузку аватара, нажмите кнопку \"Далее\"."
+
+#~ msgid "Crop Group Avatar"
+#~ msgstr "Обрезать аватар группы"
+
+#~ msgid "Avatar to crop"
+#~ msgstr "Обрезать"
+
+#~ msgid "Avatar preview"
+#~ msgstr "Просмотр"
+
+#~ msgid "Crop Image"
+#~ msgstr "Обрезать изображение"
+
+#~ msgid "Select people to invite from your friends list."
+#~ msgstr "Выберите участников из списка своих друзей."
+
+#~ msgid "Remove Invite"
+#~ msgstr "Отозвать приглашение"
+
+#~ msgid ""
+#~ "Once you have built up friend connections you will be able to invite "
+#~ "others to your group."
+#~ msgstr ""
+#~ "Вы можете приглашать других участников в свою группу из списка своих "
+#~ "друзей."
+
+#~ msgid "Back to Previous Step"
+#~ msgstr "Назад"
+
+#~ msgid "Next Step"
+#~ msgstr "Далее"
+
+#~ msgid "Create Group and Continue"
+#~ msgstr "Создать группу и продолжить"
+
+#~ msgid "Finish"
+#~ msgstr "Готово"
+
+#~ msgid "Become a Teacher"
+#~ msgstr "Стать инструтором"
+
+#~ msgid "Newly Created"
+#~ msgstr "Новизне"
+
+#~ msgid "Requires completition of course "
+#~ msgstr "Требуется окончание курса"
+
+#~ msgid "Structure"
+#~ msgstr "Структура"
+
+#~ msgid "Units"
+#~ msgstr "Модули"
+
+#~ msgid "Related Courses"
+#~ msgstr "Связанные курсы"
+
+#~ msgid "Student finished the unit "
+#~ msgstr "Слушатель закончил этот модуль"
+
+#~ msgid "Assign Badges/Certificates to Students"
+#~ msgstr "Присвоить Знаки отличия/Сертификаты студентам"
+
+#~ msgid " out of 100 in Course :"
+#~ msgstr " из 100 в этом курсе : "
+
+#~ msgid "Security Check Failed ."
+#~ msgstr "Ошибка системы безопасности ."
+
+#~ msgid "Contact Site Admin."
+#~ msgstr "Свяжитесь с администратором сайта."
+
+#~ msgid " out of 100 in course "
+#~ msgstr " из 100 в этом курсе"
+
+#~ msgid "No Level Selected"
+#~ msgstr "Уровень не выбран"

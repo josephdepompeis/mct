@@ -1,0 +1,384 @@
+/**
+ * File: header.scss
+ * Description : Contains all styling for the WPLMS Headers
+ * Author: Mr.Vibe 
+ * Credits: www.VibeThemes.com
+ * Project: WPLMS
+ * version 2.0
+ **/
+/*========================================================================*/
+/*   TABLE OF CONTENT
+/*========================================================================*/
+/*
+/*    01. DEFAULTS
+/*    02. TOP HEADER 
+/*    02. MAIN HEADER 
+/*    03. HEADER VARIATION 1
+/*    04. HEADER VARIATION 2
+/*    05. HEADER VARIATION 3
+/*
+/*========================================================================*/
+/*   01. DEFAULTS
+/*========================================================================*/
+
+
+header{
+	display:block;
+	padding:0;
+	margin:0;
+	z-index: 99;
+	background: $headerbg;
+	&.sleek,&.mooc{
+		webkit-transition: all 0.6s ease-in-out;
+		-moz-transition: all 0.6s ease-in-out;
+		-o-transition: all 0.6s ease-in-out;
+		transition: all 0.6s ease-in-out;
+		&.fixed{
+	    	position:fixed;
+	    	left:0;
+	    	top:0;
+	    }
+	    .smallimg img{margin-top: -12px;}
+	}
+	.smallimg img{
+		height:20px;
+		width:20px;
+		border-radius:50%;
+		margin-right:8px;
+	}
+}
+
+.admin-bar{
+	header.fix{
+		&.fixed{
+			top:30px;
+		}
+	}
+}
+
+/*========================================================================*/
+/*   01. HEADER & NAVIGATION
+/*========================================================================*/
+
+
+
+/*========================================================================*/
+/*   01. HEADER SEARCH
+/*========================================================================*/
+
+header{
+	#searchform{
+
+		label,input[type="submit"]{
+			display: none;
+		}
+		&:after{
+			content: '';
+			position: absolute;
+			top: -15px;
+			height: 15px;
+			width: 15px;
+			right: 10px;
+			bottom: 0px;
+			border: 7px solid;
+			border-color: transparent transparent rgba(0,0,0,0.1) transparent;
+		}
+	}
+	#searchdiv{
+		display: none;
+		z-index: 999;
+		float:right;
+		color:#576972;
+		font-size:16px;
+		padding:28px 0 0;
+		&.active{
+			display: block !important;
+			#searchform{
+			    animation:  slideDown 0.2s ease-in-out;
+			    opacity: 1;
+			    z-index: 91;
+			}
+		}
+	}	
+	#searchicon{
+		float: right;
+		color: rgba(255,255,255,0.6);
+		padding: 30px 0;
+		cursor: pointer;
+	}
+	#searchform{
+		position: absolute;
+		width: 100%;
+		opacity: 0;
+		min-width: 200px;
+		top: 100%;
+		right: 0;
+		border-radius:4px;
+		background: #48575a;
+		padding: 3px;
+		label{display: none;}
+		input[type="text"]{
+			border: none;
+			background:#232b2d;
+			font-size: 20px;
+			padding: 12px;
+			font-size:14px;
+			width: 100%;
+			border-radius:2px;
+		}
+	}
+}
+
+
+
+/*========================================================================*/
+/*   01. TOP HEADER
+/*========================================================================*/
+
+
+#headertop{
+	background:#232b2d;
+	padding:8px 0;
+	font-size:11px;
+	text-transform: uppercase;
+	color:rgba(255,255,255,0.6);
+	.homeicon{
+		display: none;
+		img{
+			max-height: 20px;
+		}
+	}
+	&.fixed{
+		position: fixed;
+		width:100%;
+		top:0;
+		left:0;
+		z-index:9999;
+		-webkit-transition: all 0.5s;
+		-webkit-transform: translateZ(0); 
+		transition: all 0.5s;
+		.homeicon{display: block; float:left;}
+		& + header{
+			margin-top:36px;
+		}
+
+	}
+	li{
+		float:left;
+		margin-left:10px;
+		padding-left:10px;
+		border-left:1px solid #576972;
+		&:first-child{
+			border:none;
+		}
+		img.avatar{
+			width: 20px;
+		    height: 20px;
+		    border-radius: 50%;
+		    margin-right: 8px;
+		}
+	}
+
+	a{
+		color:rgba(255,255,255,0.6);
+	}
+	#username a{
+		word-break: break-all;
+	}
+	.topmenu{
+		float:right;
+	}
+}
+
+/*========================================================================*/
+/*   01. MOBILE MENU TRIGGER
+/*========================================================================*/
+
+#trigger{
+	cursor:pointer;
+	display: none;
+	position:absolute;
+	top:58px;
+	right:40px;
+	padding:0;
+	margin:0;
+	line-height:1;
+	user-select: none;
+	background:transparent;
+	border:none;
+	z-index: 99;
+	.lines {
+	  display: inline-block;
+	  position: relative;	
+	  width: 20px;
+	  height: 2px;
+	  background: #FFF;
+	  color: #FFF;
+	  /* Not in use when the colors are specified below */
+	  transition: 0.3s;
+	  &:before,&:after{
+  		display: inline-block;
+		width: 20px;
+		height: 2px;
+		background: #FFF;
+		transition: 0.3s;
+		position: absolute;
+		left: 0;
+		content: '';
+		-webkit-transform-origin: 17px center;
+		transform-origin: 17px center;
+	  }
+	  &:after{
+	  	top: -5px;
+	  }
+	  &:before{
+		top: 5px;
+	  }
+	}
+}
+.open{
+	#trigger{
+		z-index: -99;
+	}	
+	.lines{
+		background:transparent !important;
+		&:before,&:after{
+			-webkit-transform-origin: 50% 50%;
+			transform-origin: 50% 50%;
+			top: 0;
+			width: 32px;
+		}
+		&:before{
+			transform: rotate3d(0, 0, 1, 45deg);
+		}
+		&:after{
+			transform: rotate3d(0, 0, 1, -45deg);
+		}
+	}
+} 
+
+
+
+
+/*========================================================================*/
+/*   01. MAIN HEADER
+/*========================================================================*/
+
+
+.pusher {
+	position: relative;
+	left: 0;
+	width: 100%;
+	display:block;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	&::after{
+	    position: absolute;
+		top: 0;
+		right: 0;
+		width: 0;
+		height: 0;
+		content: '';
+		opacity: 0;
+		over-y:hidden;
+		transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
+	}
+}
+
+.open .pusher::after {
+	width: 100%;
+    height:100%;
+    opacity: 1;
+	transition: opacity 0.5s;
+}
+
+.open .pusher {
+	transform: translate3d(-220px, 0, 0);
+}
+
+/*========================================================================*/
+/*   03. SIDE LOGO
+/*========================================================================*/
+
+
+.pagesidebar {
+	z-index: 1;
+    color:#eee;
+    &::after {
+		display: none;
+	}
+	.widget li > a{
+	    padding:4px 0;
+	    display: inline-block;
+	}
+}
+
+.open .pagesidebar {
+	visibility: visible;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	box-shadow: inset 1px 0 0px rgba(0,0,0,0.1);
+    overflow-y:auto;
+}
+
+
+
+/*========================================================================*/
+/*   03. LOGO
+/*========================================================================*/
+
+
+#logo{
+	margin:6px 0 0;
+	padding:0;
+	transition: all 0.6s ease-in-out;
+	line-height:0;
+	display:inline-block;
+	img{
+		max-height:48px;	
+		width:auto;
+	}
+}
+
+
+#bpavatar+ul{
+	position: relative;
+	min-height: 102px;
+}
+
+#vibe_bp_login li#admin_panel_icon{
+	position: absolute;
+	bottom: 0;
+	font-size: 16px;
+	right: 0;
+	text-align: right;
+ 	i{
+		padding: 4px 8px;
+		line-height: 0;
+	}
+}
+
+/*========================================================================*/
+/*   03. SIDE LOGO
+/*========================================================================*/
+
+
+h2#sidelogo{
+	text-align: center;
+	max-height:32px;
+	margin-bottom:30px;
+}
+
+h2#sidelogo img{
+	display: inline-block;
+	max-height:32px;
+	opacity:0.2;
+}
+h2#sidelogo:hover img{
+	opacity:1;
+}
+
+.standard #alt_logo img{height:48px;padding:10px 0;}
+/*========================================================================*/
+/*   03. RESPONSIVE FIXES
+/*========================================================================*/
